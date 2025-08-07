@@ -627,13 +627,13 @@
               "width": "518.4pt",
               "height": "283.95pt",
               "context": "段落 (运行 0)",
-              "id": "embedded_obj_c4345b67",
+              "id": "embedded_obj_8ddf6767",
               "file_info": {
                 "size": 92195,
                 "content_type": "application/vnd.ms-visio.drawing"
               },
-              "preview_image": "images/embedded_preview_embedded_obj_c4345b67.emf",
-              "file_path": "embedded_objects/embedded_obj_c4345b67.json"
+              "preview_image": "images/embedded_preview_embedded_obj_8ddf6767.emf",
+              "file_path": "embedded_objects/embedded_obj_8ddf6767.json"
             },
             {
               "type": "paragraph",
@@ -650,7 +650,7 @@
           "content": [
             {
               "type": "image",
-              "url": "images/img_92738e40.png",
+              "url": "images/img_12416bb0.png",
               "format": "png",
               "width": 2035,
               "height": 684,
@@ -684,7 +684,7 @@
                 },
                 {
                   "type": "image",
-                  "url": "images/img_5caa0009.png",
+                  "url": "images/img_07fe3dd6.png",
                   "format": "png",
                   "width": 1275,
                   "height": 619,
@@ -693,7 +693,7 @@
                 },
                 {
                   "type": "image",
-                  "url": "images/img_51105b16.png",
+                  "url": "images/img_c378bc0e.png",
                   "format": "png",
                   "width": 1283,
                   "height": 881,
@@ -941,7 +941,7 @@
                           },
                           {
                             "type": "image",
-                            "url": "images/img_cec096bd.png",
+                            "url": "images/img_efbb35c9.png",
                             "format": "png",
                             "width": 1553,
                             "height": 476,
@@ -979,7 +979,7 @@
                           },
                           {
                             "type": "image",
-                            "url": "images/img_5405ae76.png",
+                            "url": "images/img_926f26db.png",
                             "format": "png",
                             "width": 858,
                             "height": 351,
@@ -1425,7 +1425,7 @@
                           },
                           {
                             "type": "image",
-                            "url": "images/img_9d06ad24.png",
+                            "url": "images/img_0949fc3b.png",
                             "format": "png",
                             "width": 739,
                             "height": 442,
@@ -1735,7 +1735,7 @@
                           },
                           {
                             "type": "image",
-                            "url": "images/img_59b14272.png",
+                            "url": "images/img_54164ddb.png",
                             "format": "png",
                             "width": 1389,
                             "height": 496,
@@ -1743,7 +1743,7 @@
                           },
                           {
                             "type": "image",
-                            "url": "images/img_04e3d8ef.png",
+                            "url": "images/img_b34ac285.png",
                             "format": "png",
                             "width": 749,
                             "height": 523,
@@ -1751,7 +1751,7 @@
                           },
                           {
                             "type": "image",
-                            "url": "images/img_29491aa4.png",
+                            "url": "images/img_4923239c.png",
                             "format": "png",
                             "width": 1876,
                             "height": 631,
@@ -3183,8 +3183,8 @@
                   ],
                   "diagram_type": "list",
                   "nodes": 13,
-                  "id": "smartart_24adcacf",
-                  "file_path": "smartart/smartart_24adcacf.json"
+                  "id": "smartart_1fe199dd",
+                  "file_path": "smartart/smartart_1fe199dd.json"
                 }
               ]
             },
@@ -3290,7 +3290,7 @@
                 },
                 {
                   "type": "image",
-                  "url": "images/img_d05e63f8.png",
+                  "url": "images/img_25227e14.png",
                   "format": "png",
                   "width": 1277,
                   "height": 375,
@@ -3364,7 +3364,7 @@
                 },
                 {
                   "type": "image",
-                  "url": "images/img_10290ec0.png",
+                  "url": "images/img_c88d9b38.png",
                   "format": "png",
                   "width": 1279,
                   "height": 231,
@@ -3480,7 +3480,7 @@
                 },
                 {
                   "type": "image",
-                  "url": "images/img_88d8ce48.png",
+                  "url": "images/img_081af32f.png",
                   "format": "png",
                   "width": 1375,
                   "height": 846,
@@ -3517,7 +3517,7 @@
                 },
                 {
                   "type": "image",
-                  "url": "images/img_1010457c.png",
+                  "url": "images/img_0d4aa08b.png",
                   "format": "png",
                   "width": 1085,
                   "height": 471,
@@ -3575,7 +3575,7 @@
                 },
                 {
                   "type": "image",
-                  "url": "images/img_930a2476.png",
+                  "url": "images/img_16d3e85b.png",
                   "format": "png",
                   "width": 1272,
                   "height": 296,
@@ -3892,7 +3892,7 @@
                 },
                 {
                   "type": "image",
-                  "url": "images/img_17f687bb.png",
+                  "url": "images/img_6c7d5e49.png",
                   "format": "png",
                   "width": 658,
                   "height": 51,
@@ -5579,7 +5579,7 @@
     }
   ],
   "processing_info": {
-    "timestamp": "2025-08-07 16:16:11",
+    "timestamp": "2025-08-07 16:22:25",
     "source_file": "BOM 审核申请.docx",
     "file_size_bytes": 1780292,
     "errors": [],
@@ -5589,135 +5589,135 @@
     "images_found": 15
   },
   "images": {
-    "img_92738e40": {
+    "img_12416bb0": {
       "type": "image",
-      "url": "images/img_92738e40.png",
+      "url": "images/img_12416bb0.png",
       "format": "png",
       "width": 2035,
       "height": 684,
       "size": "65.09 KB",
       "context": "段落 (运行 0)"
     },
-    "img_5caa0009": {
+    "img_07fe3dd6": {
       "type": "image",
-      "url": "images/img_5caa0009.png",
+      "url": "images/img_07fe3dd6.png",
       "format": "png",
       "width": 1275,
       "height": 619,
       "size": "62.77 KB",
       "context": "段落 (运行 0)"
     },
-    "img_51105b16": {
+    "img_c378bc0e": {
       "type": "image",
-      "url": "images/img_51105b16.png",
+      "url": "images/img_c378bc0e.png",
       "format": "png",
       "width": 1283,
       "height": 881,
       "size": "62.72 KB",
       "context": "段落 (运行 1)"
     },
-    "img_cec096bd": {
+    "img_efbb35c9": {
       "type": "image",
-      "url": "images/img_cec096bd.png",
+      "url": "images/img_efbb35c9.png",
       "format": "png",
       "width": 1553,
       "height": 476,
       "size": "80.52 KB",
       "context": "表格2单元格[4,3]"
     },
-    "img_5405ae76": {
+    "img_926f26db": {
       "type": "image",
-      "url": "images/img_5405ae76.png",
+      "url": "images/img_926f26db.png",
       "format": "png",
       "width": 858,
       "height": 351,
       "size": "40.74 KB",
       "context": "表格2单元格[5,1]"
     },
-    "img_9d06ad24": {
+    "img_0949fc3b": {
       "type": "image",
-      "url": "images/img_9d06ad24.png",
+      "url": "images/img_0949fc3b.png",
       "format": "png",
       "width": 739,
       "height": 442,
       "size": "105.02 KB",
       "context": "表格4单元格[3,2]"
     },
-    "img_59b14272": {
+    "img_54164ddb": {
       "type": "image",
-      "url": "images/img_59b14272.png",
+      "url": "images/img_54164ddb.png",
       "format": "png",
       "width": 1389,
       "height": 496,
       "size": "61.15 KB",
       "context": "表格4单元格[10,2]"
     },
-    "img_04e3d8ef": {
+    "img_b34ac285": {
       "type": "image",
-      "url": "images/img_04e3d8ef.png",
+      "url": "images/img_b34ac285.png",
       "format": "png",
       "width": 749,
       "height": 523,
       "size": "130.04 KB",
       "context": "表格4单元格[10,2]"
     },
-    "img_29491aa4": {
+    "img_4923239c": {
       "type": "image",
-      "url": "images/img_29491aa4.png",
+      "url": "images/img_4923239c.png",
       "format": "png",
       "width": 1876,
       "height": 631,
       "size": "157.75 KB",
       "context": "表格4单元格[10,2]"
     },
-    "img_d05e63f8": {
+    "img_25227e14": {
       "type": "image",
-      "url": "images/img_d05e63f8.png",
+      "url": "images/img_25227e14.png",
       "format": "png",
       "width": 1277,
       "height": 375,
       "size": "22.84 KB",
       "context": "段落 (运行 0)"
     },
-    "img_10290ec0": {
+    "img_c88d9b38": {
       "type": "image",
-      "url": "images/img_10290ec0.png",
+      "url": "images/img_c88d9b38.png",
       "format": "png",
       "width": 1279,
       "height": 231,
       "size": "12.87 KB",
       "context": "段落 (运行 0)"
     },
-    "img_88d8ce48": {
+    "img_081af32f": {
       "type": "image",
-      "url": "images/img_88d8ce48.png",
+      "url": "images/img_081af32f.png",
       "format": "png",
       "width": 1375,
       "height": 846,
       "size": "214.83 KB",
       "context": "段落 (运行 0)"
     },
-    "img_1010457c": {
+    "img_0d4aa08b": {
       "type": "image",
-      "url": "images/img_1010457c.png",
+      "url": "images/img_0d4aa08b.png",
       "format": "png",
       "width": 1085,
       "height": 471,
       "size": "110.83 KB",
       "context": "段落 (运行 0)"
     },
-    "img_930a2476": {
+    "img_16d3e85b": {
       "type": "image",
-      "url": "images/img_930a2476.png",
+      "url": "images/img_16d3e85b.png",
       "format": "png",
       "width": 1272,
       "height": 296,
       "size": "18.71 KB",
       "context": "段落 (运行 0)"
     },
-    "img_17f687bb": {
+    "img_6c7d5e49": {
       "type": "image",
-      "url": "images/img_17f687bb.png",
+      "url": "images/img_6c7d5e49.png",
       "format": "png",
       "width": 658,
       "height": 51,
