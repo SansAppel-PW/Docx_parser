@@ -1,0 +1,4253 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/新物料需求V2.0.docx",
+    "title": "",
+    "author": "王芳",
+    "created": "2021-01-30 09:04:00+00:00",
+    "modified": "2025-02-11 06:50:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "572.47 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "新物料需求",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-09"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-09"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1.0"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "叶颖"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0流程迁移"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 3",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建申请（WPR-10） 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 流程表达式- Set Participants 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 主管审核（WPR-20） 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 CE选型（WPR-30） 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 选型反馈（WPR-40） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 条件表达式- confirm or Teminate 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.7 条件表达式- Exist, Preferred, Selection, New Manufacturer 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 制造商申请（WPR-41） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.9 选型审批(物料选型)（WPR-41） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.10 审批确认（WPR-50） 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.11 条件表达式- Completed, Uncompleted 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.12 条件表达式- 计时器 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.13 料号申请（WPR-60） 6",
+              "level": 2,
+              "content": [
+                {
+                  "type": "section",
+                  "title": "3.13.1 页面显示和逻辑 6",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "3.13.2 功能按钮 6",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "3.13.3 系统校验项 6",
+                  "level": 3,
+                  "content": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "3.14 流程表达式- Save Data 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.15 流程表达式- 设置流程状态 7",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "502.25pt",
+              "height": "327.65pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_61ecf812",
+              "size": "104.42 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_61ecf812.emf",
+              "file_path": "embedded_objects/embedded_obj_61ecf812.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_d056f600.png",
+              "format": "png",
+              "width": 1410,
+              "height": 988,
+              "size": "44.87 KB",
+              "context": "段落 (运行 0)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "http://plmuat.hikvision.com/Windchill/ptc1/hermes?processType=NMR&pboid=com.ptc.windchill.suma.npi.WTPartRequest:2430412338&wfoid=wt.workflow.engine.WfProcess:2423609268",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "section",
+              "title": "创建申请（WPR-10）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "页面原型：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_ebb76bb8.png",
+                  "format": "png",
+                  "width": 1274,
+                  "height": 757,
+                  "size": "74.54 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "【属性】字段定义",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料组"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项：只显示原材料的物料大类/物料组 若为配置表内的物料组时，增加显示物料认证需求、物料认证标准、产品认证需求三个属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：《物料大类/组配置》-> 《新物料需求显示认证属性》"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*上下文"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项：物料组匹配的上下文 先选择物料组，才能选择上下文。提示：请选择物料组! 校验申请人上下文权限。提示：你没有上下文的权限【XXX】"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：《分类与上下文关系》"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*项目编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "通过接口查询获取，无项目号时选Null 由项目编号带出产品认证需求，物料认证需求，物料认证标准字段值；可编辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "集成系统：iRDMS"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "预估用量"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "正实数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "人工输入"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "单位：pcs/月"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "参考价格"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "正实数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "人工输入"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "单位：RMB/pcs"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*是否指定新制造商"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项：是|否"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "若“是否指定新制造商”选择了“是”，则“指定制造商审批材料”、“参考制造商名称”和“参考制造商型号”必填。"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交系统校验项",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前端校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验必填项"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "按申请人所在部门校验流程角色配置，避免流程设置参与者失败： 器件工程师—根据物料组获取配置的参与者，有物料组匹配的优先获取，没有则根据大类匹配；若申请人为萤石用户，则校验萤石的配置人员；其他则校验产品研发中心的配置人员 直接主管-OA(HR)部门管理者"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- Set Participants",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置流程参与者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "直接主管取流程创建者的直接主管（主管审核节点责任人） 器件工程师，根据物料组、器件工程师角色取物料组角色配置中的人（CE选型节点责任人）；若申请人为萤石用户，则取萤石的配置人员；其他取产品研发中心的配置人员"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "主管审核（WPR-20）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "1、前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_8b67b35d.png",
+                  "format": "png",
+                  "width": 1270,
+                  "height": 168,
+                  "size": "9.88 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2、主管审核通过后，邮件抄送物料组对应的资源工程师，邮件模板如下：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "主题：【通知】XXX提交了新物料需求申请单，请知晓(Notice：XXX submit New Material Require Application.)",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "亲爱的同事：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "主题（Title）：XXXX",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "流程单号（Process Number）：XXXX",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "请用下面链接打开文件（Please click on the link below.）：点此查看详情",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "CE选型（WPR-30）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "页面原型：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1、修改路由：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（1）“完成，同时触发制造商申请和选型审批”修改为“完成，导入指定/项目/二级制造商”，跳转制造评估和选型审批节点，分别触发制造商申请流程和选型审批流程。",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（2）“完成，同时触发选型审批”修改为“完成，触发选型审批”。",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2、增加路由：“完成，触发制造商评估”，跳转制造商评估节点，触发制造商选择流程，不触发选型审批流程。不需要显示“制造商”模块内容。",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3、制造商模块修改列：“需求产生的文件”修改为“规格书”。",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_b669d682.png",
+                  "format": "png",
+                  "width": 1246,
+                  "height": 537,
+                  "size": "60.88 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "新增“完成，触发制造商评估”路由界面：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_832c547e.png",
+                  "format": "png",
+                  "width": 1819,
+                  "height": 363,
+                  "size": "35.41 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "【选型意见】字段逻辑",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 5,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "显示字段（或【布局栏】）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "建议会签人, 期望完成日期"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【需求产生的物料】"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【制造商】"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "建议会签人, 期望完成日期"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【需求产生的物料】"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 5,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求产生的文件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "退回，填写不规范"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 5,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "终止，需求不合理"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 5,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成，现有代码"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "v，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 5,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成，从优选制造商导入无需审批"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 5,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成，同时触发选型审批 完成，触发选型审批"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 5,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成，同时触发制造商申请和选型审批 完成，导入指定/项目/二级制制造商"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 5,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成，触发制造商评估"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 4,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 5,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "会签人建议"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "V，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 4,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 5,
+                        "content": []
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "【制造商】字段逻辑",
+                  "level": 0,
+                  "prefix": "4. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 6,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "触发制造商申请"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "触发选型审批"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成，从优选制造商导入无需审批"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=否，不可编辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=否，不可编辑"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成，同时触发选型审批"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=否，不可编辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=是，可编辑"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成，同时触发制造商申请和选型审批"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=是，可编辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=是，可编辑"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "若列表中的制造商申请或选型审批申请流程已被触发，则该行信息不允许移除。在点击移除时，系统报错： 选择的行中，存在数据行已关联的流程，不能被删除！",
+                  "level": 0,
+                  "prefix": "5. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "重新选择路由时，所显示的字段、布局栏，所填写的字段值全部重新刷新",
+                  "level": 0,
+                  "prefix": "6. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "系统校验项",
+                  "level": 0,
+                  "prefix": "7. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 7,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【制造商】栏里的制造商若不在优选清单里，则触发选型审批不能选择No。否则系统报错：制造商[]不在优选清单，触发优选审批不能选择“No”"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "报错类"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=完成，现有代码， 系统校验【需求产生的物料】栏内容是否为非空。若为空，则提示“请至少添加一个现有IPN/MPN作为需求产生的对象”"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "报错类"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=完成，从优选制造商导入无需审批 校验【制造商】栏里的触发制造商申请，触发选型审批必须全部选择\"No\" 校验表格行<需求产生的文件>是否为非空。若为空，则系统报错：请上传技术规格文件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "报错类"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=完成，同时触发选型审批 校验【制造商】栏是否为非空。若为空，则系统报错：请至少添加一条制造商数据！ 校验【制造商】栏里的触制造商申请必须全部为No，选型审批至少有一条为Yes。否则，系统报错 校验表格行<需求产生的文件>是否为非空。若为空，则系统报错：请上传技术规格文件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "报错类"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=完成，同时触发制造商申请和选型审批 校验【制造商】栏是否为非空。若为空，则系统报错：请至少添加一条制造商数据！ 校验【制造商】栏里的触发制造商申请至少有一条选择\"Yes\",触发选型审批至少有一条选择\"Yes\". 校验表格行<需求产生的文件>是否为非空。若为空，则系统报错：请上传技术规格文件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "报错类"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=会签人建议 校验【建议会签人】字段是否为空。若为空，则系统报错：请选择建议会签人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "报错类"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "选型反馈（WPR-40）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_c23c6288.png",
+                  "format": "png",
+                  "width": 1277,
+                  "height": 165,
+                  "size": "10.68 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "选型反馈”节点提交时增加制造商状态校验及提示功能：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "逻辑：当管理状态=临时03|风险02|合格04|待淘汰07，流程提交时弹框可继续的提示；",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "提示语：该制造商为非优选{风险}池，请谨慎评估，选择后需增加审批环节，确定继续？",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "逻辑：当管理状态=空，点击选择后弹框可继续的提示",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "提示语：该制造商未在当前分类所属制造商池，请谨慎评估，确定继续？",
+                  "bold": true,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- confirm or Teminate",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- Exist, Preferred, Selection, New Manufacturer",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "制造商申请 制造商评估（WPR-50）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "section",
+                  "title": "当CE选型路由≠完成，触发制造商评估，页面及逻辑不变",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "text": "页面原型：参考MOCKPLUS",
+                      "level": 0,
+                      "prefix": "8. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "image",
+                      "url": "images/img_48101751.png",
+                      "format": "png",
+                      "width": 1275,
+                      "height": 188,
+                      "size": "12.33 KB",
+                      "context": "段落 (运行 0)"
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "字段逻辑",
+                      "level": 0,
+                      "prefix": "9. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "table",
+                      "index": 8,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "字段"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "功能"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "备注"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "制造商，制造商型号，物料实际认证"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "CE选型中填写的需要制造商申请的制造商信息"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 2,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "制造商申请结果"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "取值于触发的制造商申请流程信息，不可编辑"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 2,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "制造商申请结果"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "显示制造商申请单状态 点击“待办”触发制造商申请单。基本信息要从新物料需求流程中自动带过去，规则参照现有流程"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 2,
+                            "content": []
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "节点系统校验项",
+                      "level": 0,
+                      "prefix": "10. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "table",
+                      "index": 9,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "校验项"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "备注"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "关联的制造商申请流程未完成，当前任务不能提交！"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "备注：此节点也支持系统自动结束"
+                              }
+                            ]
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "当CE选型路由=完成，触发制造商评估，优化该节点",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "text": "页面原型：参考MOCKPLUS",
+                      "level": 0,
+                      "prefix": "11. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "image",
+                      "url": "images/img_b58f9a05.png",
+                      "format": "png",
+                      "width": 1236,
+                      "height": 144,
+                      "size": "15.55 KB",
+                      "context": "段落 (运行 0)"
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "字段逻辑",
+                      "level": 0,
+                      "prefix": "12. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "table",
+                      "index": 10,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "字段"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "功能"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "备注"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "制造商，制造商型号，物料实际认证、规格书"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "由制造商选择流程带出"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "所有推荐制造商的基本信息，推荐几个就显示几条"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "制造商选择结果"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "通过|不通过，取值于触发的制造商选择流程信息，不可编辑"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "制造商选择-制造商申请（MPS130）节点的制造商结果为“通过”，除此之外的所有制造商结果为“不通过”"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "制造商申请结果"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "无流程|制造商申请流程状态"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "若制造商选择流程没有触发对应制造商申请，则显示“无流程”，否则显示对应制造商申请流程状态"
+                              }
+                            ]
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "节点系统校验项",
+                      "level": 0,
+                      "prefix": "13. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "table",
+                      "index": 11,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "校验项"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "备注"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "关联的制造商选择流程未完成，当前任务不能提交！"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "备注：此节点也支持系统自动结束"
+                              }
+                            ]
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "选型审批(物料选型)（WPR-50）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "页面原型：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "14. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_306303de.png",
+                  "format": "png",
+                  "width": 1279,
+                  "height": 196,
+                  "size": "12.13 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "字段逻辑",
+                  "level": 0,
+                  "prefix": "15. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 12,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商，制造商型号，物料实际认证"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "CE选型中填写的需要选型审批的制造商信息"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选型审批结果"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "取值于触发的物料选型流程信息，不可编辑 点击“待办”触发物料选型申请单。基本信息要从新物料需求流程中自动带过去，规则参照现有流程"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": []
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "节点系统校验项",
+                  "level": 0,
+                  "prefix": "16. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 13,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "关联的物料选型流程未完成，当前任务不能提交！"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注：此节点也支持系统自动结束"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "审批确认（WPR-60）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_802eaf82.png",
+                  "format": "png",
+                  "width": 1279,
+                  "height": 164,
+                  "size": "10.71 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "制造商资源池配置（WPR-70）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "当CE选型环节，触发制造商资源池评定选型为“Yes”时，显示此节点；为“No”时跳过此节点；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "流程节点给到负责人：当前流程配置的器件工程师；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_55c0a9ae.png",
+                  "format": "png",
+                  "width": 1848,
+                  "height": 320,
+                  "size": "27.50 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（1）【属性】字段定义",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "table",
+                  "index": 14,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "单选框"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当路由为“启动”时，跳出“制造商资源池评定”流程入口，点击后发起流程，并关联至新物料需求流程此节点，需制造商资源池评定流程结束后，才可结束此节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "不启动"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "单选框"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当路由为“不启动”时，意见栏必填，点击可结束此节点，流程下行；"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "终止"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "单选框"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当路由为“终止”时，新物料需求流程整体终止"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "文本框"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Placeholder：若路由选不启动，请输入意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商资源池配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "创建制造商资源池评定流程"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "按钮"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商库：当前租户 物料组：当前物料组 制造商：当前制造商 维护类型：变更或新增"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商资源池配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动流程的流程编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商资源池配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程主题"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "{WPR00000001}触发{股份公司库}{100101 贴片电阻}{200643 杭州海康蓝博电器有限公司}"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商资源池配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "状态"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动流程的状态，默认临时"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商资源池配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当前任务"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动流程的任务节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商资源池配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当前任务处理人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动流程的任务处理人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商资源池配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "创建人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当前流程配置的器件工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商资源池配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "创建时间"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动流程的创建时间"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 4,
+                        "content": []
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- Completed, Uncompleted",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- 计时器",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "判断所有前置任务是否完成，分为两种情况：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.从非优选制造商导入新物料 / 从优选制造商导入新物料且需要选型审批 判断物料选型子流程是否完成",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.现有厂家不满足导入新制造商，则判断物料选型和制造商导入流程是否完成",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "料号申请（WPR-80）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "17. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_00a2e79f.png",
+                  "format": "png",
+                  "width": 1277,
+                  "height": 189,
+                  "size": "15.81 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "字段逻辑",
+                  "level": 0,
+                  "prefix": "18. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 15,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "业务逻辑"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "创建料号申请单"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能按钮"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "页面转到物料料号申请单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "添加"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能按钮"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只能添加与新需求流程表单基本信息里填写的物料组一致的物料，且该物料未关联其他的新物料需求流程"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "料号申请结果"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "从物料料号申请流程返回的流程状态，带超链接"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "系统校验项",
+                  "level": 0,
+                  "prefix": "19. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 16,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "系统自动校验项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验类型"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "通过搜索物料编号添加申请单信息时，所添加物料的物料组必须与新物料需求流程表单信息里的物料组一致；且该物料未关联其他的新物料需求流程。否则，系统报错：成熟的新机电料、电子料导入必须从‘新物料需求’流程开始，对于先于新物料需求创建的物料，只能添加XX同物料组物料，未关联其他重复XX流程的IPN物料。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "报错类"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "关联的物料料号申请流程未结束时，此任务节点不允许结束。此时，点击完成任务，系统报错：关联的物料申请流程未完成，当前任务不能提交！"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "报错类"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- Save Data",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "搭建流程和制造商的关系，搭建新建物料和流程的关系",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置流程状态",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 17,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "操作/节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交流程后"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置PBO状态-正在审阅"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选型反馈完成后"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置PBO状态实施"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程结束"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置PBO状态-已发布"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程驳回修改节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置PBO状态-WIP"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "取消流程"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置PBO状态-已取消"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:36",
+    "source_file": "新物料需求V2.0.docx",
+    "file_size_bytes": 586210,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 142,
+    "tables_found": 18,
+    "images_found": 14
+  },
+  "images": {
+    "img_5e3d1dd4": {
+      "type": "image",
+      "url": "images/img_5e3d1dd4.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 新物料需求 (PL... (运行 0)"
+    },
+    "img_882584b2": {
+      "type": "image",
+      "url": "images/img_882584b2.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 新物料需求 (PL... (运行 0)"
+    },
+    "img_d056f600": {
+      "type": "image",
+      "url": "images/img_d056f600.png",
+      "format": "png",
+      "width": 1410,
+      "height": 988,
+      "size": "44.87 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_ebb76bb8": {
+      "type": "image",
+      "url": "images/img_ebb76bb8.png",
+      "format": "png",
+      "width": 1274,
+      "height": 757,
+      "size": "74.54 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_8b67b35d": {
+      "type": "image",
+      "url": "images/img_8b67b35d.png",
+      "format": "png",
+      "width": 1270,
+      "height": 168,
+      "size": "9.88 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_b669d682": {
+      "type": "image",
+      "url": "images/img_b669d682.png",
+      "format": "png",
+      "width": 1246,
+      "height": 537,
+      "size": "60.88 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_832c547e": {
+      "type": "image",
+      "url": "images/img_832c547e.png",
+      "format": "png",
+      "width": 1819,
+      "height": 363,
+      "size": "35.41 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_c23c6288": {
+      "type": "image",
+      "url": "images/img_c23c6288.png",
+      "format": "png",
+      "width": 1277,
+      "height": 165,
+      "size": "10.68 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_48101751": {
+      "type": "image",
+      "url": "images/img_48101751.png",
+      "format": "png",
+      "width": 1275,
+      "height": 188,
+      "size": "12.33 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_b58f9a05": {
+      "type": "image",
+      "url": "images/img_b58f9a05.png",
+      "format": "png",
+      "width": 1236,
+      "height": 144,
+      "size": "15.55 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_306303de": {
+      "type": "image",
+      "url": "images/img_306303de.png",
+      "format": "png",
+      "width": 1279,
+      "height": 196,
+      "size": "12.13 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_802eaf82": {
+      "type": "image",
+      "url": "images/img_802eaf82.png",
+      "format": "png",
+      "width": 1279,
+      "height": 164,
+      "size": "10.71 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_55c0a9ae": {
+      "type": "image",
+      "url": "images/img_55c0a9ae.png",
+      "format": "png",
+      "width": 1848,
+      "height": 320,
+      "size": "27.50 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_00a2e79f": {
+      "type": "image",
+      "url": "images/img_00a2e79f.png",
+      "format": "png",
+      "width": 1277,
+      "height": 189,
+      "size": "15.81 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

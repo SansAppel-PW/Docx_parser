@@ -1,0 +1,3233 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/材料相关流程优化_详细设计方案_V0.4.docx",
+    "title": "",
+    "author": "",
+    "created": "2022-04-26 06:57:00+00:00",
+    "modified": "2022-05-12 05:45:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "1659.87 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "材料相关流程优化 详细设计方案"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 4,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 5,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 6,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 7,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 8,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 9,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 10,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 11,
+                "col": 0,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 12,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "杭州海康威视数字技术股份有限公司"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 13,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "www.hikvision.com"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "文档属性",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "image",
+          "url": "images/img_60f46450.jpg",
+          "format": "jpg",
+          "width": 295,
+          "height": 44,
+          "size": "10.22 KB",
+          "context": "段落: 文档属性... (运行 0)"
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文档名称"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "状态"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "材料相关流程优化_详细设计方案.docx"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "初稿 / 审核 / 定稿"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "变更记录",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 2,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "日期"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作者"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "描述"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022.04. 11"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "张小光"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "0.1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022.04. 12"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "张小光"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "0.2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022.04. 26"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "张小光"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "0.3"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 3,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 4,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 4,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 4,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 4,
+                "col": 3,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 5,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 5,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 5,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 5,
+                "col": 3,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 6,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 6,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 6,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 6,
+                "col": 3,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 7,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 7,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 7,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 7,
+                "col": 3,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "文档审核",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 3,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审核日期"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审核"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审核意见"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 4,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 4,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 4,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 5,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 5,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 5,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 6,
+                "col": 0,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 6,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 6,
+                "col": 2,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 需求 4",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 详细设计说明书 4",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "2.1 概述 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "2.2 与IRDMS交互相关 4",
+              "level": 2,
+              "content": [
+                {
+                  "type": "section",
+                  "title": "2.2.1 触发材料申请流程 4",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "2.2.2 新增材料信息查询接口 4",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "2.2.3 新增材料优选等级更新接口 5",
+                  "level": 3,
+                  "content": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "2.3 材料相关流程优化 6",
+              "level": 2,
+              "content": [
+                {
+                  "type": "section",
+                  "title": "2.3.1 材料申请流程优化 6",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "2.3.2 材料认证流程 9",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "2.3.3 材料维护流程 12",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "2.3.4 制造商部件申请流程优化 14",
+                  "level": 3,
+                  "content": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "需求",
+          "level": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "材料相关流程优化需求。",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "详细设计说明书",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "概述",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "基于现有业务逻辑调整IT业务流程。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "与IRDMS交互相关",
+              "level": 2,
+              "content": [
+                {
+                  "type": "section",
+                  "title": "触发材料申请流程",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "提供触发材料申请流程的链接，链接中增加“材料名称”、“制造商”、“制造商材料牌号”、“工艺流程单号”等参数信息。",
+                      "bold": false,
+                      "italic": false
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "http://plm.hikvision.com/Windchill/ptc1/createQualitySelection? materialName=",
+                      "bold": false,
+                      "italic": false
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "XXX? manufacturer =xxxxx? manufacturer =xxxxx? flowNumber=XXXX",
+                      "bold": false,
+                      "italic": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "材料名称：文本内容",
+                      "level": 0,
+                      "prefix": "1. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "制造商：发制造商编码或供应商编码",
+                      "level": 0,
+                      "prefix": "2. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "制造商牌号：文本内容",
+                      "level": 0,
+                      "prefix": "3. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "工艺流程单号：文本",
+                      "level": 0,
+                      "prefix": "4. ",
+                      "is_bullet": false
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "新增材料信息查询接口",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "PLM提供材料信息查询接口，提供给IRDMS系统查询材料相关信息；接口需支持模糊查询。（仅能查询申请人有权限查询的材料信息）",
+                      "bold": false,
+                      "italic": false
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "另外该接口需支持批量查询，如输入为多个材料编码值。",
+                      "bold": false,
+                      "italic": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "上游系统：IRDMS系统",
+                      "level": 0,
+                      "prefix": "5. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "下游系统：PLM系统",
+                      "level": 0,
+                      "prefix": "6. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "接口输入：",
+                      "level": 0,
+                      "prefix": "7. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "table",
+                      "index": 4,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "字段名称（中文）"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "字段名称（英文）"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "属性"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 3,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "备注"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "申请人"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "apply"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 3,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "创建者"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "creater"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 3,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "材料编码"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "materialNumber"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 3,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 4,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "材料名称"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 4,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "materialName"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 4,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 4,
+                            "col": 3,
+                            "content": []
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "接口返回：",
+                      "level": 0,
+                      "prefix": "8. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "table",
+                      "index": 5,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "字段名称（中文）"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "字段名称（英文）"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "属性"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 3,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "备注"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "材料编码"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "materialNumber"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 3,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "材料名称"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "materialName"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 3,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "材料状态"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "status"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 3,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 4,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "材料版本"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 4,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "version"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 4,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 4,
+                            "col": 3,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 5,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "材料类型"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 5,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "materialType"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 5,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 5,
+                            "col": 3,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "塑料/金属/橡胶…"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 6,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "材料组"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 6,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "materialGroup"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 6,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 6,
+                            "col": 3,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "ABS/PC…"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 7,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "优选等级"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 7,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "preferredLevel"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 7,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 7,
+                            "col": 3,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 8,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "对象url"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 8,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "url"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 8,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 8,
+                            "col": 3,
+                            "content": []
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "新增材料优选等级更新接口",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "PLM提供材料优选等级更新接口，提供给IRDMS系统通过接口更新材料的优选等级属性。(允许批量更新)",
+                      "bold": false,
+                      "italic": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "上游系统：IRDMS系统",
+                      "level": 0,
+                      "prefix": "9. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "下游系统：PLM系统",
+                      "level": 0,
+                      "prefix": "10. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "接口输入：",
+                      "level": 0,
+                      "prefix": "11. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "table",
+                      "index": 6,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "字段名称（中文）"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "字段名称（英文）"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "属性"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 3,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "备注"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "流程编码"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "flowno"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 3,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "IRDMS工艺材料流程编码"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "材料编码"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "materialNumber"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 2,
+                            "col": 3,
+                            "content": []
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "优选等级"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "preferredLevel"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "string"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 3,
+                            "col": 3,
+                            "content": []
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "接口返回：",
+                      "level": 0,
+                      "prefix": "12. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "成功/失败",
+                      "bold": false,
+                      "italic": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "PLM执行动作：",
+                      "level": 0,
+                      "prefix": "13. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "PLM将接口输入的材料编码的优选等级更新为接口输入中的值，同时升级材料小版本，升级版本备注为接口输入中的流程编码。",
+                      "bold": false,
+                      "italic": false
+                    },
+                    {
+                      "type": "image",
+                      "url": "images/img_6f8e04be.png",
+                      "format": "png",
+                      "width": 565,
+                      "height": 238,
+                      "size": "25.59 KB",
+                      "context": "段落 (运行 0)"
+                    },
+                    {
+                      "type": "image",
+                      "url": "images/img_c0f5040c.png",
+                      "format": "png",
+                      "width": 997,
+                      "height": 248,
+                      "size": "44.90 KB",
+                      "context": "段落 (运行 0)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "材料相关流程优化",
+              "level": 2,
+              "content": [
+                {
+                  "type": "section",
+                  "title": "材料申请流程优化",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "section",
+                      "title": "流程图优化",
+                      "level": 4,
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "text": "原流程：",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_11b5e7ca.png",
+                          "format": "png",
+                          "width": 944,
+                          "height": 531,
+                          "size": "73.60 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "材料申请流程优化后的流程图如下：",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_301800d4.png",
+                          "format": "png",
+                          "width": 1330,
+                          "height": 729,
+                          "size": "59.93 KB",
+                          "context": "段落 (运行 0)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "section",
+                      "title": "详细优化内容",
+                      "level": 4,
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "text": "材料申请流程的优化如下：",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "申请环节：",
+                          "level": 0,
+                          "prefix": "14. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_c8302d77.png",
+                          "format": "png",
+                          "width": 832,
+                          "height": 676,
+                          "size": "114.94 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "基本属性“优选等级”默认为慎选,增加“IRDMS工艺材料流程单号”。",
+                          "level": 1,
+                          "prefix": "    14.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_63669e74.png",
+                          "format": "png",
+                          "width": 856,
+                          "height": 612,
+                          "size": "69.84 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "材料选型路由",
+                          "level": 1,
+                          "prefix": "    14.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "结构材料：",
+                          "level": 2,
+                          "prefix": "        14.2.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "选【新材料】时，需选填iRDMS流程单号，若由iRDMS流程触发，自动将其对应字段和资料带至PLM申请环节界面，检查过后手动提交；",
+                          "level": 3,
+                          "prefix": "            14.2.1.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "选【已导入】创建新颜色时，选择现有材料编号，输入目标颜色，自动带出现有材料的基本属性、材料物性表、合规检测报告、原材料验证报告（非必选）；选择已导入时，选择已有参考材料后，除材料名称及分类属性中的海康颜色号、海康颜色号、原厂配色值外，其他属性不可编辑。（仅是塑料材料时才有该路由）",
+                          "level": 3,
+                          "prefix": "            14.2.1.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "其他材料：路由仅能选择新材料。",
+                          "level": 2,
+                          "prefix": "        14.2.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "MPN列表",
+                          "level": 1,
+                          "prefix": "    14.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "可添加或移除MPN对象。需采用PLM2.0风格定义界面。",
+                          "level": 2,
+                          "prefix": "        14.3.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "物料类型为“材料”",
+                          "level": 2,
+                          "prefix": "        14.3.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_619f11b0.png",
+                          "format": "png",
+                          "width": 975,
+                          "height": 595,
+                          "size": "42.20 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "校验逻辑：塑胶新材料，MPN必填，其他非必填。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "文档列表：",
+                          "level": 1,
+                          "prefix": "    14.4. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "UL证书&材料物性表&合规检测报告：",
+                          "level": 2,
+                          "prefix": "        14.4.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_d9bfbce3.png",
+                          "format": "png",
+                          "width": 432,
+                          "height": 266,
+                          "size": "17.47 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "合规检测报告：合规类开头的文档类型",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "对于塑胶材料：这三类文档必填",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "对于其他材料：UL证书、材料物性表非必填",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "原材料验证报告：",
+                          "level": 2,
+                          "prefix": "        14.4.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "塑胶材料：",
+                          "level": 0,
+                          "prefix": "15. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "路由选择已导入时，原材料验证报告非必填",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "路由选择新材料：原材料验证报告必填。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "其他材料：非必填",
+                          "level": 0,
+                          "prefix": "16. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "文档状态切换逻辑：对于文档状态是WIP的文档，流程提交后切换为正在审阅；流程驳回后，切换为重新工作；流程执行后，切换为已发布。对于状态为已发布的文档，状态不切换。",
+                          "level": 2,
+                          "prefix": "        16.0.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "其他逻辑：",
+                          "level": 1,
+                          "prefix": "    16.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "塑胶材料",
+                          "level": 2,
+                          "prefix": "        16.1.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "新材料路由时：调整材料类型、材料组时，除材料名称、制造商、制造商型号信息、优选等级外，其他属性需请空，文档列表不清空。",
+                          "level": 3,
+                          "prefix": "            16.1.1.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "新材料切换到已导入路由时，待选择推荐材料编码后，刷新属性及相关文档",
+                          "level": 3,
+                          "prefix": "            16.1.1.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "已导入切换到新材料时，调整材料类型、材料组时，除材料名称、制造商、制造商型号信息、优选等级外，其他属性及文档列表需请空。",
+                          "level": 3,
+                          "prefix": "            16.1.1.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "在已导入路由下，除材料名称、选型路由、推荐材料编码以及分类属性中的海康颜色号、海康颜色名（由海康颜色号带出）、原厂配色、选型推荐理由外，其他属性不可修改 。",
+                          "level": 3,
+                          "prefix": "            16.1.1.4. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "其他材料（只有新材料路由）：在选择推荐材料编码后，将该材料编码的属性（除名称外的属性）刷新到页面上，并且可编辑。",
+                          "level": 2,
+                          "prefix": "        16.1.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "驳回修改环节时，材料类型不可修改，其他信息可修改。",
+                          "level": 2,
+                          "prefix": "        16.1.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "规范性审核环节：",
+                          "level": 0,
+                          "prefix": "17. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_caf13c53.png",
+                          "format": "png",
+                          "width": 1080,
+                          "height": 600,
+                          "size": "58.85 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节处理人由配置表配置（不同材料类型配置不同的人员）",
+                          "level": 1,
+                          "prefix": "    17.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_637247ea.png",
+                          "format": "png",
+                          "width": 1332,
+                          "height": 567,
+                          "size": "98.21 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节可编辑材料(材料类型、材料组不可编辑)属性信息，读取下载相关文档。",
+                          "level": 1,
+                          "prefix": "    17.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "材料类型及材料组、选型路由不可修改；对于新材料，其他属性可修改；对于已导入，所有属性不可修改。",
+                          "level": 2,
+                          "prefix": "        17.2.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "文档可添加，不可修改。",
+                          "level": 2,
+                          "prefix": "        17.2.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "路由：",
+                          "level": 1,
+                          "prefix": "    17.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "通过：抄送邮件至申请人主管和结构专业组组长，生成材料代码。（自动触发的认证流程创建人为材料申请流程的申请人）",
+                          "level": 2,
+                          "prefix": "        17.3.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "驳回，驳回至申请环节。",
+                          "level": 2,
+                          "prefix": "        17.3.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "材料认证状态逻辑",
+                          "level": 1,
+                          "prefix": "    17.4. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "塑胶材料",
+                          "level": 2,
+                          "prefix": "        17.4.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "新材料",
+                          "level": 2,
+                          "prefix": "        17.4.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "流程执行完成后，自动触发认证流程",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "已导入",
+                          "level": 2,
+                          "prefix": "        17.4.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "如PC-001(WT001)原厂配色，原厂配色==“是”，状态=“未认证”，创建的材料自动触发认证流程；",
+                          "level": 4,
+                          "prefix": "                17.4.3.0.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "原厂配色==“否”，继续判断系统中的PC-001开头的材料是否存在“原厂配色==“是”&&状态==已认证”：",
+                          "level": 4,
+                          "prefix": "                17.4.3.0.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "如果存在：状态=已认证，不触发材料认证流程；",
+                          "level": 5,
+                          "prefix": "                    17.4.3.0.2.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "如果不存在：状态=“未认证”，触发材料认证流程。",
+                          "level": 5,
+                          "prefix": "                    17.4.3.0.2.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "金属材料等其他材料组：流程走完之后为已认证，不触发材料认证流程。",
+                          "level": 2,
+                          "prefix": "        17.4.4. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "对于材料大类为塑料的材料，走完材料选型流程后，自动创建不带颜色的材料对象，并且状态为未认证，待带颜色的材料认证完成后，再切换为已认证；如申请ABS-001(WT01) ，先在系统中查找是否存在不带颜色的ABS-001的对象,如系统中不存在，则创建ABS-001，如系统中存在则不创建。",
+                          "level": 1,
+                          "prefix": "    17.5. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "流程结束后，构建材料代码与材料MPN的关联关系。",
+                          "level": 1,
+                          "prefix": "    17.6. ",
+                          "is_bullet": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "材料认证流程",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "section",
+                      "title": "流程图优化",
+                      "level": 4,
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "text": "原流程：",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_110eb706.png",
+                          "format": "png",
+                          "width": 1311,
+                          "height": 652,
+                          "size": "159.89 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "材料认证流程优化后的流程图如下：",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_ac60bb06.png",
+                          "format": "png",
+                          "width": 1410,
+                          "height": 732,
+                          "size": "70.47 KB",
+                          "context": "段落 (运行 0)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "section",
+                      "title": "详细优化内容",
+                      "level": 4,
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "text": "材料认证流程的优化如下：",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "申请环节：",
+                          "level": 0,
+                          "prefix": "18. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_e7351c71.png",
+                          "format": "png",
+                          "width": 1110,
+                          "height": 822,
+                          "size": "79.59 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "主要优化内容：文档列表调整，增加MPN列表。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "只允许添加未认证的材料； 其他状态的材料（e.g. WIP，认证中等）都不可输入（如添加的材料有未结束的认证流程及维护流程，不允许提交。）",
+                          "level": 1,
+                          "prefix": "    18.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "UL证书&材料物性表&合规检测报告文档列表：直接带出材料对应文档，可添加新文档。",
+                          "level": 1,
+                          "prefix": "    18.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "原材料验证报告文档列表：直接带出材料对应文档，可添加新文档。",
+                          "level": 1,
+                          "prefix": "    18.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "材料测试项清单&产品材料验证报告文档列表：",
+                          "level": 1,
+                          "prefix": "    18.4. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "塑胶材料：材料测试项清单、产品材料验证报告必填。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "其他材料：产品材料验证报告必填、材料测试项清单非必填。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节需添加材料测试项清单、产品材料验证报告文档（提交时应有校验）",
+                          "level": 1,
+                          "prefix": "    18.5. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "如该流程为自动触发的流程，则该流程创建者为申请流程的创建者。",
+                          "level": 1,
+                          "prefix": "    18.6. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "属性编辑说明：",
+                          "level": 1,
+                          "prefix": "    18.7. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "塑胶材料：",
+                          "level": 2,
+                          "prefix": "        18.7.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "已导入：不可编辑",
+                          "level": 3,
+                          "prefix": "            18.7.1.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "新材料：除材料编码、材料类型、材料组外，其他可编辑",
+                          "level": 3,
+                          "prefix": "            18.7.1.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "其他材料：除材料编码、材料类型、材料组外，其他可编辑",
+                          "level": 2,
+                          "prefix": "        18.7.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "文档状态说明：对于文档状态是WIP的文档，流程执行后，切换为已发布。对于状态为已发布的文档，状态不切换。",
+                          "level": 1,
+                          "prefix": "    18.8. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "审核验证报告",
+                          "level": 0,
+                          "prefix": "19. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_f7d9129b.png",
+                          "format": "png",
+                          "width": 1185,
+                          "height": 327,
+                          "size": "30.14 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节处理人由配置表配置（不同材料类型配置不同的人员）",
+                          "level": 1,
+                          "prefix": "    19.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_dac4420c.png",
+                          "format": "png",
+                          "width": 1224,
+                          "height": 144,
+                          "size": "19.17 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节仅能查看材料属性信息，读取下载相关文档。",
+                          "level": 1,
+                          "prefix": "    19.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "路由：",
+                          "level": 1,
+                          "prefix": "    19.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "通过：流程流转至下一环节",
+                          "level": 2,
+                          "prefix": "        19.3.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "驳回：流程驳回至申请环节",
+                          "level": 2,
+                          "prefix": "        19.3.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "规范性审核",
+                          "level": 0,
+                          "prefix": "20. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_b3426cef.png",
+                          "format": "png",
+                          "width": 1261,
+                          "height": 471,
+                          "size": "36.90 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节处理人由配置表配置（不同材料类型配置不同的人员）",
+                          "level": 1,
+                          "prefix": "    20.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_cde476e9.png",
+                          "format": "png",
+                          "width": 1332,
+                          "height": 567,
+                          "size": "98.21 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节仅能查看材料属性信息，读取下载相关文档。",
+                          "level": 1,
+                          "prefix": "    20.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "塑胶材料：",
+                          "level": 2,
+                          "prefix": "        20.2.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "已导入：不可编辑",
+                          "level": 3,
+                          "prefix": "            20.2.1.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "新材料：除材料编码、材料类型、材料组外，其他可编辑",
+                          "level": 3,
+                          "prefix": "            20.2.1.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "其他材料：除材料编码、材料类型、材料组外，其他可编辑",
+                          "level": 2,
+                          "prefix": "        20.2.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "路由：",
+                          "level": 1,
+                          "prefix": "    20.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "通过：",
+                          "level": 2,
+                          "prefix": "        20.3.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "结构材料，流程流转至“确认验证报告”环节。",
+                          "level": 3,
+                          "prefix": "            20.3.1.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "包材/PCB, 流程结束，材料状态调整为“已认证”。",
+                          "level": 3,
+                          "prefix": "            20.3.1.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "驳回：流程驳回至申请环节",
+                          "level": 2,
+                          "prefix": "        20.3.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "确认验证报告",
+                          "level": 0,
+                          "prefix": "21. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_188fd4d3.png",
+                          "format": "png",
+                          "width": 1564,
+                          "height": 704,
+                          "size": "62.49 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节处理人由配置表配置",
+                          "level": 1,
+                          "prefix": "    21.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_51e0b854.png",
+                          "format": "png",
+                          "width": 1200,
+                          "height": 83,
+                          "size": "10.80 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节仅能查看材料属性信息，读取下载相关文档。",
+                          "level": 1,
+                          "prefix": "    21.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "路由：",
+                          "level": 1,
+                          "prefix": "    21.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "通过：流程结束，材料切换为认证状态（切换逻辑同原流程）；邮件抄送资源工程师、品质工程师；所有随签文档切换为已发布状态。",
+                          "level": 2,
+                          "prefix": "        21.3.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "驳回：流程驳回至申请环节。",
+                          "level": 2,
+                          "prefix": "        21.3.2. ",
+                          "is_bullet": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "材料维护流程",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "section",
+                      "title": "流程图优化",
+                      "level": 4,
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "text": "原流程：",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_b5c677a9.png",
+                          "format": "png",
+                          "width": 1188,
+                          "height": 567,
+                          "size": "53.46 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "材料维护流程优化后的流程图如下：",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_d83ef5f8.png",
+                          "format": "png",
+                          "width": 1235,
+                          "height": 642,
+                          "size": "48.99 KB",
+                          "context": "段落 (运行 0)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "section",
+                      "title": "详细优化内容",
+                      "level": 4,
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "text": "材料维护流程的优化如下：",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "申请环节：",
+                          "level": 0,
+                          "prefix": "22. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_aa84a614.png",
+                          "format": "png",
+                          "width": 1119,
+                          "height": 924,
+                          "size": "99.62 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "主要增加文档列表及MPN列表；",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "只允许添加未认证、已认证的材料； 其他状态的材料（e.g. WIP，认证中等）都不可输入（如添加的材料有未结束的维护流程，不允许提交）",
+                          "level": 0,
+                          "prefix": "23. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "状态选项逻辑：",
+                          "level": 0,
+                          "prefix": "24. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "如签审对象为“已认证”，则状态列表值为“未认证”及“作废”；",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "如签审对象为“未认证”，则状态列表值“作废”。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "MPN列表仅有添加移除功能。",
+                          "level": 0,
+                          "prefix": "25. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "文档列表：（不校验必填）",
+                          "level": 0,
+                          "prefix": "26. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "UL证书&材料物性表&合规检测报告文档列表：",
+                          "level": 1,
+                          "prefix": "    26.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "直接带出材料对应文档，可添加新文档。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "原材料验证报告文档列表：",
+                          "level": 1,
+                          "prefix": "    26.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "直接带出材料对应文档，可添加新文档。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "测试项清单&产品材料验证报告文档列表：",
+                          "level": 1,
+                          "prefix": "    26.3. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "直接带出材料对应文档，可添加新文档。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "属性编辑说明：",
+                          "level": 0,
+                          "prefix": "27. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "申请环节",
+                          "level": 1,
+                          "prefix": "    27.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "除材料类型、材料组、状态外，其他属性可以编辑。",
+                          "level": 2,
+                          "prefix": "        27.1.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "对于编码中带有颜色的塑胶材料，不允许调整海康颜色号、海康颜色名属性。",
+                          "level": 2,
+                          "prefix": "        27.1.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "修改环节",
+                          "level": 1,
+                          "prefix": "    27.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "除材料编码、材料类型、材料组外，其他属性可以编辑。",
+                          "level": 2,
+                          "prefix": "        27.2.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "对于编码中带有颜色的塑胶材料，不允许调整海康颜色号、海康颜色名属性。",
+                          "level": 2,
+                          "prefix": "        27.2.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "审核变更内容",
+                          "level": 0,
+                          "prefix": "28. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_ba5fc223.png",
+                          "format": "png",
+                          "width": 1263,
+                          "height": 621,
+                          "size": "60.80 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "将是否需要结构主管选项调整至“规范性审核环节”。",
+                          "bold": false,
+                          "italic": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "规范性审核环节（原业务主管“审核变更内容”环节）",
+                          "level": 0,
+                          "prefix": "29. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_c1e67369.png",
+                          "format": "png",
+                          "width": 1255,
+                          "height": 749,
+                          "size": "68.06 KB",
+                          "context": "段落 (运行 0)"
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "增加是否需要结构主管选项",
+                          "level": 0,
+                          "prefix": "30. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "该环节处理人为结构管理工程师",
+                          "level": 0,
+                          "prefix": "31. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "属性编辑说明：",
+                          "level": 0,
+                          "prefix": "32. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "除材料类型、材料组外，其他属性可以编辑。",
+                          "level": 1,
+                          "prefix": "    32.1. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "对于编码中带有颜色的塑胶材料，不允许调整海康颜色号、海康颜色名属性。",
+                          "level": 1,
+                          "prefix": "    32.2. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "list_item",
+                          "text": "最终审核变更内容环节（无变动）",
+                          "level": 0,
+                          "prefix": "33. ",
+                          "is_bullet": false
+                        },
+                        {
+                          "type": "image",
+                          "url": "images/img_f39248a0.png",
+                          "format": "png",
+                          "width": 1268,
+                          "height": 435,
+                          "size": "28.17 KB",
+                          "context": "段落 (运行 0)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "制造商部件申请流程优化",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "优化制造商部件申请流程，使该流程支持材料制造商部件的创建。",
+                      "bold": false,
+                      "italic": false
+                    },
+                    {
+                      "type": "image",
+                      "url": "images/img_1d66eb90.png",
+                      "format": "png",
+                      "width": 543,
+                      "height": 428,
+                      "size": "38.28 KB",
+                      "context": "段落 (运行 0)"
+                    },
+                    {
+                      "type": "image",
+                      "url": "images/img_342027ed.png",
+                      "format": "png",
+                      "width": 465,
+                      "height": 602,
+                      "size": "38.80 KB",
+                      "context": "段落 (运行 0)"
+                    },
+                    {
+                      "type": "paragraph",
+                      "text": "——全文完——",
+                      "bold": false,
+                      "italic": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:35",
+    "source_file": "材料相关流程优化_详细设计方案_V0.4.docx",
+    "file_size_bytes": 1699708,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 229,
+    "tables_found": 7,
+    "images_found": 29
+  },
+  "images": {
+    "img_97cd2d9c": {
+      "type": "image",
+      "url": "images/img_97cd2d9c.jpg",
+      "format": "jpg",
+      "width": 1049,
+      "height": 148,
+      "size": "19.93 KB",
+      "context": "段落: ... (运行 0)"
+    },
+    "img_60f46450": {
+      "type": "image",
+      "url": "images/img_60f46450.jpg",
+      "format": "jpg",
+      "width": 295,
+      "height": 44,
+      "size": "10.22 KB",
+      "context": "段落: 文档属性... (运行 0)"
+    },
+    "img_6f8e04be": {
+      "type": "image",
+      "url": "images/img_6f8e04be.png",
+      "format": "png",
+      "width": 565,
+      "height": 238,
+      "size": "25.59 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_c0f5040c": {
+      "type": "image",
+      "url": "images/img_c0f5040c.png",
+      "format": "png",
+      "width": 997,
+      "height": 248,
+      "size": "44.90 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_11b5e7ca": {
+      "type": "image",
+      "url": "images/img_11b5e7ca.png",
+      "format": "png",
+      "width": 944,
+      "height": 531,
+      "size": "73.60 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_301800d4": {
+      "type": "image",
+      "url": "images/img_301800d4.png",
+      "format": "png",
+      "width": 1330,
+      "height": 729,
+      "size": "59.93 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_c8302d77": {
+      "type": "image",
+      "url": "images/img_c8302d77.png",
+      "format": "png",
+      "width": 832,
+      "height": 676,
+      "size": "114.94 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_63669e74": {
+      "type": "image",
+      "url": "images/img_63669e74.png",
+      "format": "png",
+      "width": 856,
+      "height": 612,
+      "size": "69.84 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_619f11b0": {
+      "type": "image",
+      "url": "images/img_619f11b0.png",
+      "format": "png",
+      "width": 975,
+      "height": 595,
+      "size": "42.20 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_d9bfbce3": {
+      "type": "image",
+      "url": "images/img_d9bfbce3.png",
+      "format": "png",
+      "width": 432,
+      "height": 266,
+      "size": "17.47 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_caf13c53": {
+      "type": "image",
+      "url": "images/img_caf13c53.png",
+      "format": "png",
+      "width": 1080,
+      "height": 600,
+      "size": "58.85 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_637247ea": {
+      "type": "image",
+      "url": "images/img_637247ea.png",
+      "format": "png",
+      "width": 1332,
+      "height": 567,
+      "size": "98.21 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_110eb706": {
+      "type": "image",
+      "url": "images/img_110eb706.png",
+      "format": "png",
+      "width": 1311,
+      "height": 652,
+      "size": "159.89 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_ac60bb06": {
+      "type": "image",
+      "url": "images/img_ac60bb06.png",
+      "format": "png",
+      "width": 1410,
+      "height": 732,
+      "size": "70.47 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_e7351c71": {
+      "type": "image",
+      "url": "images/img_e7351c71.png",
+      "format": "png",
+      "width": 1110,
+      "height": 822,
+      "size": "79.59 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_f7d9129b": {
+      "type": "image",
+      "url": "images/img_f7d9129b.png",
+      "format": "png",
+      "width": 1185,
+      "height": 327,
+      "size": "30.14 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_dac4420c": {
+      "type": "image",
+      "url": "images/img_dac4420c.png",
+      "format": "png",
+      "width": 1224,
+      "height": 144,
+      "size": "19.17 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_b3426cef": {
+      "type": "image",
+      "url": "images/img_b3426cef.png",
+      "format": "png",
+      "width": 1261,
+      "height": 471,
+      "size": "36.90 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_cde476e9": {
+      "type": "image",
+      "url": "images/img_cde476e9.png",
+      "format": "png",
+      "width": 1332,
+      "height": 567,
+      "size": "98.21 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_188fd4d3": {
+      "type": "image",
+      "url": "images/img_188fd4d3.png",
+      "format": "png",
+      "width": 1564,
+      "height": 704,
+      "size": "62.49 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_51e0b854": {
+      "type": "image",
+      "url": "images/img_51e0b854.png",
+      "format": "png",
+      "width": 1200,
+      "height": 83,
+      "size": "10.80 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_b5c677a9": {
+      "type": "image",
+      "url": "images/img_b5c677a9.png",
+      "format": "png",
+      "width": 1188,
+      "height": 567,
+      "size": "53.46 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_d83ef5f8": {
+      "type": "image",
+      "url": "images/img_d83ef5f8.png",
+      "format": "png",
+      "width": 1235,
+      "height": 642,
+      "size": "48.99 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_aa84a614": {
+      "type": "image",
+      "url": "images/img_aa84a614.png",
+      "format": "png",
+      "width": 1119,
+      "height": 924,
+      "size": "99.62 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_ba5fc223": {
+      "type": "image",
+      "url": "images/img_ba5fc223.png",
+      "format": "png",
+      "width": 1263,
+      "height": 621,
+      "size": "60.80 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_c1e67369": {
+      "type": "image",
+      "url": "images/img_c1e67369.png",
+      "format": "png",
+      "width": 1255,
+      "height": 749,
+      "size": "68.06 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_f39248a0": {
+      "type": "image",
+      "url": "images/img_f39248a0.png",
+      "format": "png",
+      "width": 1268,
+      "height": 435,
+      "size": "28.17 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_1d66eb90": {
+      "type": "image",
+      "url": "images/img_1d66eb90.png",
+      "format": "png",
+      "width": 543,
+      "height": 428,
+      "size": "38.28 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_342027ed": {
+      "type": "image",
+      "url": "images/img_342027ed.png",
+      "format": "png",
+      "width": 465,
+      "height": 602,
+      "size": "38.80 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

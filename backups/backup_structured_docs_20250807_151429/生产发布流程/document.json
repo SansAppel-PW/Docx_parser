@@ -1,0 +1,1708 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/生产发布流程.docx",
+    "title": "",
+    "author": "wuxiaojuan6@hikvision.com",
+    "created": "2022-06-14 01:46:00+00:00",
+    "modified": "2022-09-05 11:34:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "465.79 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "PLM 2.0 –生产发布",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟6"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022-01"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0 流程迁移"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 2",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建申请（MPA-010） 2",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 流程表达式- 设置参与者 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 流程表达式- 授予权限 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 流程表达式- 邮件通知抄送人 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 流程表达式- 设置状态_正在审阅 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 PQE审核（MPA-020） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.7 IE审核（MPA-020） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 NPE审核（MPA-030） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.9 主管审核（MPA-040） 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.10 流程表达式- pcbaCollecte 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.11 流程表达式- ERP 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.12 检查出错信息（MPA-050） 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.13 流程表达式- 打基线 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.14 流程表达式- 设置生产发布对象状态 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.15 流程表达式- 供应链人员通知 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.16 流程表达式- 启动子流程 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.17 流程表达式- 回收权限 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.18 流程表达式- 设置随签对象状态-重新工作 7",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "512pt",
+              "height": "293.15pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_4c24bcee",
+              "size": "90.54 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_4c24bcee.emf",
+              "file_path": "embedded_objects/embedded_obj_4c24bcee.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板",
+          "level": 1,
+          "content": [
+            {
+              "type": "table",
+              "index": 2,
+              "rows": [
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "流程模板"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "生产发布流程"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "典型UI场景示意（双击可查看清晰大图）"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 0,
+                    "content": []
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "创建申请（MPA-010）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_a0e63c37.png",
+                  "format": "png",
+                  "width": 1277,
+                  "height": 649,
+                  "size": "61.30 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段定义",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "TAB页"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*上下文"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "取值于第一个主签审对象的上下文 主签审对象清空时，上下文清空"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品线"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "取值于第一个主签审对象的产品线 主签审对象清空时，产品线清空"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*部门主管"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "通过HR接口，获取申请人的直接主管；可编辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "项目编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "通过模糊搜索，从OA/IRDMS获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*工厂加工线"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据所选<工厂>，显示工厂加工线。联动逻辑依照“产品角色配置” 若工厂为空时，点击此字段，则报错提示：请先选择工厂 工厂选择后，不显示默认值（业务更改点）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*PQE"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "人工填写"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*IE"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "人工填写"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*NPE"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "人工填写"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*附件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "点击“从MPM获取文件”时，根据【属性】结构特性通过接口从MPM获取以下类型的文件 作业指导书 工艺流程图"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只允许添加类型=成品，最新状态=S1的部件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "凭证类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Z09"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "无论是手工输入物料编号，还是批量导入物料编号，都自动触发接口获取相应数据。获取到的数据不允许修（SAP接口已有）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "凭证号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料编号，通过接口从SAP获取Z09的凭证号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "其他字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料编号，自动显示PLM物料对应的属性值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 3,
+                        "content": []
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（3） 提交校验项 （注：下列为现在流程的校验项）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交 校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.必填项必填 2.主签审对象不能为空 3.签审对象必须都为S1 4.签审对象凭证号不能为空 5.签审对象（不含物料使用分类为C16，C17），“附件列表不能为空，请提供直通率统计表等生产发布相关文件!” 6.签审对象（不含物料使用分类为（C16，C17），“直通率必须大于90” 7.签审对象（不含物料使用分类为（C16，C17），附件校验：“注意:带*号(*工艺流程图、*工装清单、*直通率数据)为必需上传项目, 且要保证上传项目与所转物料号资料一致。（新产品导入总结报告、PFMEA、培训记录）为选择上传项目”"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交 校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.必填项必填 2.主签审对象不能为空 3.签审对象必须都为S1 4.签审对象凭证号不能为空 5.签审对象（不含物料使用分类为C16，C17），“附件列表不能为空，请提供直通率统计表等生产发布相关文件!” 6.签审对象（不含物料使用分类为（C16，C17），“直通率必须大于90” 7.签审对象（不含物料使用分类为（C16，C17），附件校验：“注意:带*号(*工艺流程图、*工装清单、*直通率数据)为必需上传项目, 且要保证上传项目与所转物料号资料一致。（新产品导入总结报告、PFMEA、培训记录）为选择上传项目”"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交 校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.必填项必填 2.主签审对象不能为空 3.签审对象必须都为S1 4.签审对象凭证号不能为空 5.签审对象（不含物料使用分类为C16，C17），“附件列表不能为空，请提供直通率统计表等生产发布相关文件!” 6.签审对象（不含物料使用分类为（C16，C17），“直通率必须大于90” 7.签审对象（不含物料使用分类为（C16，C17），附件校验：“注意:带*号(*工艺流程图、*工装清单、*直通率数据)为必需上传项目, 且要保证上传项目与所转物料号资料一致。（新产品导入总结报告、PFMEA、培训记录）为选择上传项目”"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交 校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.必填项必填 2.主签审对象不能为空 3.签审对象必须都为S1 4.签审对象凭证号不能为空 5.签审对象（不含物料使用分类为C16，C17），“附件列表不能为空，请提供直通率统计表等生产发布相关文件!” 6.签审对象（不含物料使用分类为（C16，C17），“直通率必须大于90” 7.签审对象（不含物料使用分类为（C16，C17），附件校验：“注意:带*号(*工艺流程图、*工装清单、*直通率数据)为必需上传项目, 且要保证上传项目与所转物料号资料一致。（新产品导入总结报告、PFMEA、培训记录）为选择上传项目”"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交 校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "部门主管必须有值，上下文必须存在 校验 签审对象 的产品系列 与表单中选择的产品系列是否一致，存在不一致报错 校验所有签审物料是否跨库签审（审批对象所在上下文与生产发布单所选上下文是否不一致，存在不一致报错） 校验所有签审对象是否在别的正在运行的流程单子中存在（物料选型申请流程，OA研发产品试制，CIS维护流程，国际商品条码(EAN)申请，电子机电物料3D建模流程，物料参考替代关系维护流程除外），存在则报错 校验所有签审对象是否在别的正在运行的变更单子中受影响对象中存在，存在则报错 校验存在签审部件的受限状态为：Inactive（DEA），不能提交"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "ME主管（部门主管），PQE, IE, NPE取值于表单",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 授予权限",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "ME主管（部门主管），IE工程师，PQE，NPE中获取人员赋予角色“OA审阅者“中",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 邮件通知抄送人",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "邮件发送给抄送人（取值于表单）",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态_正在审阅",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置表单及审批文档对象状态为正在审阅",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "PQE审核（MPA-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_c0b4f714.png",
+                  "format": "png",
+                  "width": 1273,
+                  "height": 243,
+                  "size": "19.96 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "IE审核（MPA-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_42232d0b.png",
+                  "format": "png",
+                  "width": 1271,
+                  "height": 243,
+                  "size": "18.70 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "NPE审核（MPA-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_33c6aafd.png",
+                  "format": "png",
+                  "width": 1274,
+                  "height": 228,
+                  "size": "13.84 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "主管审核（MPA-040）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_3987c5be.png",
+                  "format": "png",
+                  "width": 1276,
+                  "height": 230,
+                  "size": "13.91 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- pcbaCollecte",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "审批对象BOM中所有的半成品发到流程变量pcbaMaterialRefStr",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- ERP",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置审批物料及其所有层BOM子件状态为M1，并调用SAP更改状态接口",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "设置随签部件的所有下游对等部件状态到M1，并发送SAP",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "检查出错信息（MPA-050）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_f60365f9.png",
+                  "format": "png",
+                  "width": 1279,
+                  "height": 187,
+                  "size": "8.39 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 打基线",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "根据对象创建基线",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置生产发布对象状态",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置表单及审批文档状态为已发布",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 供应链人员通知",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "接口获取供应链人员邮件通知",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 启动子流程",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "根据审批对象存在工厂启动子流程",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 回收权限",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "清除申请单团队角色“OA审阅者“中的人员",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置随签对象状态-重新工作",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "还原随签文档状态为WIP",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:38",
+    "source_file": "生产发布流程.docx",
+    "file_size_bytes": 476967,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 93,
+    "tables_found": 5,
+    "images_found": 8
+  },
+  "images": {
+    "img_e7176528": {
+      "type": "image",
+      "url": "images/img_e7176528.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 生产发布... (运行 0)"
+    },
+    "img_42e38963": {
+      "type": "image",
+      "url": "images/img_42e38963.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 生产发布流程 (PLM... (运行 0)"
+    },
+    "img_a0e63c37": {
+      "type": "image",
+      "url": "images/img_a0e63c37.png",
+      "format": "png",
+      "width": 1277,
+      "height": 649,
+      "size": "61.30 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_c0b4f714": {
+      "type": "image",
+      "url": "images/img_c0b4f714.png",
+      "format": "png",
+      "width": 1273,
+      "height": 243,
+      "size": "19.96 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_42232d0b": {
+      "type": "image",
+      "url": "images/img_42232d0b.png",
+      "format": "png",
+      "width": 1271,
+      "height": 243,
+      "size": "18.70 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_33c6aafd": {
+      "type": "image",
+      "url": "images/img_33c6aafd.png",
+      "format": "png",
+      "width": 1274,
+      "height": 228,
+      "size": "13.84 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_3987c5be": {
+      "type": "image",
+      "url": "images/img_3987c5be.png",
+      "format": "png",
+      "width": 1276,
+      "height": 230,
+      "size": "13.91 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_f60365f9": {
+      "type": "image",
+      "url": "images/img_f60365f9.png",
+      "format": "png",
+      "width": 1279,
+      "height": 187,
+      "size": "8.39 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

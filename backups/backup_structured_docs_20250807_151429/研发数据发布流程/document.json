@@ -1,0 +1,3717 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/研发数据发布流程.docx",
+    "title": "",
+    "author": "wuxiaojuan6@hikvision.com",
+    "created": "2019-09-04 01:23:00+00:00",
+    "modified": "2023-11-24 07:28:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "524.97 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "PLM 2.0 -研发数据发布",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟6"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-12"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0 流程迁移"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 2",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建申请（RSO-010） 2",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 条件表达式- 是否OA启动 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 流程表达式- 设置参与者 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 流程表达式- 邮件通知抄送人 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 条件表达式- 判断发布类型（新增业务点） 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 审核（RSO-020） 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.7 流程表达式- 设置产品版本 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 流程表达式- send2ERP 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.9 条件表达式- SAP是否发送成功 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.10 流程表达式- 检查出错信息（RSO-030） 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.11 流程表达式- 设置发布对象状态 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.12 流程表达式- 去样机 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.13 流程表达式- 设置市场发布状态 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.14 流程表达式- 发送销售国家到SAP 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.15 流程表达式- 自动投基线 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.16 流程表达式- PBI处理 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.17 流程表达式- 供应链人员通知 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.18 流程表达式- 发送邮件到ME 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.19 流程表达式- 结束邮件 10",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.20 流程表达式- 启动子流程 10",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.21 流程表达式- 启动国际编码流程申请 10",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.22 流程表达式- sendMPS 10",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.23 流程表达式- 同步成品电池信息到SAP 10",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.24 流程表达式- 计算成品Rohs签核符合性 11",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.25 流程表达式- 设置流程状态 11",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "4 接口（开发时补充） 11",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "524.75pt",
+              "height": "252.65pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_94418caa",
+              "size": "78.13 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_94418caa.emf",
+              "file_path": "embedded_objects/embedded_obj_94418caa.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_3fb4276a.png",
+              "format": "png",
+              "width": 1856,
+              "height": 506,
+              "size": "29.62 KB",
+              "context": "段落 (运行 0)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "创建申请（RSO-010）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_c87ed686.png",
+                  "format": "png",
+                  "width": 1275,
+                  "height": 908,
+                  "size": "73.87 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "属性字段定义",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "TAB页"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "由IRDMS发布单触发时，根据发布单号集成信息： 【属性】主题=发布单号+发布单主题，关联单号 【主签审对象列表】编码（状态为D2的发布物料）、销售组织（若有）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*物料类型，*上下文，*主题，*所属部门，*直接主管，抄送人"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*是否客户专用"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "单选项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料类型=成品 或 软件与服务时， 显示"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "该字段原名：类型"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*关联单号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料类型=成品 或 软件与服务时， 显示。但若大类在系统配置《免发布单物料分类配置》表中，关联单号不显示（ITRMS20181022_039研发数据发布流程针对3038硬盘免发布单号非空校验）问题：此业务点不是很合理，与常规操作方式不契合"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*上下文"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据第一个主签审对象上下文自动获取 主签审对象清空时，上下文清空"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*所属部门"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "通过HR接口自动获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*发布类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项：标准发布|快速发布 默认值=标准发布 关联单号非空或非Null时，默认值=快速发布，可编辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新增字段和逻辑"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*直接主管"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "通过HR接口自动获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【属性】物料类型，关联单号字段值更新时，【主签审对象列表】重新刷新且清空内容（若有）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*编号，名称，状态，版本，类型"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只能搜索/添加与【属性】物料类型一致， 并且状态=D2的物料"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "销售范围"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【属性】物料类型=成品、半成品或软件与服务时，显示 若主签对象走过PTY，则自动获取对象在PTY中添加的销售组织 若主签审对象的产品线属于产品研发中心、物料销售地区为海外，则在流程提交时自动清空销售组织"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "板载软件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【属性】物料类型=半成品，且主签对象上下文为*PCBA*时，显示 自动获取主签对象单层BOM中的S3软件：编码+名称（e.g. S3000000001 xxxx）;若有多个，则分行显示"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ITRMS20181025_044_单板研发数据发布流程优化"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "优选率"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "百分数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "取产品BOM物料优选率里的：A&B物料优选率，D物料优选率；分行显示。 不可编辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ITRMS20181025_044_单板研发数据发布流程优化"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "生产试制单"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【属性】物料类型=半成品，且主签对象上下文为*PCBA*时，显示 根据主签审对象通过接口自动获取生产试制单。若取到的生产试制单为空时，弹框提示：请输入参考单板"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ITRMS20181025_044_单板研发数据发布流程优化"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*参考单板"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【属性】物料类型=半成品，且主签对象上下文为*PCBA*时，显示且必填 若生产试制单非空，自动维护此字段值=/，不可编辑；其他情况，可编辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ITRMS20181025_044_单板研发数据发布流程优化"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "直通率"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【属性】物料类型=半成品，且主签对象上下文为*PCBA*时，显示 试制单非空时，根据单板获取；试制单为空时，根据参考单板获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ITRMS20181025_044_单板研发数据发布流程优化"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "遗留缺陷"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "正整数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【属性】物料类型=半成品，且主签对象上下文为*PCBA*时，显示 试制单非空时，自试制单获取；试制单为空时，自参考单板获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ITRMS20181025_044_单板研发数据发布流程优化"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "随签对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "自动添加主签审对象所有层BOM中，最新稳定状态=D2的子件 点击流程【提交】时，刷新随签对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "此为新加业务点"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "相关文档"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "编号，名称，状态，版本，文档大类，文档小类"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "功能按钮",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "按钮"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "添加"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认：对象类型=表单【属性】勾选的物料类型，状态=D2; 不可编辑"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "批量添加"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "数据导入前，作合法性校验。 所有对象校验完成后，才执行。若有错误，则给出报错提示；校验全部通过时，则执行导入。 对象必须在系统中存在。 否则报错提示：第X行，物料编号XXX, 系统中不存在。 对象类型必须与表单【属性】勾选的物料类型一致。否则报错提示：第X行，物料编号XXX，类型与申请单类型不一致 对象状态必须为D2. 否则报错提示：第X行，物料编号XXX, 状态不是D2 To开发：开发新流程时，检查原校验代码逻辑"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交系统校验项",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象不能为空"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料类型是成品发布单号必填，3038硬盘除外 但在系统《免发布单物料分类配置》表内的大类除外"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "类型和所选的物料类型不一致，请重新确认后提交"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料类型是成品，销售范围为空提示（警告提示）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PCBA半成品，参考单板必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "关联单号为空或NULL时，发布类型不允许为快速发布 （新增）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "针对后端产品进行认证证书关联提示（3002 、3036且基线） 警告提示：此物料{0}证书关联为空，请关联证书。（开发依据老代码更新补充）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "原材料常规:以下物料未维护环保RoHS2.0文件，存在环保风险，若销售地区为海外/全球，产品将限制发布。（取自合规信息页）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "原材料设计件无AML管理：以下物料由于供应商未签署RoHS协议，属环保风险物料。请转入制造商部件管理，并维护相关RoHS2.0符合性证明资料。（取自供应商协议数据库）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "环保标识：以下物料环保标识值为非RoHS物料，产品需经过报备申请才能使用。（取自IPN类型属性）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "环保类型：以下外购成品环保类型不符合RoHS2.0(十项)，存在环保风险，若销售地区为海外/全球，产品将限制发布。（取自IPN类型属性）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "能效标识：以下物料能效等级为ERP V级，不满足 VI级能效要求，欧洲、美国等海外项目不能使用（取自IPN分类属性）---------上述校验触发的前提是：是否开启通道配置，如果没有开启不会触发上述校验（运维平台->管理员工具->checkBOM配置） 如果没有开启 closeEnvComplianceCheck 校验，会触发：原材料常规，原材料设计件无AML管理，环保标识，环保类型的校验 如果开启closeEnvComplianceCheck 校验，会触发：如果物料是客供，错误提示为：####为客供物料，存在环保风险，请评估是否为当前客户使用 如果物料是非客供，错误提示为：####以下产品销售地区为海外，BOM中含非环保物料，产品限制发布。（开发依据老代码更新补充校验逻辑）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "所选的上下文是否存在"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象的物料分类属性机身标签参数（第1~3行）、是否包含TBD字符，如果有，则拦截"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验主、随签对象是否被检出"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象物料状态必须是D2"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象的是否客户专用属性值不能为空或null"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象的是否客户专用属性值和所选类型要一致"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象跨库签审校验，物料的位置与表单位置是否一致"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象类型属性销售地区与表单的样机销售范围是否一致 (警告提示)"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ODM产品，需要关联对应的ODM产品发布单 校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需要市场发布与不需要市场发布的物料, 不允许在同一个流程单提交"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "结构件物料选用认证中或者未认证的材料，状态不能切换至S1 ，190114985，190114984"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象类型=原材料-结构件，校验对象大类/物料组若在《系统配置->结构件MustAuth表配置》中，则按配置表进行校验，符合条件的产品BOM可发布到S1 Ø 仅物料认证配置为Y：该物料必须已完成物料认证申请。 Ø 仅MPN认证配置为Y：该物料如有关联MPN， MPN的状态需为“条件通过”、“认证通过”。 Ø 物料认证及MPN认证的值都配置为Y：该物料关联的MPN的状态需为“条件通过”、“认证通过”或者该物料必须已完成物料认证申请。 未认证未关联MPN：190114986，190114987；结构件-未认证关联不合规MPN：190114990，190114991 结构件-未认证关联合规MPN：190114992，190114993 结构件-已认证未关联MPN：190114988 ，190114989，结构件-已认证关联不合规MPN：190114994，190114994 结构件-已认证关联合规MPN：190114996，190114997"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料的子件带BOM结构且子件中存在一个收集部件的物料状态必须为S1/M1/E1"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料的子件带BOM结构且子件都是收集部件物料状态必须为D2/S1/M1/E1"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料的子件无BOM，子件物料状态必须是D2/S1/M1/E1"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料的子件物料类型是成品且无BOM，其状态为D2，不能提交,因成品随签,扩不出销售范围"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验主、随签审对象BOM子件 主、随签对象单层BOM中子件状态必须是D2/S1/M1/E1。 若否，则报错: BOM XXX，子件XXX状态为XXX， 不允许提交 随签对象有BOM，但其类型/大类/物料组若不在《S1状态可随签类型配置》表内，则报错：对象XXX，有BOM不允许随签 类型=成品，大类=XX 类型=半成品，大类=XX 类型=原材料 类型=虚拟件 随签对象无BOM，但其类型=成品且大类/物料组不在《S1状态可随签类型配置》表内，则报错：对象XXX, 类型为成品不允许随签"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验主签审对象所有层级子件（包含主签审对象），认证物料是否完成认证流程（9开头子件，或创建时间为20180101之前D2子件，或20180101之前D1非强制认证子件，不校验认证流程）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料是否关联未结束流程"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验非稳定状态子件关联的未结束的流程（to开发：新流程开发，检查原代码是否有些校验项）补充校验的流程清单：ECN、MSE、TPO、MPL、CISM、EAN、CMR、EPA"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程中的相关文档状态必须是已发布、WIP或重新工作"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "销售组织是否存在校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "部门主管是否为PLM 用户校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签对象必填 （与前台校验重复）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "成品和软件与服务发布时，产品线为产品研发中心且销售地区为海外，则需要市场发布"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ITRMS20190221_048_因主芯片关联程序调整业务规则解决方案 研发数据发布 BOM 合规校验 不需要校验的大类中包含C3、K、L4、S3、S9"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- 是否OA启动",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "OA接口启动，流程到\"修改\"节点",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "审核者取自流程页面部门主管，参与“审核”节点（问题to业务：萤石提出有关联单号时，由项目经理审核。请评估需求）",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 邮件通知抄送人",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "抄送人取自页面填写的抄送人。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- 判断发布类型（新增业务点）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "若为快速发布，则跳过审核节点",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "审核（RSO-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_39bd320c.png",
+                  "format": "png",
+                  "width": 1273,
+                  "height": 229,
+                  "size": "12.75 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置产品版本",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置表单主签审对象的产品版本属性",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "PLM20180705_01_产品版本财务归集方案优化",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "type": "paragraph",
+                  "text": "根据页面项目编号调动irdms接口获取产品版本，升级物料小版本，将产品版本设置到物料的com.hikvision.plm.ProductVersion属性中",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- send2ERP",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "去除出样机字样（物料名称、物料中文描述、物料英文描述），设置受限状态并发送SAP（子件也发送SAP）",
+                  "level": 0,
+                  "prefix": "4. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "如果无需市场发布(产品线属于产品研发中心，物料销售范围是海外)则销售范围需要发送SAP",
+                  "level": 0,
+                  "prefix": "5. ",
+                  "is_bullet": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- SAP是否发送成功",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "若收到SAP返回错误信息，则流程到达SAP集成异常信息节点",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 检查出错信息（RSO-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "页面显示SAP返回的错误信息",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_8b2882ff.png",
+                  "format": "png",
+                  "width": 1280,
+                  "height": 226,
+                  "size": "9.18 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置发布对象状态",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "设置主签审对象生命周期状态到S1，子件状态小于S1的也设置状态S1",
+                  "level": 0,
+                  "prefix": "6. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "物料类型是虚拟件或原材料，启用优选管理的物料",
+                  "level": 0,
+                  "prefix": "7. ",
+                  "is_bullet": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 去样机",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "去样机并且修改料号申请表单页面的“是否样机”为false",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置市场发布状态",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "ITRMS20181129_052研发数据发布流程根据产品线分流分别触发业务逻辑 + ITRMS20190603_040研发数据发布流程，是否需市场发布的控制条件更新+ ITRMS20190604_032市场发布流程触发PLM接口调整",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "type": "list_item",
+                  "text": "需要市场发布：主签审对象的产品线属于产品研发中心，物料销售地区为海外",
+                  "level": 0,
+                  "prefix": "8. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "需要市场发布：RSO结束后，状态切换S1，发布量产BOM，子件随签，传销售国家【CHAR】发空格",
+                  "level": 0,
+                  "prefix": "9. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "无需市场发布：RSO结束后，状态切换S1，发布量产BOM，子件随签，传销售范围，市场状态为市场发布，去样机，更新受限状态",
+                  "level": 0,
+                  "prefix": "10. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "产品研发中心：取主签审对象的PBI路径，第一级：如模拟摄像机，对照《产品线配置》->配置类型：RSOproductline,配置类型描述：产品研发中心分流配置，产品线：模拟摄像机",
+                  "level": 0,
+                  "prefix": "11. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "流程提交校验：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "若主签审对象部分属于需要市场发布，部分属于不需要市场发布时，系统提示：XXX物料，产品线XXX, 销售地区：XXX；XXX物料，产品线XXX, 销售地区：XXX。 请拆分。",
+                  "level": 0,
+                  "prefix": "12. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ITRMS20200302_008_新建国内市场发布流程+ RMS20200507_048国内市场发布优化+ RMS20210618_010缺陷修复：ECN变更不需要修改市场发布状态的值",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "type": "list_item",
+                  "text": "成品物料的销售地区：国内，控制范围内基线产品，流程结束后，市场状态：样机；非控制范围产品、控制范围内+定制，市场状态：市场发布。",
+                  "level": 1,
+                  "prefix": "    12.1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "控制范围：系统配置表《产品线配置》-> 配置类型：researchOrderProductLine, 配置类型描述：研发数据发布流程配置控制范围内产品线",
+                  "level": 1,
+                  "prefix": "    12.2. ",
+                  "is_bullet": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 发送销售国家到SAP",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "主签审对象如果需市场发布(产品线属于产品研发中心，物料销售范围是海外)，将成品、软件与服务发送空的销售国家到SAP,SAP处理",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 自动投基线",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "研发发布投基线，量产基线",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- PBI处理",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "成品或软件服务：",
+                  "level": 0,
+                  "prefix": "13. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "清空物料关联产品型号的受限状态、样机销售范围、样机已提供、样机有效期",
+                  "level": 2,
+                  "prefix": "        13.0.1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "清空子件物料的样机有效期",
+                  "level": 2,
+                  "prefix": "        13.0.2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "如果子件对象类型为 成品/软件与服务，且状态为S1：",
+                  "level": 0,
+                  "prefix": "14. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "清空子件物料关联产品型号的受限状态、样机销售范围、样机已提供、样机有效期",
+                  "level": 2,
+                  "prefix": "        14.0.1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "清空子件物料的样机有效期",
+                  "level": 2,
+                  "prefix": "        14.0.2. ",
+                  "is_bullet": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 供应链人员通知",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 5,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "邮件通知人员"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料组获取OA系统配置的ME、IE、产品计划员、PQE 如果PCBA的半成品，根据物料和物料子件的物料组获取OA系统的配置人员"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "接口："
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 发送邮件到ME",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "给4000工厂ME发邮件通知",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 结束邮件",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "发送结束邮件给流程创建者",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 启动子流程",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "启动备用号子流程",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 启动国际编码流程申请",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "符合以下条件，则触发国际编码流程",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（1）ITRMS20190417_059PLM中增加国际商品条码属性，实现系统按设定条件自动分配",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "type": "paragraph",
+                  "text": "研发数据发布流程触发条件：上下文：【PDC -*】+物料类型：【成品】+是否客户专用【基线】销售地区：【海外或全球】+标配/中性：【标配】+物料使用分类：【不包含Pyronix】+标签型号：【不包含HM-】",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（2）ITRMS20190805_009前端部分国内经销产品自动配置商品条码",
+                  "bold": false,
+                  "italic": true
+                },
+                {
+                  "type": "list_item",
+                  "text": "研发数据发布流程触发条件：上下文：【PDC -*】+物料类型：【成品】+是否客户专用【基线】销售地区：【国内】+标配/中性：【标配】+物料使用分类：【不包含Pyronix】+控制标示：【经销产品】+物料大类：【物料大类/组】 配置表",
+                  "level": 0,
+                  "prefix": "15. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "大类通过系统配置表《物料大类/组》调取",
+                  "level": 0,
+                  "prefix": "16. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "类型标识：国内经销产品自动配置商品条码",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "中文类型名称：国内经销产品自动配置商品条码",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "英文类型名称：EAN for Internal",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- sendMPS",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "ITRMS20190524_013_MPS样机管理方案关于PLM样机发布-MPS主数据库接口打通和数据同步 + ITRMS20190829_006_定制物料PLM-MPS基础数据同步接口增加必须字段需求+ ITRMS20200306_020_海外样机发布业务改善",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "物料及销售信息 发送到MPS（BOM类型“成品”、物料销售地区为：海外）",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 同步成品电池信息到SAP",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "参照BOM审核的逻辑，再次计算电池信息并同步到SAP。计算时覆盖之前的值。可参照复用计算逻辑《ITRMS20190509_036_特殊产品&物料含危险品（电池）识别》",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 计算成品Rohs签核符合性",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "（1）RMS20201222_006RoHS自动签核、产品自声明自动化流程",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "物料类型：成品+E自制+海外|全球+基线， 流程结束时调用：调用《产品RoHS签核数据报表优化》得出自声明结论存在数据库表中 （成品->新Tab页布局：【产品】CE-RoHS自声明）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（2）RMS20211020_010【紧急】DoC电子化-业务分析报告",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "产品CE-RoHS自声明维护-配置表定时队列。定时队列触发条件：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "在该配置表里面的物料，产品线不为空，标签型号不为空，自声明结论=符合，配置信息状态=生效，状态=D2,S1,M1,E1,E2,E3，认证证书无认证大类=CE,认证小类=CE-RoHS，由队列定时执行创建认证证书",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（3）RMS20211025_073整机和半成品BOM评审优化（PLM系统）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "计算时新增子成品的计算逻辑",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置流程状态",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 6,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态_正在审阅"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置表单状态为正在审阅"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态_重新工作"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置表单状态为重新工作"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态_已发布"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置表单状态为已发布"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态_废弃"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置表单状态为废弃状态"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "接口（开发时补充）",
+          "level": 1,
+          "content": [
+            {
+              "type": "table",
+              "index": 7,
+              "rows": [
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "序号"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "接口描述"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "提供方"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "更新市场状态"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PLM"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 0,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "提供创建流程接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "ITRMS20191105_005硬件料号到达D2状态且关联产品试制流程提交时自动触发研发数据发布流程 http://cloudapi.hikvision.com.cn/market/detail?apiKey=068001154"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 0,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "提供4个查询接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PLM20181022_01_产品发布支持研发数据自动发布"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 0,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "提供提交校验项接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "RMS20210408_011研发发布单增加发布前校验功能"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 3,
+                    "content": []
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "更新市场状态业务逻辑处理如下：（根据老代码梳理结果补充）",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "--如果无需市场发布(产品线属于产品研发中心，物料销售范围是海外)，则需设置市场发布状态",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "1：物料类型是成品、软件与服务才设置市场发布状态",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "--（成品且销售地区为国内的物料）设置市场发布状态 且发送到SAP",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "1：判断是否是客户专用的类型（产品线是基线）",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "2：根据产品线类型获取产品线配置信息",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "3：根据物料类型和物料的销售范围来最终判断是不是要设置市场状态和发送sap(判断条件：成品且销售地区为国内的物料，并且)",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "4：根据产品型号底下的成品获取PBI对象（产品线、产品系列、产品型号），如果PBI对象不为空并且PBI对象中的产品线信息在第3步获取的产品线配置信息中能找到",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "5,在第4步初步判断之后，再根据满足第1，4的条件后；是否是客户专用的类型为基线时，市场状态设置为样机Sample，否则其他情况下设置市场发布状态为Released 仅设置M视图 物料市场状态 {VIEW_4000,VIEW_8000,VIEW_8002,VIEW_9000,VIEW_2100/*,VIEW_3162,VIEW_3040*/,VIEW_2160,VIEW_2280,VIEW_2120,VIEW_2102,VIEW_2490,VIEW_2230,VIEW_2290,VIEW_1000,VIEW_2460,VIEW_2162,VIEW_4010,VIEW_2370};",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "6,发送sap",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "待确定：",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "list_item",
+              "text": "ITRMS20200302_008里有提到，需要将市场发布状态更新到SPS （调整内容：在原来D2+ESP基础上，将市场状态发送给SPS：样机）。----问题to开发：此业务点还在吗？",
+              "level": 0,
+              "prefix": "17. ",
+              "is_bullet": false
+            },
+            {
+              "type": "paragraph",
+              "text": "回复：查看老代码这个还有这个业务逻辑存在",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:36",
+    "source_file": "研发数据发布流程.docx",
+    "file_size_bytes": 537569,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 165,
+    "tables_found": 8,
+    "images_found": 6
+  },
+  "images": {
+    "img_600c295f": {
+      "type": "image",
+      "url": "images/img_600c295f.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 研发数据发布... (运行 0)"
+    },
+    "img_592f1eaa": {
+      "type": "image",
+      "url": "images/img_592f1eaa.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 研发数据发布流程 (PL... (运行 0)"
+    },
+    "img_3fb4276a": {
+      "type": "image",
+      "url": "images/img_3fb4276a.png",
+      "format": "png",
+      "width": 1856,
+      "height": 506,
+      "size": "29.62 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_c87ed686": {
+      "type": "image",
+      "url": "images/img_c87ed686.png",
+      "format": "png",
+      "width": 1275,
+      "height": 908,
+      "size": "73.87 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_39bd320c": {
+      "type": "image",
+      "url": "images/img_39bd320c.png",
+      "format": "png",
+      "width": 1273,
+      "height": 229,
+      "size": "12.75 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_8b2882ff": {
+      "type": "image",
+      "url": "images/img_8b2882ff.png",
+      "format": "png",
+      "width": 1280,
+      "height": 226,
+      "size": "9.18 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

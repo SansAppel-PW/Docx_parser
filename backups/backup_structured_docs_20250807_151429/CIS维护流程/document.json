@@ -1,0 +1,1448 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/CIS维护流程.docx",
+    "title": "",
+    "author": "wuxiaojuan6@hikvision.com",
+    "created": "2021-01-18 05:43:00+00:00",
+    "modified": "2024-12-13 11:32:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "500.00 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "CIS维护流程",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-09"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-09"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1.0"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0流程迁移"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 2",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建/修改（CISM-010） 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 条件表达式- 是否直接提交 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 流程表达式- 设置参与者 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 流程表达式- 动态授权 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 条件表达式- 封装、隐藏禁用 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 封装维护/符号维护/显示与隐藏审核（CISM-020） 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.7 封装审核/符号审核（CISM-030） 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 流程表达式- 更新物料属性 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.9 流程表达式- 维护库文件 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.10 流程表达式- 同步数据至快速选型 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.11 流程表达式- 邮件通知 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.12 流程表达式- CIS库集成 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.13 流程表达式- 通知3D标准化工程师 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.14 流程表达式- 去除权限 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.15 流程表达式- 临时禁用邮件通知 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.16 流程表达式- 启动3D建模流程 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.17 流程表达式- 另存EPM零件模型 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.18 流程表达式- 流程结束提醒邮件 5",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "523pt",
+              "height": "315.05pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_b627ffcc",
+              "size": "136.27 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_b627ffcc.emf",
+              "file_path": "embedded_objects/embedded_obj_b627ffcc.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_e3a34633.png",
+              "format": "png",
+              "width": 1896,
+              "height": 699,
+              "size": "100.66 KB",
+              "context": "段落 (运行 0)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "http://plmuat.hikvision.com/Windchill/ptc1/hermes?processType=CISM&pboid=ext.hikvision.plm.generic.order.GeneralOrder:2415043906&wfoid=wt.workflow.engine.WfProcess:2415043916 (BUG:无法结束)",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "section",
+              "title": "创建/修改（CISM-010）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "流程入口权限控制：仅器件工程师及CIS管理员可发起。",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "补充更新：流程入口权限控制比对老代码只判断是否是“器件工程师”，数据源取自上下文配置中“器件工程师”角色，只要当前登录人属于这个角色成员就有权限发起流程，否则提示无权限。----已和业务汤晓俊确认先跟老代码逻辑保持一致",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS （属性页面的各管理员，主管取值于系统配置表->常用角色配置->其他角色）",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_b3521cc9.png",
+                  "format": "png",
+                  "width": 1276,
+                  "height": 688,
+                  "size": "52.07 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交系统校验",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "进入流程首页校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "是否是\"器件工程师\"或“CIS管理员”角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象不为空校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "维护类型必填校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动CIS 流程隐藏维护物料状态必须为D1,D2,S1,M1,E1,E2,E3,E4. 非隐藏的物料启动CIS流程物料状态必须为D1，D2，S1，M1，E1。 物料是否被检出 物料不是虚拟件/原材料,分类属性不能为空。 物料存在没有走完的CIS流程。"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- 是否直接提交",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "非直接提交（通过其它流程自动启动流程）时流程到“提交”节点",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置参与者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据表单内容设置器件主管、footprint管理员、符号管理员、footprint管理员主管、符号管理员主管、3d标准化工程师，流程角色均取自流程页面"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 动态授权",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "对流程的角色赋予下载附件权限",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- 封装、隐藏禁用",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-封装、隐藏禁用"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "如果页面CIS维护项选择“封装维护”或“器件禁用”，流程到“封装维护”和“符号维护”节点 如果选择“CIS库隐藏维护”，流程到“显示与隐藏审核”节点"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "封装维护/符号维护/显示与隐藏审核（CISM-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "4. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_5768c19e.png",
+                  "format": "png",
+                  "width": 1277,
+                  "height": 668,
+                  "size": "44.91 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "流程节点系统校验项",
+                  "level": 0,
+                  "prefix": "5. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 5,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "封装维护"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项必填 只允许上传一个正确的封装库文件 请上传格式正确的封装库文件，必须是.DRA格式 主签审对象不能为空（问题：这已在创建节点校验过，这里还有必要校验吗） 物料对应的封装名称必填 器件禁用不需要上传库文件，其他必须上传 封装库文件与部件封装名称不符"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "符号维护"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项必填 只允许上传一个正确的符号库文件 请上传格式正确的符号库文件，必须是.OLB格式 主签审对象不能为空（问题：这已在创建节点校验过，这里还有必要校验吗） 物料对应的符号名称和Value属性必填 器件禁用不需要上传库文件，其他必须上传 符号库文件与部件符号名称不符"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "新需求：",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "当CIS维护项选择“器件禁用”时， 符号名称的前面需要手动添加“禁”字。后续可优化为：自动添加“禁”，无需人为维护及审核。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "封装审核/符号审核（CISM-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_f0b0a930.png",
+                  "format": "png",
+                  "width": 1276,
+                  "height": 388,
+                  "size": "21.48 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 更新物料属性",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 6,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "更新物料属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "更新零部件属性 设置全局变量symbolName、footprintName和aValue的值到零部件对应的属性上 如果CIS维护项选择“CIS库隐藏维护”，设置物料\"是否隐藏\"属性true"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "index": 7,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程中字段名称"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PLM分类属性"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "封装名称"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PCB Footprint"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "工艺说明"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "工艺说明"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "符号名称"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Schematic"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Value属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Value"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "CIS库隐藏维护"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "是否隐藏：是"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 维护库文件",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "更新或创建CIS库文档（EPMDocument)，并与部件关联",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 同步数据至快速选型",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "同步数据至快速选型系统",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 邮件通知",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "发送邮件至CIS库Footprint管理员,CIS库Symbol管理员",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- CIS库集成",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "同步数据至CIS库，相关文档发送CIS库",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 通知3D标准化工程师",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "邮件通知3D标准化工程师",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 去除权限",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "移除动态授权赋予的下载附件权限",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 临时禁用邮件通知",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "物料禁用流程通知，有新的物料禁用流程，请您及时处理与之相关的CBB电路",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "CIS维护项选择“器件禁用”时，流程结束时发送邮件，收件人：从hikconfig.properties配置文件取CBBA配置；",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 启动3D建模流程",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "启动3D建模流程，CIS维护流程是通过料号申请流程或BOM审核申请流程启动并且勾选了创建3D建模",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 另存EPM零件模型",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "另存EPM 零件模型：以标准3D模板另存以流程中关联料号命名的EPM零件模型",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "对于系统配置表《CIS维护流程自动创建模型物料组配置》内的物料大类/组在CIS维护流程正常执行后，系统以标准3D模板创建CIS维护流程中对应料号命名的EPM零件模型；该模型创建在Standard Lib/Component/CAD中。命名取物料的封装名称字段；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "cisSaveAsEpmModel = MMGS_PART_SOLID.PRT",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "cisSaveAsEpmAsmModel = mmgs_asm_design.asm",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1、原材料：物料组在系统配置表《CIS维护流程自动创建模型物料组配置》中配置；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "虚拟件：物料组在系统配置表《物料大类/组配置》-“虚拟件BOM审核触发CIS库和创建3D及空",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "白ASM‘’中配置；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2、以‘’物料编码+drawingType‘’为编码，查询系统内是否已存在EPM，若存在，则不再创建EPM模型；若不存在，则创建EPM（原材料时drawingType=“.PRT”，虚拟件时drawingType=“.ASM”）",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 流程结束提醒邮件",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "流程结束时邮件提醒流程各负责人",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "流程终止 邮件通知 -- CIS库Footprint管理员,CIS库Symbol管理员",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "通知3D标准化工程师 -- plm-系统配置-常用角色配置-3D标准化工程师",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "流程结束提醒邮件 -- 流程创建者、plm-系统配置-常用角色配置-CIS流程结束通知邮件收件人",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:37",
+    "source_file": "CIS维护流程.docx",
+    "file_size_bytes": 511998,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 107,
+    "tables_found": 8,
+    "images_found": 6
+  },
+  "images": {
+    "img_0a6a5f21": {
+      "type": "image",
+      "url": "images/img_0a6a5f21.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: CIS维护流程（PLM2.... (运行 0)"
+    },
+    "img_69bf5d09": {
+      "type": "image",
+      "url": "images/img_69bf5d09.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: CIS维护流程（PLM2.... (运行 0)"
+    },
+    "img_e3a34633": {
+      "type": "image",
+      "url": "images/img_e3a34633.png",
+      "format": "png",
+      "width": 1896,
+      "height": 699,
+      "size": "100.66 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_b3521cc9": {
+      "type": "image",
+      "url": "images/img_b3521cc9.png",
+      "format": "png",
+      "width": 1276,
+      "height": 688,
+      "size": "52.07 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_5768c19e": {
+      "type": "image",
+      "url": "images/img_5768c19e.png",
+      "format": "png",
+      "width": 1277,
+      "height": 668,
+      "size": "44.91 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_f0b0a930": {
+      "type": "image",
+      "url": "images/img_f0b0a930.png",
+      "format": "png",
+      "width": 1276,
+      "height": 388,
+      "size": "21.48 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

@@ -1,0 +1,3543 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/PLM 2.0 –合规业务汇总.docx",
+    "title": "",
+    "author": "wuxiaojuan6@hikvision.com",
+    "created": "2025-06-24 11:25:00+00:00",
+    "modified": "2025-06-25 12:33:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "1369.69 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "PLM 2.0 –合规业务汇总",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "柳滔8"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2025-06"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2023年09月27号至今新做的 认证与合规 需求，对分类维护、料号申请、制造商部件认证、BOM审核、研发数据发布、ECN/ECA 等流程的更改记录"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2023年09月27号至今新做的 认证与合规 需求涉及上下游的集成功能"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 整体功能描述 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 分类维护流程 3",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "2.1 材料环保风险等级 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "2.2 推送ECCN信息 3",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "3 料号申请 3",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 是否启动物料认证 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 环保RoHS准入 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 维护合规文档有效期 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 触发SRM问询 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 有AML触发SRM问询 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 触发ECCN流程 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.7 同步ECCN数据 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 触发认证与合规文档与属性 7",
+              "level": 2,
+              "content": [
+                {
+                  "type": "section",
+                  "title": "3.8.1 合规文件 8",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "3.8.2 MDS 8",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "3.8.3 技术文件 8",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "3.8.4 属性 9",
+                  "level": 3,
+                  "content": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "3.9 ODM产品可销售国家清单维护 9",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "4 BOM审核 10",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "4.1 ECCN受控校验提醒 10",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "4.2 DOC签核符合性校验 10",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "5 研发数据发布 11",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "5.1 性能CDF清单维护 11",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "5.2 WEEE产品数据自动计算 11",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "5.3 流程表达式- 计算成品Rohs签核符合性 12",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "5.4 流程表达式- 同步成品电池信息到SAP 12",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "6 制造商部件申请 13",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "6.1 环保ROHS准人要求前置 13",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "6.2 制造商部件变更 13",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "7 制造商部件认证 13",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "7.1 MPN的ECCN信息提示 14",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "8 ECN/ECA变更 14",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "8.1 ECA的ECCN信息提示 14",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "9 上下游接口（开发时补充） 14",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "9.1 市场发布 14",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "9.2 资质管理平台 15",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "9.3 检测认证 15",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "9.4 MPS下载证书 17",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "9.5 OA信息获取申请 18",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "整体功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_132fc597.png",
+              "format": "png",
+              "width": 1074,
+              "height": 579,
+              "size": "128.34 KB",
+              "context": "段落 (运行 0)"
+            },
+            {
+              "type": "paragraph",
+              "text": "合规与认证汇总-云文档",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "分类维护流程",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "材料环保风险等级",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "在‘物料组’上面定义‘*材料环保风险等级’，高、中、低，无默认值；必填； 问号?，鼠标停留显示：高中低等级分别对应不同的物料管理策略，请注意正确填写！"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1、在‘规范性审核’展示‘*材料环保风险等级’； 2、分类属性维护流程走完，把配置信息写入‘物料组材料环保风险等级配置表’"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "推送ECCN信息",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PLM提供物料组主数据全量查询接口，更新后推送；"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240705_102_自研成品ECCN属性管理方案"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PLM分类维护流程（物料大类与物料组，新建/变更/失效）实时调用‘贸易合规自研平台’提供的接口10765016246，配合GTS完成预分类库，预分类要素关系矩阵基础数据搭建与更新；"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240705_102_自研成品ECCN属性管理方案"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "料号申请",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_29cd0815.png",
+              "format": "png",
+              "width": 550,
+              "height": 101,
+              "size": "7.14 KB",
+              "context": "段落 (运行 0)"
+            },
+            {
+              "type": "section",
+              "title": "是否启动物料认证",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "认证流程挂的时间太久，进而会导致因1019大类的电池物料未认证不能加到整机BOM，业务部有抱怨，优化电池物料MPN认证启动节点，缩短流程时效",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【配置表 > MustAuth表配置】 开放编辑权限，给杨晓燕,杨孟瑶，把不需要强制认证101901、101906、101908、101909、101910的物料组，是否强制认证=N，确认后台逻辑是否强制认证=N，物料认证不强制阻拦流程提交，只提醒；在研发数据发布S1卡住，必须走物料认证流程。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240510_014_优化电池物料MPN认证启动节点，缩短流程失效"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【规范性审核节点】默认为勾选‘是否启动MPN认证’，配置表，是否强制认证=N，页面勾选可编辑调整；是否强制认证=Y，页面不允许页面编辑调整勾选框"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240510_014_优化电池物料MPN认证启动节点，缩短流程失效"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "环保RoHS准入",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 5,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【需求1】：优化物料DoC签核符合性规则 1）环保风险等级通过物料组新建和制造商申请两个流程中正向输入。 2）MPN综合环保等级评定标准更新，当制造商环保风险为低，则MPN风险等级判定为低。 3）物料DoC签核符合性判断由原来的材料等级调整为综合风险等级（材料+制造商综合维度）。 【需求2】：DoC签核符合性校验 1）MPN创建、MPN变更和MPN认证流程中，加入物料RoHS签核维度不满足要求的校验提醒。 【需求3】：产品BOM子件校验提醒 1）海外全球产品BOM签审和研发数据发布阶段，检查RoHS签核符合性。不满足要求时系统自动推送邮件提醒，一周一封，代码累加，E2及以后状态的物料可以移除。 【需求4】：报表优化（业务过程审计使用，其中子件不符合导出需要优先开发） 1）子件RoHS不符合导出和RoHS校验日志报表增加DoC签核校验结果。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "R24080200323 RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "维护合规文档有效期",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 6,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置合规报告有效期逻辑如下: 1获取大类非1015的物料的”材料环保风险等级”属性值。 2 获取”材料环保风险等级”属性值不为空的物料的MPN(如果属性值为空，则不设置合规报告的有效期) 3 获取物料以及对应MPN关联的合规文档(合规类-材料成分表(MDF)/合规类-环保测试报告(HIK)/合规类-环保分体报告(供方)/合规类-报告,并且文档需要符合以下要求: 1) 文档的“失效日期”为空; 2) 文档的“认证日期”值为“RoHS2.0(十项)”“RoHS2.0(六项)”“RoHS1.0” 4 设置以上符合要求的文档的 “有效期至”，如果 “材料环保风险等级”值为“High”,有效期至当前时间+1年的具体年限，否则有效期至当前时间+2年的具体年限。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "R24080200323 RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "触发SRM问询",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 7,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1、根据<贸易合规规则配置>来管控触发的问询单范围，调用115016169接口创建SRM贸易合规问询数据； 2、SRM超时问询调用PLM接口00541016114创建 合规属性维护流程； 3、SRM变更场景调用PLM接口00541016114创建 合规属性变更流程； 4、PLM根据是否受美国管控与美系物料来自动创建合格属性维护流程承接SRM结果，并确认；。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240531_074_外采原材料贸易合规属性维护（高风险） RMS20240708_071_原材料低风险、ODM、项目外采合规信息收集PLM方案开发需求"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1. 规范性审核节点是否触发SRM下新增合规属性，高风险等级且eccn无值则默认勾选且无法修改，此时流程结束后触发SRM合规问询流程"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240531_074_外采原材料贸易合规属性维护（高风险） RMS20240708_071_原材料低风险、ODM、项目外采合规信息收集PLM方案开发需求"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "场景（流程交互）： 1、SRM合规问询流程 与 PLM流程交互，SRM流程48小时结束； 2、PLM流程‘驳回’触发SRM流程审核； 3、PLM流程‘终止’触发SRM流程终止；"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "涉及4个接口： 1、创建SRM贸易合规数据 115016169 2、更新SRM贸易合规数据状态 115016173 3、PLM创建合规属性审核流程 00541016114 4、查询SRM贸易合规数据 115017828"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "有AML触发SRM问询",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 8,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "在‘物料组’上面定义‘*材料环保风险等级’，高、中、低，无默认值；必填； 问号?，鼠标停留显示：高中低等级分别对应不同的物料管理策略，请注意正确填写！"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1、在‘规范性审核’展示‘*材料环保风险等级’； 2、分类属性维护流程走完，把配置信息写入‘物料组材料环保风险等级配置表’"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "触发ECCN流程",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 9,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PLM根据物料组调用贸易合规自研平台提供的接口10765016245来判定产品代码的‘物料组’是否关联‘ECCN预编码’，有则触发ECCN预分类值确认流程； 1、以料号申请为主线，验证 原材料、ODM产品、外购成品 触发SRM合规维护流程； 2、以料号申请为主线，验证自研成品触发 新产品ECCN分类流程、ECCN预分类值确认流程。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240531_074_外采原材料贸易合规属性维护（高风险） RMS20240708_071_原材料低风险、ODM、项目外采合规信息收集PLM方案开发需求"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PLM根据物料组调用贸易合规自研平台提供的接口10765016245来判定产品代码的‘物料组’是否关联‘ECCN预编码’，对于没有预编码的物料，触发‘贸易合规自研平台’的‘新产品ECCN分类’流程，流程结束调用PLM提供的接口100541016402回写数据，PLM接收记录到‘贸易合规配置表；"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240531_074_外采原材料贸易合规属性维护（高风险） RMS20240708_071_原材料低风险、ODM、项目外采合规信息收集PLM方案开发需求"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "同步ECCN数据",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 10,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "场景1: 同步物料信息(物料编号)到gts 1. 前置条件:在<临时开启通道设置>配置表中通过配置类型为“syncMaterial2Gts”获取字段“是否启用”的值，如果值为“否”则不同步，否则进行同步操作。 2. 同步物料信息(物料编号)到gts系统,同步接口: 10765015563 场景2:同步ECCN信息,同步逻辑如下: 1. 前置条件:通过物料编号在<贸易合规>配置表中查询是否有配置信息，如果有配置信息，则不进行后续同步操作，否则执行同步逻辑: 2. 同步逻辑: a) 过滤出自研成品:过滤逻辑: i. 通过物料获取相关属性，基于这些属性在<贸易合规规则配置>配置表中获取数据，如果能获取到。 ii. 在配置表<贸易合规规则配置>获取到字段“是否启用”值为“是”的记录，并且符合一下条件:  字段“应用类型”为“触发自研ECCN分类与问卷确认流程”。  字段“物料类型”为当前物料的类型。  字段“业务部”等于当前物料的所属业务部门。  字段“采购类型”为“F采购”。  字段“销售地区”为当前物料销售地区。  字段“是否客户专用”为当前物料获取的对应字段的值。 同时符合上面2重条件，并且又符合第二个条件，物料归纳为成品自研。 b) 过滤出非贸易管控物料:不符合a场景的，统一归纳为非贸易管控物料。 c) 过滤出无ECCN值得自研成品 d) 无ECCN的自研成品发起新产品ECCN分类流程，发起接口: 10765016350。 e) 把a和b过滤出来物料全部写入<合规贸易>配置表。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240705_102_自研成品ECCN属性管理方案 RMS20240531_074_外采原材料贸易合规属性维护（高风险） RMS20240708_071_原材料低风险、ODM、项目外采合规信息收集PLM方案开发需求"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "触发认证与合规文档与属性",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_ffc6344f.png",
+                  "format": "png",
+                  "width": 1345,
+                  "height": 506,
+                  "size": "48.42 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "section",
+                  "title": "合规文件",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "table",
+                      "index": 11,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "序号"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "功能"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "需求单"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "1"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "1.勾选框： 不选‘是’则清空数据且不可编辑，选择‘是’则默认带出数据‘请提供安规证书/报告、RoHS2.0、REACH等环保报告、物料测试报告、物料可靠性报告、供应商出货检验报告、其他供应商资料’，可编辑。 2.默认勾选: [物料大类/组配置]：配置类型：SRM主动需求合规文件默认勾选： 配置了物料大类或者物料组后规范性审核节点的SRM申请类型中的合规文件则默认勾选"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）"
+                              }
+                            ]
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "MDS",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "table",
+                      "index": 12,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "序号"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "功能"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "需求单"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "1"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "1.勾选框 不选‘是’: 则清空数据且不可编辑， 选择‘是’: 则默认带出‘请填报物料MDS物质成分信息’，可编辑。 2.默认勾选: 物料大类/组配置：配置类型：MDS自动触发需求:配置了物料大类或者物料组后规范性审核节点的SRM申请类型中的“MDS”才默认勾选"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）"
+                              }
+                            ]
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "技术文件",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "table",
+                      "index": 13,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "序号"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "功能"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "需求单"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "1"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "1.勾选框 不选‘是’则清空数据且不可编辑，选择‘是’则可下拉选择接口带出的数据。 2.默认勾选 在[SRM主动需求技术文件配置表]配置,技术文件默认勾选且文档类型默认勾选上配置的数据"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）"
+                              }
+                            ]
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "属性",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "table",
+                      "index": 14,
+                      "rows": [
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "序号"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "功能"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 0,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "需求单"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 0,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "1"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 1,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "1.勾选框 不选‘是’: 则清空数据且不可编辑， 选择‘是’: 则可下拉选择接口带出的数据。 2.默认勾选: 在[SRM主动需求属性配置表]中,属性默认勾选且属性类型默认勾选上配置的数据"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "table_cell",
+                            "row": 1,
+                            "col": 2,
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）"
+                              }
+                            ]
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "ODM产品可销售国家清单维护",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 15,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1. 发送 “供应商编码RoHS为空值时”邮件逻辑: 1) 邮件格式以及内容参照1.0的格式 2) 发送前置条件: a) 物料大类为“1901”，“1921”，“1902”，“1903” b) 物料“环保标识”属性值不是“非RoHS物料” c) 查询不符合条件的供应商逻辑: i. 查询物料的关联的具有“合规类-声明”的MPN; ii. 在配置表“供应商与制造商对应关系配置”查询 制造商关联的供应商，; iii. 依据供应商在配置表“供应商-环保协议配置表”过滤出 “ROHS”为空的 供应商 d) 邮件发送上面过滤出来的供应商这些给物料创建者  发送“【通知】ODM物料合规信息维护”邮件逻辑: 1) 邮件格式以及内容参照1.0的格式 2) 发送前置条件: a) 获取物料的“是否是ODM”属性，如果值为“是”; b) 在物料大类组配置中获取到ODM产品可销售国家清单排除标识, 物料组编号不包含这些标识; c) 获取物料的“销售范围”属性为“国内”或者“全球” 3) 依据部门信息在配置表“ODM产品可销售国家清单维护人员”查找部门人员，发送邮件给这些人员"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "维护合规标识属性 1、获取物料的合规标识（com.hikvision.plm.complianceControl）属性值。 如果合规标识包含01（01代表 产品安规关键零部件标示）。 维护合规版本逻辑如下: 1) 依据编码先从HIK_PART_COMPLIANCE_VERSION表中删除数据。 2) 然后插入数据(“料号申请流程：合规标识”)到表HIK_PART_COMPLIANCE_VERSION中。 2、PCB、电子料、机电料,结构件(申请的时候非必填) 校验合规标识属性必填并且不能等于产品防爆关键零部件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "请维护合规标识! 所选择的物料不具有制造商信息，不能走合规维护申请!"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": []
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "BOM审核",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "ECCN受控校验提醒",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 16,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1、点击‘BOM规范校验’时触发校验，只做提醒不影响流程提交； 2、在BOM审核流程，基于‘贸易合规配置表’项目管控范围规则，对‘主签审对象列表’表格数据（成品、半成品、原材料..）判定‘导入部门’是否符合控制范围，对符合的表格签审对象，若有BOM结构，需遍历迭代BOM第一层子件，判定IPN的“是否受美国管控(IPN)”=是，对受控的物料给出提醒"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240729_100_BOM审核流程管控股份及微影的产品使用受控物料"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "DOC签核符合性校验",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 17,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "成品+E自制+海外/全球 1、原材料应用到‘海外/全球’产品中，走BOM审核、研发数据发布随签切换状态: 1.1、 以校验不通过的原材料物料的‘器件工程师’、‘结构工程师’分开接收不满足签核要求物料（去掉E2及以后的状态）的邮件通知，增量记录到 RoHS校验日志，并定期一周一封邮件提醒用户； 对‘RoHS校验日志’的‘DOC签核符合性校验结果’不通过的最新数据定期发邮件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "R24080200323 RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计"
+                          },
+                          {
+                            "type": "image",
+                            "url": "images/img_280d4121.png",
+                            "format": "png",
+                            "width": 590,
+                            "height": 320,
+                            "size": "27.75 KB"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "研发数据发布",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_ba6afbdd.png",
+              "format": "png",
+              "width": 615,
+              "height": 99,
+              "size": "19.43 KB",
+              "context": "段落 (运行 0)"
+            },
+            {
+              "type": "section",
+              "title": "性能CDF清单维护",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 18,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "性能CDF清单维护逻辑 产品初始性能CDF清单维护：整机研发数据发布流程走完，分析代码关联的有效认证证书，根据证书大类和证书小类比对“需要CDF管控的认证类型配置表”，如果有存在认证类型为认证类型（性能EMC）或者认证类型（性能安规）清单中，则导出性能CDF清单，存入IT数据表中。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20230815_011产品CE认证性能符合性风险管控-关键件清单CDF定义及导出"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "生命周期性能CDF清单维护：产品BOM发生变更，或者CDF关键件的CDF管控规格发生变更，需要经过变更影响评估通过后，触发对应认证类型的性能CDF清单更新；"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20230815_011产品CE认证性能符合性风险管控-关键件清单CDF定义及导出"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "WEEE产品数据自动计算",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_3806f090.png",
+                  "format": "png",
+                  "width": 1790,
+                  "height": 250,
+                  "size": "79.25 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "table",
+                  "index": 19,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1、对象： 销售地区为海外/全球自研产品（除3613大类pyronix）--自动计算； 销售地区为海外/全球外购产品—不做自动计算，支持人工写入。 2、触发条件：产品研发数据发布流程完成后计算 3、系统显示：certification页面"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20220818_012_WEEE产品数据自动计算"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "基于WEEE法规注册要求，需要申报产品中电池和包装所需信息。原人工收集统计的方式过于繁琐，改用PLM研发数据发布后产品自动计算，同时为各分公司提供报表导出单个产品的WEEE申报数据功能；"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20220818_012_WEEE产品数据自动计算"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 计算成品Rohs签核符合性",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "（1）RMS20201222_006RoHS自动签核、产品自声明自动化流程",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "物料类型：成品+E自制+海外|全球+基线， 流程结束时调用：调用《产品RoHS签核数据报表优化》得出自声明结论存在数据库表中 （成品->新Tab页布局：【产品】CE-RoHS自声明）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（2）RMS20211020_010【紧急】DoC电子化-业务分析报告",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "产品CE-RoHS自声明维护-配置表定时队列。定时队列触发条件：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "在该配置表里面的物料，产品线不为空，标签型号不为空，自声明结论=符合，配置信息状态=生效，状态=D2,S1,M1,E1,E2,E3，认证证书无认证大类=CE,认证小类=CE-RoHS，由队列定时执行创建认证证书",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "（3）RMS20211025_073整机和半成品BOM评审优化（PLM系统）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "计算时新增子成品的计算逻辑",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "table",
+                  "index": 20,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料类型：成品+E自制+海外|全球+基线 流程结束时调用：调用《产品RoHS签核数据报表优化》得出自声明结论存在数据库表中"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20201222_006RoHS自动签核、产品自声明自动化流程"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "IPN关联MPN的相关流程（BOM审核、研发数据发布），根据流程中-物料DOC签核符合性校验逻辑更新，提交并给出缺合规类申明或测试报告的提醒信息，不阻止流程提交"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）流程与IT需求管理流程"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 同步成品电池信息到SAP",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "参照BOM审核的逻辑，再次计算电池信息并同步到SAP。计算时覆盖之前的值。可参照复用计算逻辑《ITRMS20190509_036_特殊产品&物料含危险品（电池）识别》",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "制造商部件申请",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "环保ROHS准人要求前置",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "需求单：RMS20240712_049_环保RoHS准入要求前移过程管理（业务流程中校验提醒+待办邮件跟踪+认证组过程审计）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "【制造商申请流程】‘品质审核’任务节点，增加；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_d5419890.png",
+                  "format": "png",
+                  "width": 1078,
+                  "height": 551,
+                  "size": "143.03 KB",
+                  "context": "段落: ... (运行 1)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1、在制造商部件属性里面增加‘*是否通过QC080000’，取值为:是/否，单选按钮，无默认值；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2、问号?，鼠标停留显示：高中低等级分别对应不同的物料管理策略，请注意正确填写！",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3、流程提交，*是否通过QC080000=是，必须在附件上传相应的证书名称含“QC080000”；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4、在制造商部件属性里面增加 ‘HSF审核得分’：文本输入框，（置灰显示填写说明“有得分--填写具体数值，无得分-填写具体原因）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "5、新增的2个属性需要支持导出方便后续数据分析；",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "制造商部件变更",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 21,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "IPN的MPN数量 与 是否受美国管控 (MPN)、美国ECCN(MPN) 值变更时，IPN的美国ECCN、是否受美国管控 (IPN)需要重新计算"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240919_009_MPN的ECCN与受美国管控原因被更新运算逻辑调整"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "制造商部件认证",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "MPN的ECCN信息提示",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 22,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1、ECCN风险等级=高，节点=提交认证报告，‘贸易合规’数据表有记录该物料 且 制造商部件的ECCN有值，显示 MPN的ECCN值； 2、若该物料存在，但ECCN无值，认证通过、条件通过 置灰不可选，流程不允许往下走"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240531_074_外采原材料贸易合规属性维护（高风险） RMS20240708_071_原材料低风险、ODM、项目外采合规信息收集PLM方案开发需求"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1、高风险等级，ECCN有值，在 提交认证报告 节点 ，认证检测项 可以选择 认证通过、条件通过路由； 2、高风险等级，ECCN无值，在 提交认证报告 节点 ，认证通过、条件通过 置灰不可选，流程不允许往下走； 3、ECCN风险等级=低，本次不涉及；"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240531_074_外采原材料贸易合规属性维护（高风险） RMS20240708_071_原材料低风险、ODM、项目外采合规信息收集PLM方案开发需求"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "ECN/ECA变更",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "ECA的ECCN信息提示",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 23,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "在ECA流程，点击‘BOM规范检验’基于‘贸易合规配置表’项目管控范围规则，对‘产生的对象’表格数据（成品、半成品、原材料..），如果有BOM结构，需遍历迭代BOM第一层子件，判定IPN的“是否受美国管控(IPN)”=是，对受控的物料给出提醒"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20240729_100_BOM审核流程管控股份及微影的产品使用受控物料"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "上下游接口（开发时补充）",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "市场发布",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 24,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "序号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求单"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1、根据 贸易合规配置表的 <IRDMS市场发布>应用类型来管控触发范围； 2、IRDMS主动调用PLM提供的接口00541016405，传递物料代码，PLM返回*是否ECCN管控、受美国管控原因（IPN）、*美国ECCN值、EU-ECCN值、ECCN（来源单号）、ECCN（来源链接） 等信息给IRDMS。 3、IRDMS市场发布，在‘提交’时根据不同的销售地区需要强控，对于GTS禁售国家清单给出提示并阻止流程提交，IRDMS系统根据多个物料代码调用3.1.2.2接口（00541016405）PLM根据 贸易合规管控范围配置， 判定物料代码是否在ECCN管理范围，给 是否ECCN管控 赋值=是/否 4、IRDMS市场发布，针对海外产品无ECCN值的情况强控，阻止流程提交！"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ITS20241218_468_刷新贸易合规一期项目外成品、半成品、软件和服务的历史数据，刷新成NOC99并传给SAP&GTS"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "资质管理平台",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "1、资质管理平台，调用PLM接口068013175获取认证证书报告接口，增加传递参数：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "证书关联的物料代码、物料描述、送检产品型号、适用产品型号",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_b22096bd.png",
+                  "format": "png",
+                  "width": 1899,
+                  "height": 995,
+                  "size": "177.58 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "检测认证",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "1、变更场景，调用接口068000404创建或更新认证证书/认证报告",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_3c06b25e.png",
+                  "format": "png",
+                  "width": 841,
+                  "height": 529,
+                  "size": "72.26 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2、PLM系统中可搜索已失效证书名称，通过已失效证书名称可查看到最新证书",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "示例：通过 检测认证流程（VC2024050617） 变更PLM证书，原证书编号* 是 Q 50601444 0001，新建的 新证书编号Q 50642080 0001",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_771fb461.png",
+                  "format": "png",
+                  "width": 1043,
+                  "height": 654,
+                  "size": "158.72 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "MPS下载证书",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_5e78307e.png",
+                  "format": "png",
+                  "width": 1675,
+                  "height": 548,
+                  "size": "97.41 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "MPS下载证书/报告，调用PLM 942011101判定权限并提供下载地址；",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "非海康品牌（包括IPN原材料）从AML里面的certification; 成品的ODM产品从certification取证书与报告",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "报告的来源有2种场景，第一种是认证报告类型；第二种是在认证证书附件里面",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "MPS下载标签图片，PLM根据用户名、产品代码，确定权限并邮件提供图片，24小时内不重复提供",
+                  "level": 0,
+                  "prefix": "4. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_d13cf3b1.png",
+                  "format": "png",
+                  "width": 1805,
+                  "height": 908,
+                  "size": "117.59 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "成品无标签主内容，PLM可以返回类似空值的信息，MPS页面提示No Files",
+                  "level": 0,
+                  "prefix": "5. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "不允许频繁点击Download，PLM后台异步生成标签图片，邮件发给MPS",
+                  "level": 0,
+                  "prefix": "6. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "海康品牌的外购成品的标签获取路径：物料（采购类型为外购）- 相关对象 - 文档，物料实物/标签图 里面获取",
+                  "level": 0,
+                  "prefix": "7. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "当前标签预览资源紧张，请重新点击加载模板并耐心等待，或稍后再试；",
+                  "level": 0,
+                  "prefix": "8. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "后台生成预览图片需要一点时间，请耐心等待...",
+                  "level": 0,
+                  "prefix": "9. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "预览异常，PLM返回异常信息给MPS；",
+                  "level": 0,
+                  "prefix": "10. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "套装成品BOM， PLM只返回顶层成品第一层的标签图片；",
+                  "level": 0,
+                  "prefix": "11. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "成品物料关联多份标签，把多张标签图片用一封邮件发送；",
+                  "level": 0,
+                  "prefix": "12. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "PLM增加配置表，记录‘OA内部信息获取流程’执行状态与结果；MPS调用942011101，PLM把用户有下载权限的证书/报告链接返回给MPS；",
+                  "level": 0,
+                  "prefix": "13. ",
+                  "is_bullet": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "OA信息获取申请",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_ae9b8f47.png",
+                  "format": "png",
+                  "width": 1210,
+                  "height": 560,
+                  "size": "152.41 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "OA内部信息获取申请流程，3节点结束调用PLM接口，把 用户名、*物料代码、*证书类型、*证书编号、权限申请单编号、链接地址、使用期限（开始时间、结束时间）、流程状态，按 物料代码+流程单编号 推送给PLM，PLM更新配置表",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:32",
+    "source_file": "PLM 2.0 –合规业务汇总.docx",
+    "file_size_bytes": 1402565,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 191,
+    "tables_found": 25,
+    "images_found": 15
+  },
+  "images": {
+    "img_2b7aa818": {
+      "type": "image",
+      "url": "images/img_2b7aa818.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 研发数据发布... (运行 0)"
+    },
+    "img_3b99dfca": {
+      "type": "image",
+      "url": "images/img_3b99dfca.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 研发数据发布流程 (PL... (运行 0)"
+    },
+    "img_132fc597": {
+      "type": "image",
+      "url": "images/img_132fc597.png",
+      "format": "png",
+      "width": 1074,
+      "height": 579,
+      "size": "128.34 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_29cd0815": {
+      "type": "image",
+      "url": "images/img_29cd0815.png",
+      "format": "png",
+      "width": 550,
+      "height": 101,
+      "size": "7.14 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_ffc6344f": {
+      "type": "image",
+      "url": "images/img_ffc6344f.png",
+      "format": "png",
+      "width": 1345,
+      "height": 506,
+      "size": "48.42 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_280d4121": {
+      "type": "image",
+      "url": "images/img_280d4121.png",
+      "format": "png",
+      "width": 590,
+      "height": 320,
+      "size": "27.75 KB",
+      "context": "表格17单元格[1,2]"
+    },
+    "img_ba6afbdd": {
+      "type": "image",
+      "url": "images/img_ba6afbdd.png",
+      "format": "png",
+      "width": 615,
+      "height": 99,
+      "size": "19.43 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_3806f090": {
+      "type": "image",
+      "url": "images/img_3806f090.png",
+      "format": "png",
+      "width": 1790,
+      "height": 250,
+      "size": "79.25 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_d5419890": {
+      "type": "image",
+      "url": "images/img_d5419890.png",
+      "format": "png",
+      "width": 1078,
+      "height": 551,
+      "size": "143.03 KB",
+      "context": "段落: ... (运行 1)"
+    },
+    "img_b22096bd": {
+      "type": "image",
+      "url": "images/img_b22096bd.png",
+      "format": "png",
+      "width": 1899,
+      "height": 995,
+      "size": "177.58 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_3c06b25e": {
+      "type": "image",
+      "url": "images/img_3c06b25e.png",
+      "format": "png",
+      "width": 841,
+      "height": 529,
+      "size": "72.26 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_771fb461": {
+      "type": "image",
+      "url": "images/img_771fb461.png",
+      "format": "png",
+      "width": 1043,
+      "height": 654,
+      "size": "158.72 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_5e78307e": {
+      "type": "image",
+      "url": "images/img_5e78307e.png",
+      "format": "png",
+      "width": 1675,
+      "height": 548,
+      "size": "97.41 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_d13cf3b1": {
+      "type": "image",
+      "url": "images/img_d13cf3b1.png",
+      "format": "png",
+      "width": 1805,
+      "height": 908,
+      "size": "117.59 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_ae9b8f47": {
+      "type": "image",
+      "url": "images/img_ae9b8f47.png",
+      "format": "png",
+      "width": 1210,
+      "height": 560,
+      "size": "152.41 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

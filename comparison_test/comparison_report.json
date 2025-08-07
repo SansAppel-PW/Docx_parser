@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-08-07 16:16:11",
+  "original_dir": "comparison_test/original_result",
+  "modular_dir": "comparison_test/modular_result",
+  "differences": [
+    {
+      "type": "image_count",
+      "original": 17,
+      "modular": 15,
+      "difference": -2
+    },
+    {
+      "type": "images_found",
+      "original": 17,
+      "modular": 15,
+      "difference": -2
+    }
+  ],
+  "summary": {
+    "original_images": 18,
+    "modular_images": 16,
+    "image_difference": -2,
+    "original_has_smartart": true,
+    "modular_has_smartart": true,
+    "original_has_embedded": true,
+    "modular_has_embedded": true
+  }
+}

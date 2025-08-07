@@ -1,0 +1,1354 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/物料认证申请流程.docx",
+    "title": "",
+    "author": "wuxiaojuan6@hikvision.com",
+    "created": "2019-09-04 01:23:00+00:00",
+    "modified": "2022-09-05 08:12:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "636.93 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "PLM 2.0 –物料认证",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟6"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022-08"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022-08"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1.0"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0 流程迁移"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板（Hikvision_MaterialAuth_WF） 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 3",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建/修改（MAU-010） 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 物料单体测试 (MAU-020) 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 完成相关OA工作流（MAU-030） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 其他流程表达式 5",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "491.85pt",
+              "height": "468pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_359e6a92",
+              "size": "159.92 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_359e6a92.emf",
+              "file_path": "embedded_objects/embedded_obj_359e6a92.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板（Hikvision_MaterialAuth_WF）",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_554b76fc.png",
+              "format": "png",
+              "width": 2555,
+              "height": 674,
+              "size": "55.33 KB",
+              "context": "段落 (运行 0)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "创建/修改（MAU-010）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_4181de2b.png",
+                  "format": "png",
+                  "width": 1277,
+                  "height": 678,
+                  "size": "49.88 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "功能按钮定义",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "按钮"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "认证对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "添加"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只能搜索添加：类型与【属性】表单定义的物料类型一致、最新状态为D1或D2的物料 添加->选择物料，若添加的物料有AML，则报错：物料XXX关联有MPN:XXX，请发起MPN认证流程。请对MPN发起认证, MPN认证流程链接地址"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "认证对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "导入"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "在导入模板前，进行合法性校验。所有项检验完成后，才提示或执行。 物料是否是否存在于系统。若否，则报错：物料XXX，不存在于系统。 其他与“添加”逻辑一致"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "认证对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "导入物料-文档关联关系"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "在导入模板前，对物料进行合法性校验。校验规则，与“导入“一致。 校验文档是否存在于系统。若否，则报错：文档XXX,不存在于系统。 若模板中的物料不在【认证对象列表】中，则导入的同时添加物料到列表。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": []
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交校验项",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "后台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "所选物料不属于同个物料组，不支持批量认证"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "后台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验是否包含物料测试报告： 成品+F采购+非（3017、3037、3056、3107、3117、3122、3127、3601~3612、3631、3650、3660）物料大类的物料，文档对象中必须包含《物料测试报告》"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "后台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料:{0}有关联未结束流程:{1} (其它物料认证流程) 报错信息：物料:190602552, 111111111aaaaaaaaaaaddddd, A.2 (Design)有关联未结束流程XXXXX"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "后台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验流程责任人： 1.根据物料组编码{0}未找到相关配置<（角色相关配置） 2.根据物料组编码{0}未找到【器件工程师】相关配置 3.根据物料组编码{0}未找到【CE主管】相关配置"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "后台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料:<{0}>的类型为<{1}>，与申请单的BOM类型:<{2}>不一致。"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "物料单体测试 (MAU-020)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_bc2f381e.png",
+                  "format": "png",
+                  "width": 1265,
+                  "height": 632,
+                  "size": "44.34 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "完成相关OA工作流（MAU-030）",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "其他流程表达式",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能逻辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置参与者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程中的器件工程师,品质工程师,资源工程师设置 1.根据物料组、物料认证申请流程获取流程角色配置中的器件工程师，如果未获取到器件工程师则根据物料组获取配置中的器件工程师，还是未获取到则异常(器件工程师参与节点“物料单体测试认证”) 2.获取常用角色配置中的“CE主管”配置，未获取到则异常"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "邮件通知抄送人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "邮件通知抄送人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-提交方式"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交方式：直接提交或编辑提交 直接提交：流程正常向下走 编辑提交：流程到“修改”节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-是否审查"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "成品+F采购+非（3017、3037、3056、3107、3117、3122、3127、3601~3612、3631、3650、3660）物料大类的物料,跳过规范性审核 不跳过审核，流程到”物料单体测试认证“节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-驳回或物料试制"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料单体测试认证节点路由如果选择不通过路由，则驳回到“修改”节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料试制Email"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "发送物料试制邮件到\"硬件管理部主管\""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "关联流程中选择的文档"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程中的文档和PBO搭建关系"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置M视图D2"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料认证后将稳定状态MPART设置为D2状态"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-修改SAP物料状态"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.必须管理AML物料，如果关联的“已认证”或“条件通过”状态的MPN并且物料状态是D1，修改SAP物料状态到D2（各个视图） 2.AML非必须管理或者不管理的物料，物料状态是D1，修改SAP物料状态到D2（各个视图） 3.修改失败后到“检查出错信息”节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-完成相关OA工作流"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "表单页面如果勾选“是否封样”或“是否触发风险评估”则流程到“完成相关OA工作流”节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料认证处理"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.必须管理AML物料，如果关联的“已认证”或“条件通过”状态的MPN并且物料状态是D1，设置物料到D2状态 2.AML非必须管理或者不管理的物料，物料状态是D1，设置物料到D2状态"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "邮件通知资源工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "邮件通知资源工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "传递认证结果到OA"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "将流程中各个节点的信息发送到OA系统，如：节点名、节点提交人、节点完成时间、选择的路由等"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "MPM集成"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PLM物料状态更新至MPM"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 2,
+                        "content": []
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:33",
+    "source_file": "物料认证申请流程.docx",
+    "file_size_bytes": 652219,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 62,
+    "tables_found": 5,
+    "images_found": 5
+  },
+  "images": {
+    "img_ec438f65": {
+      "type": "image",
+      "url": "images/img_ec438f65.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 物料认证申请流程... (运行 0)"
+    },
+    "img_e55ad280": {
+      "type": "image",
+      "url": "images/img_e55ad280.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 物料认证 (PLM 2.... (运行 0)"
+    },
+    "img_554b76fc": {
+      "type": "image",
+      "url": "images/img_554b76fc.png",
+      "format": "png",
+      "width": 2555,
+      "height": 674,
+      "size": "55.33 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_4181de2b": {
+      "type": "image",
+      "url": "images/img_4181de2b.png",
+      "format": "png",
+      "width": 1277,
+      "height": 678,
+      "size": "49.88 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_bc2f381e": {
+      "type": "image",
+      "url": "images/img_bc2f381e.png",
+      "format": "png",
+      "width": 1265,
+      "height": 632,
+      "size": "44.34 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

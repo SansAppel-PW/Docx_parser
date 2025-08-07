@@ -1,0 +1,366 @@
+{
+  "input_folder": "Files/PLM2.0",
+  "processing_timestamp": "2025-08-07 15:09:38",
+  "total_files": 50,
+  "processed": 38,
+  "failed": 12,
+  "skipped": 0,
+  "failed_files": [
+    {
+      "file": "CBB新建申请V2.0.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "材料维护申请流程V2.0.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "新ECR.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "材料颜色维护流程V2.0.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "特征零件属性维护申请流程V2.0.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "图文档权限申请流程V2.0.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "CBB废弃申请.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "原理图权限申请流程V2.0.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "CBB维护申请.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "特征零件申请流程V2.0.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "PLM2.0-产品软件升级申请-最新版.docx",
+      "error": "Document parsing failed"
+    },
+    {
+      "file": "CBB移库申请.docx",
+      "error": "Document parsing failed"
+    }
+  ],
+  "skipped_files": [],
+  "documents": [
+    {
+      "file": "包装标签设计申请流程.docx",
+      "path": "Files/structured_docs/包装标签设计申请流程/document.json",
+      "status": "success",
+      "images_found": 25,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "MCT流程.docx",
+      "path": "Files/structured_docs/MCT流程/document.json",
+      "status": "success",
+      "images_found": 3,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "制造商申请V2.0.docx",
+      "path": "Files/structured_docs/制造商申请V2.0/document.json",
+      "status": "success",
+      "images_found": 19,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "样机预发布流程.docx",
+      "path": "Files/structured_docs/样机预发布流程/document.json",
+      "status": "success",
+      "images_found": 11,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "物料参考替代关系维护.docx",
+      "path": "Files/structured_docs/物料参考替代关系维护/document.json",
+      "status": "success",
+      "images_found": 5,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "PLM 2.0 –合规业务汇总.docx",
+      "path": "Files/structured_docs/PLM 2.0 –合规业务汇总/document.json",
+      "status": "success",
+      "images_found": 15,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "MBOM审核申请.docx",
+      "path": "Files/structured_docs/MBOM审核申请/document.json",
+      "status": "success",
+      "images_found": 8,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "物料认证申请流程.docx",
+      "path": "Files/structured_docs/物料认证申请流程/document.json",
+      "status": "success",
+      "images_found": 5,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "CBB缺陷申请V1.0.docx",
+      "path": "Files/structured_docs/CBB缺陷申请V1.0/document.json",
+      "status": "success",
+      "images_found": 20,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "MCN流程.docx",
+      "path": "Files/structured_docs/MCN流程/document.json",
+      "status": "success",
+      "images_found": 3,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "电子机电料3D建模流程.docx",
+      "path": "Files/structured_docs/电子机电料3D建模流程/document.json",
+      "status": "success",
+      "images_found": 6,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "ECA流程.docx",
+      "path": "Files/structured_docs/ECA流程/document.json",
+      "status": "success",
+      "images_found": 9,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "MCAD-ECAD机电协同设计流程.docx",
+      "path": "Files/structured_docs/MCAD-ECAD机电协同设计流程/document.json",
+      "status": "success",
+      "images_found": 21,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "材料选型申请流程V2.0.docx",
+      "path": "Files/structured_docs/材料选型申请流程V2.0/document.json",
+      "status": "success",
+      "images_found": 11,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "材料表面处理申请流程V2.0.docx",
+      "path": "Files/structured_docs/材料表面处理申请流程V2.0/document.json",
+      "status": "success",
+      "images_found": 6,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "制造商部件申请V2.0.docx",
+      "path": "Files/structured_docs/制造商部件申请V2.0/document.json",
+      "status": "success",
+      "images_found": 11,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "软件标签禁用.docx",
+      "path": "Files/structured_docs/软件标签禁用/document.json",
+      "status": "success",
+      "images_found": 7,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "物料风险管理.docx",
+      "path": "Files/structured_docs/物料风险管理/document.json",
+      "status": "success",
+      "images_found": 10,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "材料相关流程优化_详细设计方案_V0.4.docx",
+      "path": "Files/structured_docs/材料相关流程优化_详细设计方案_V0.4/document.json",
+      "status": "success",
+      "images_found": 29,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "工厂物料审核流程.docx",
+      "path": "Files/structured_docs/工厂物料审核流程/document.json",
+      "status": "success",
+      "images_found": 4,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "合规文件维护申请.docx",
+      "path": "Files/structured_docs/合规文件维护申请/document.json",
+      "status": "success",
+      "images_found": 5,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "退市申请 V2.0.docx",
+      "path": "Files/structured_docs/退市申请 V2.0/document.json",
+      "status": "success",
+      "images_found": 9,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "文档审核.docx",
+      "path": "Files/structured_docs/文档审核/document.json",
+      "status": "success",
+      "images_found": 5,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "ECN流程.docx",
+      "path": "Files/structured_docs/ECN流程/document.json",
+      "status": "success",
+      "images_found": 3,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "受限状态维护变更流程.docx",
+      "path": "Files/structured_docs/受限状态维护变更流程/document.json",
+      "status": "success",
+      "images_found": 10,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "研发数据发布流程.docx",
+      "path": "Files/structured_docs/研发数据发布流程/document.json",
+      "status": "success",
+      "images_found": 6,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "色板规范管理_详细设计方案_V0.3.docx",
+      "path": "Files/structured_docs/色板规范管理_详细设计方案_V0.3/document.json",
+      "status": "success",
+      "images_found": 19,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "新物料需求V2.0.docx",
+      "path": "Files/structured_docs/新物料需求V2.0/document.json",
+      "status": "success",
+      "images_found": 14,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "国际商品条码(EAN)申请需求.docx",
+      "path": "Files/structured_docs/国际商品条码(EAN)申请需求/document.json",
+      "status": "success",
+      "images_found": 4,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "制造商部件认证申请流程V2.0.docx",
+      "path": "Files/structured_docs/制造商部件认证申请流程V2.0/document.json",
+      "status": "success",
+      "images_found": 9,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "CIS维护流程.docx",
+      "path": "Files/structured_docs/CIS维护流程/document.json",
+      "status": "success",
+      "images_found": 6,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "BOM 审核申请.docx",
+      "path": "Files/structured_docs/BOM 审核申请/document.json",
+      "status": "success",
+      "images_found": 17,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "MBOM停用申请.docx",
+      "path": "Files/structured_docs/MBOM停用申请/document.json",
+      "status": "success",
+      "images_found": 6,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "物料选型申请.docx",
+      "path": "Files/structured_docs/物料选型申请/document.json",
+      "status": "success",
+      "images_found": 12,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "材料表面处理维护流程V2.0.docx",
+      "path": "Files/structured_docs/材料表面处理维护流程V2.0/document.json",
+      "status": "success",
+      "images_found": 8,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "材料认证申请流程V2.0.docx",
+      "path": "Files/structured_docs/材料认证申请流程V2.0/document.json",
+      "status": "success",
+      "images_found": 14,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "生产发布流程.docx",
+      "path": "Files/structured_docs/生产发布流程/document.json",
+      "status": "success",
+      "images_found": 8,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "file": "物料缺陷维护流程.docx",
+      "path": "Files/structured_docs/物料缺陷维护流程/document.json",
+      "status": "success",
+      "images_found": 6,
+      "warnings": 0,
+      "errors": 0
+    }
+  ],
+  "success_rate": "76.0%"
+}

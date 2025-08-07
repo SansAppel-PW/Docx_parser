@@ -1,0 +1,4364 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/制造商申请V2.0.docx",
+    "title": "",
+    "author": "吴小娟6",
+    "created": "2021-10-15 00:59:00+00:00",
+    "modified": "2024-12-23 01:46:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "952.83 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "PLM业务-制造商申请",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-08"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-08"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1.0"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0 流程迁移"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-11"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2.0"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴义亮"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "-"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "梳理原Windchill逻辑后补充： 流程图（为方便在2.0平台工作流绘制，补充部分系统后台处理节点） 业务对象实体关系 流程节点详细逻辑补充"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 2",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建制造商申请(NMA-010) 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 流程表达式- 设置参与者 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 主管审核(NMA-020) 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 条件表达式- 是否跳过审核 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 技术审核（NMA-031） 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 商务审核(NMA-032) 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.7 品质审核(NMA-033) 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 样品评估(NMA-040) 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.9 现场稽核(NMA-050) 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.10 品质决策(NMA-060) 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.11 专业组决策(NMA-070) 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.12 创建制造商(NMA-080) 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.13 流程表达式- AutoCompleteNewMaterialRequirementTask 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.14 流程表达式- 邮件通知 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.15 设置状态表达式 8",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_b7037454.png",
+              "format": "png",
+              "width": 1487,
+              "height": 897,
+              "size": "179.83 KB",
+              "context": "段落 (运行 0)"
+            },
+            {
+              "type": "paragraph",
+              "text": "调整如下：",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "image",
+              "url": "images/img_8603f7ad.png",
+              "format": "png",
+              "width": 1356,
+              "height": 955,
+              "size": "120.37 KB",
+              "context": "段落: 调整如下：... (运行 0)"
+            },
+            {
+              "type": "paragraph",
+              "text": "各业务对象关系：",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "image",
+              "url": "images/img_97b4a739.png",
+              "format": "png",
+              "width": 915,
+              "height": 508,
+              "size": "26.78 KB",
+              "context": "段落 (运行 0)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_26f76e28.png",
+              "format": "png",
+              "width": 1392,
+              "height": 549,
+              "size": "69.25 KB",
+              "context": "段落 (运行 0)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "http://plmuat.hikvision.com/Windchill/ptc1/hermes?processType=NMA&pboid=ext.hikvision.plm.generic.order.GeneralOrder:862982574&wfoid=wt.workflow.engine.WfProcess:862982582",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "section",
+              "title": "创建制造商申请(NMA-010)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_74ee13e9.png",
+                  "format": "png",
+                  "width": 1026,
+                  "height": 597,
+                  "size": "52.22 KB",
+                  "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "基本信息属性字段逻辑",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "可选项：原材料，成品"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料组"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项：显示物料类型对应的物料大类/物料组 先选择物料类型。否则，系统报错：【请先选择物料类型】 校验申请人上下文权限。若无权限，报错提示：你没有上下文XXX的权限 若为通用标准件物料组（比对配置表），且申请人为非器件工程师，则检查制造商申请流程是否从新物料需求主流程发起。若否，则报错提示：通用标准件制造商申请，请从新物料需求主流程中发起。 （物料组对应PartsLink下的分类）"
+                          },
+                          {
+                            "type": "image",
+                            "url": "images/img_5c097069.png",
+                            "format": "png",
+                            "width": 979,
+                            "height": 612,
+                            "size": "89.11 KB"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "问题to开发：哪个配置表？ 如何识别非器件工程师？ 如何识别是否从新物料需求主流程发起？ 物料大类/组配置表："
+                          },
+                          {
+                            "type": "image",
+                            "url": "images/img_e6da070f.png",
+                            "format": "png",
+                            "width": 1684,
+                            "height": 540,
+                            "size": "71.25 KB"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "可选项：公共原材料，成品，项目专用，二级制造商"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "上下文"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "可选项取于物料组分类结构配置表 先选择物料组。否则，系统报错：请先选择物料组"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "是否存在相似物料"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选是时，则页面显示相似物料布局栏，且为必填项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "导入部门"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据申请人所在的部门，自动赋值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "若制造商申请流程是由新物料需求流程触发，则以下字段值自动继承： 物料类型；物料组；制造商名称；上下文；制造商部件型号；是否存在相似物料（相似物料栏非空，则是否存在相似物料=是；否则为否）；项目编号；新物料需求单号；相似物料"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交系统校验项",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "请上传相关文档"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "\"是否存在相似物料\"选择是，则请提供相似物料"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "通过流程(制造商申请流程)+角色+物料组或者流程(制造商申请流程)+角色+物料组+部门去查找配置人员，只要两种维度人员配置数据存在一条，校验通过，否则校验不通过，流程不允许提交"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "角色"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "参与者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主管审核"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "业务主管"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "取自申请人的直接主管"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "同意 驳回 终止"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "调用HR系统公共接口"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "技术审核"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "器件工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "器件工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交 驳回 建议会签人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "技术会签"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "手工指定"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "会签者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【技术审核】选择路由“建议会签人”后出现 提交"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "商务审核"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "资源工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "资源工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交 驳回"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "品质审核"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "品质工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "品质工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交 驳回"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "样品评估"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "器件工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "器件工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成评估 无需评估 终止"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "现场稽核"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "资源工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "资源工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "完成稽核 无需稽核 终止"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "品质决策"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "品质工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "品质工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "同意导入 一票否决"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "专业组决策"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "专业组组长"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "专业组组长"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "导入 带风险导入 不导入 会签人建议"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "专业组审核会签"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "会签者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "创建制造商"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "器件工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "器件工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置表：物料组角色配置 设置流程如下角色：器件工程师，资源工程师 品质工程师 专业组组长、直接主管 优先以流程(制造商申请流程)+角色+物料组+导入部门去查找配置人员。如果未查找到，再以流程(制造商申请流程)+角色+物料组查找，人员取查询结果合集 直接主管取流程创建者的直接主管 如果导入部门中角色配置不存在则取“产品研发中心”部门配置的相关角色"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "主管审核(NMA-020)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_071a3116.png",
+                  "format": "png",
+                  "width": 1274,
+                  "height": 163,
+                  "size": "10.51 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- 是否跳过审核",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "制造商类型为项目专用|二级制造商，主管审核结束后跳过技术审核、商务审核、品质审核节点直接到专业组组长仲裁",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "技术审核（NMA-031）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_76a0eb84.png",
+                  "format": "png",
+                  "width": 1276,
+                  "height": 229,
+                  "size": "18.23 KB",
+                  "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段逻辑",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 5,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=同意时，技术评分、附件必填 路由=会签人建议时，建议会签人、期望完成日期必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "技术评分"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "实数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只允许填写0-10之间的数字 支持一位小数，超过一位四舍五入进位"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": []
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "商务审核(NMA-032)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_694294b4.png",
+                  "format": "png",
+                  "width": 1275,
+                  "height": 188,
+                  "size": "12.87 KB",
+                  "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段逻辑",
+                  "level": 0,
+                  "prefix": "4. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 6,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=同意时，商务评分、附件必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "商务评分"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "实数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只允许填写0-10之间的数字 支持一位小数，超过一位四舍五入进位"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "文本"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "附件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "文件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": []
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "品质审核(NMA-033)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_70db4e45.png",
+                  "format": "png",
+                  "width": 1271,
+                  "height": 265,
+                  "size": "19.33 KB",
+                  "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段逻辑",
+                  "level": 0,
+                  "prefix": "5. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 7,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=同意时，品质评分、附件必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "商务评分"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "实数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只允许填写0-10之间的数字 支持一位小数，超过一位四舍五入进位"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商环保风险等级"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "可选项：高，中，低"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "HSF评审结果"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "可选项：未经评审，特批导入，评审不合格，评审合格"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "附件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": []
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "样品评估(NMA-040)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_d45a89cb.png",
+                  "format": "png",
+                  "width": 1268,
+                  "height": 227,
+                  "size": "15.60 KB",
+                  "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段逻辑",
+                  "level": 0,
+                  "prefix": "6. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 8,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=完成评估时，样品评分、附件必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "样品评分"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "整数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只允许填写0-20之间的整数（不支持小数） Help内容 样品性能优，技术优势显著，可体现一定的技术竞争力, 16-20 样品性能满足设计要求，有一定的技术优势, 11-15 样品性能满足设计要求，但无明显技术优势, 6-10 样品性能不满足设计要求, 0-5 路由选择【终止】时，附件栏必填"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "现场稽核(NMA-050)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_f3944f28.png",
+                  "format": "png",
+                  "width": 1274,
+                  "height": 229,
+                  "size": "16.35 KB",
+                  "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段逻辑",
+                  "level": 0,
+                  "prefix": "7. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 9,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=【完成稽核】时，现场稽核、附件必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "现场稽核"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "整数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只允许填写0-100之间的整数（不支持小数）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "文本"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "附件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由选择【完成评估】时必填 路由选择【无需评估】时非必填 路由选择【终止】时必填"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "品质决策(NMA-060)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_6ef9adfb.png",
+                  "format": "png",
+                  "width": 1274,
+                  "height": 333,
+                  "size": "21.15 KB",
+                  "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段逻辑",
+                  "level": 0,
+                  "prefix": "8. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 10,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "决策意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=【一票否决】时，附件必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "文本"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "附件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "-"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=【一票否决】时，附件必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "评分汇总"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "总分"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "实数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "系统自动计算工，获取分值（注：计算逻辑见HELP内容） Help内容 全部有评分，总分 = 技术评分+商务评分+品质评分+样品评分+稽核评分*50% 样品无评分，现场有评分，总分 = (技术评分+商务评分+品质评分)*5/3 +稽核评分*50% 样品有评分，现场无评分，总分 = (技术评分+商务评分+品质评分+样品评分)*2 样品无评分，现场无评分，总分 = (技术评分+商务评分+品质评分)*10/3"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "专业组决策(NMA-070)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_241db85b.png",
+                  "format": "png",
+                  "width": 1279,
+                  "height": 326,
+                  "size": "20.94 KB",
+                  "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段逻辑",
+                  "level": 0,
+                  "prefix": "9. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 11,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "路由=会签人建议时，建议会签人、期望完成日期必填 Uat测试发现，路由为会签人建议时，会签人未设置人也可提交（开发同学确认下逻辑）"
+                          },
+                          {
+                            "type": "image",
+                            "url": "images/img_e4be2e63.png",
+                            "format": "png",
+                            "width": 1098,
+                            "height": 944,
+                            "size": "68.77 KB"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "创建制造商(NMA-080)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_dee437df.png",
+                  "format": "png",
+                  "width": 1275,
+                  "height": 503,
+                  "size": "34.36 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段逻辑",
+                  "level": 0,
+                  "prefix": "10. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 12,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局栏"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商信息"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商编码"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "此节点提交后，由系统自动生成 制造商编码规则：由SAP分配提供 制造商初始状态：有效"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商信息"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "注册地， 国家/地区"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "可选项通过接口从SAP系统获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商信息"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "风险等级"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "【专业组决策】节点路由=导入时，此字段值=可选制造商；路由=带风险导入时，此字段值=风险制造商"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商信息"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "导入评审意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "取值于【专业组决策】的意见"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商使用范配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "限制可用范围"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布尔型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "限制可用范围=是时，显示【制造商使用范围】布局栏非必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程关闭后，数据自动回写【制造商使用范围限制配置表】"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商使用范配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "可用物料分类"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "非必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "制造商使用范配置"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "上下文"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "可用上下文：选项只显示创建人有相应权限的上下文；多选；分行显示"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 4,
+                        "content": []
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- AutoCompleteNewMaterialRequirementTask",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "自动完成新物料需求流程的新制造商导入任务",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ext.hikvision.plm.supplier.service.NewMaterialRequirementService service = new ext.hikvision.plm.supplier.service.NewMaterialRequirementService();",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "service.autoCompleteTask((wt.iba.value.IBAHolder)primaryBusinessObject,self,ext.hikvision.plm.supplier.constant.SupplierConstants.HIKVISION_MANUFACTURER_WF);",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 邮件通知",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "邮件通知流程结束（按原流程配置通知人员）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ext.hikvision.plm.workflow.mail.WorkflowSendMail.sendMail(primaryBusinessObject,self,\"END\");",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "设置状态表达式",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 13,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "操作/节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Set UnderReview"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程提交后设置流程PBO状态：正在审阅"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Set state - WIP"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程驳回后设置流程PBO状态：重新工作"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Set state - OBSOLESCENCE"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程取消后设置流程PBO状态：废弃"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Set Release"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程结束后设置流程PBO状态：已发布"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:32",
+    "source_file": "制造商申请V2.0.docx",
+    "file_size_bytes": 975699,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 131,
+    "tables_found": 14,
+    "images_found": 19
+  },
+  "images": {
+    "img_3198cdbf": {
+      "type": "image",
+      "url": "images/img_3198cdbf.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 制造商申请 (PL... (运行 0)"
+    },
+    "img_2ef9952f": {
+      "type": "image",
+      "url": "images/img_2ef9952f.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 制造商申请 (PL... (运行 0)"
+    },
+    "img_b7037454": {
+      "type": "image",
+      "url": "images/img_b7037454.png",
+      "format": "png",
+      "width": 1487,
+      "height": 897,
+      "size": "179.83 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_8603f7ad": {
+      "type": "image",
+      "url": "images/img_8603f7ad.png",
+      "format": "png",
+      "width": 1356,
+      "height": 955,
+      "size": "120.37 KB",
+      "context": "段落: 调整如下：... (运行 0)"
+    },
+    "img_97b4a739": {
+      "type": "image",
+      "url": "images/img_97b4a739.png",
+      "format": "png",
+      "width": 915,
+      "height": 508,
+      "size": "26.78 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_26f76e28": {
+      "type": "image",
+      "url": "images/img_26f76e28.png",
+      "format": "png",
+      "width": 1392,
+      "height": 549,
+      "size": "69.25 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_74ee13e9": {
+      "type": "image",
+      "url": "images/img_74ee13e9.png",
+      "format": "png",
+      "width": 1026,
+      "height": 597,
+      "size": "52.22 KB",
+      "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+    },
+    "img_5c097069": {
+      "type": "image",
+      "url": "images/img_5c097069.png",
+      "format": "png",
+      "width": 979,
+      "height": 612,
+      "size": "89.11 KB",
+      "context": "表格2单元格[2,3]"
+    },
+    "img_e6da070f": {
+      "type": "image",
+      "url": "images/img_e6da070f.png",
+      "format": "png",
+      "width": 1684,
+      "height": 540,
+      "size": "71.25 KB",
+      "context": "表格2单元格[2,4]"
+    },
+    "img_071a3116": {
+      "type": "image",
+      "url": "images/img_071a3116.png",
+      "format": "png",
+      "width": 1274,
+      "height": 163,
+      "size": "10.51 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_76a0eb84": {
+      "type": "image",
+      "url": "images/img_76a0eb84.png",
+      "format": "png",
+      "width": 1276,
+      "height": 229,
+      "size": "18.23 KB",
+      "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+    },
+    "img_694294b4": {
+      "type": "image",
+      "url": "images/img_694294b4.png",
+      "format": "png",
+      "width": 1275,
+      "height": 188,
+      "size": "12.87 KB",
+      "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+    },
+    "img_70db4e45": {
+      "type": "image",
+      "url": "images/img_70db4e45.png",
+      "format": "png",
+      "width": 1271,
+      "height": 265,
+      "size": "19.33 KB",
+      "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+    },
+    "img_d45a89cb": {
+      "type": "image",
+      "url": "images/img_d45a89cb.png",
+      "format": "png",
+      "width": 1268,
+      "height": 227,
+      "size": "15.60 KB",
+      "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+    },
+    "img_f3944f28": {
+      "type": "image",
+      "url": "images/img_f3944f28.png",
+      "format": "png",
+      "width": 1274,
+      "height": 229,
+      "size": "16.35 KB",
+      "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+    },
+    "img_6ef9adfb": {
+      "type": "image",
+      "url": "images/img_6ef9adfb.png",
+      "format": "png",
+      "width": 1274,
+      "height": 333,
+      "size": "21.15 KB",
+      "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+    },
+    "img_241db85b": {
+      "type": "image",
+      "url": "images/img_241db85b.png",
+      "format": "png",
+      "width": 1279,
+      "height": 326,
+      "size": "20.94 KB",
+      "context": "段落: 前端页面：参考MOCKPLUS... (运行 0)"
+    },
+    "img_e4be2e63": {
+      "type": "image",
+      "url": "images/img_e4be2e63.png",
+      "format": "png",
+      "width": 1098,
+      "height": 944,
+      "size": "68.77 KB",
+      "context": "表格11单元格[1,3]"
+    },
+    "img_dee437df": {
+      "type": "image",
+      "url": "images/img_dee437df.png",
+      "format": "png",
+      "width": 1275,
+      "height": 503,
+      "size": "34.36 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

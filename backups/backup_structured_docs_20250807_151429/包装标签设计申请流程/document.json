@@ -1,0 +1,4450 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/包装标签设计申请流程.docx",
+    "title": "",
+    "author": "wuxiaojuan6@hikvision.com",
+    "created": "2019-09-04 01:23:00+00:00",
+    "modified": "2023-06-08 09:23:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "1783.27 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "PLM 2.0 –包装标签设计",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "陈锡伟"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022-02"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0 流程迁移"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 3",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板(待重新设计) 3",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 3",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建申请（RSO-010）-包装设计 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 流程表达式- 设置参与者-包装设计 12",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 流程表达式- 设置状态-包装设计 12",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 需求确认（RSO-020） 12",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 提供主机模型（RSO-030） 18",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 主机模型审核（RSO-031） 18",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.7 提供配件清单（RSO-040） 19",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 包装结构设计（RSO-050） 20",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.9 包装结构设计审核（RSO-060） 22",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.10 设计确认-结构（RSO-070） 22",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.11 提供印刷信息-平面（RSO-030） 22",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.12 平面设计（RSO-040） 23",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.13 平面设计审核（RSO-050） 24",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.14 设计确认-平面（RSO-060） 24",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.15 创建申请（RSO-010）-标签设计 25",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.16 流程表达式- 设置参与者-标签设计 25",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.17 流程表达式- 设置状态-标签设计 25",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.18 标签设计（RSO-020） 26",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.19 标签设计确认（RSO-030） 26",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.20 创建申请（RSO-010）-平面新风格设计 27",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.21 流程表达式- 设置参与者-平面新风格设计 27",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.22 流程表达式- 设置状态-平面新风格设计 28",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.23 提供印刷信息-平面新风格设计（RSO-020） 28",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.24 平面设计-平面新风格设计（RSO-030） 29",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.25 平面设计审核-平面新风格设计（RSO-040） 29",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.26 设计确认-平面新风格设计（RSO-050） 30",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.27 流程表达式- 设置图纸状态_重新工作 30",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.28 流程表达式- 设置状态_已完成 30",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "4 接口（开发时补充） 31",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "486pt",
+              "height": "103.5pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_5987aa66",
+              "size": "35.51 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_5987aa66.emf",
+              "file_path": "embedded_objects/embedded_obj_5987aa66.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板(待重新设计)",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "512.25pt",
+              "height": "227.25pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_75622191",
+              "size": "115.02 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_75622191.emf",
+              "file_path": "embedded_objects/embedded_obj_75622191.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "创建申请（RSO-010）-包装设计",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "包装设计流程",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_5a65e566.png",
+                  "format": "png",
+                  "width": 853,
+                  "height": 927,
+                  "size": "84.02 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "属性字段定义-包装设计",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "TAB页"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "包装设计"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "原：包装设计，标签设计，新增：平面新风格设计 1.包装设计：选中， a.隐藏表格：“标签设计需求”、“标签变更需求”， b. 隐藏属性列：“标签设计工程师”、 c.显示属性列：“包装设计需求”、“打样需求确认” 2.标签设计：选中， a.若“申请类型”为‘新建’则显示表格“标签设计需求”，若为“变更”则显示表格“标签变更需求” b. 增加属性列：“标签设计工程师”(获取条件：SELECT r.* FROM WCADMIN.HIK_CFG_ROLE_ROLE_MV_VIEW r WHERE r.QUERY_TYPE='其它角色' AND r.\"CONDITION\"='标签设计工程师' 结果中的第一条数据的PRINCIPAL_NAME字段的第一个人员名称) c.隐藏表格：“包装平面需求”、“包装结构需求”、“包装平面变更需求”、“包装结构变更需求” d.隐藏属性列： “包装设计需求”、“打样需求确认”、“结构工程师”、“包装工程师”、“硬件/NPE工程师”、“印刷信息提供者”、“包装平面工程师”"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认包装设计"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*主题"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "单行文本，必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "所属部门，直接主管"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "获取当前用户的主管以及自己所在部门赋初值。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求说明"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串，"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "多行文本"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "项目编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "项目号查询控件， 弹出框：默认添加一行‘项目编号’为null的数据 查询：1.输入框“名称或者编码”里面输入的字符， 2. 点击“搜索”，通过接口获取到项目信息，再默认添加一行项目号为“Null”的条目作为返回值。 3.点击“清除”，清空输入框的信息。 确定：双击符合条件的数据行，将选中行信息中的字段赋值给表单中对应的字段。 1.项目名称-->项目名称 2.项目编号-->项目编号 3.产品线-->产品线 4.产品系列-->产品系列 5.产品经理-->印刷信息提供者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品系列"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填，产品系列查询组件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品线"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据产品系列自动带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品名称"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据项目号带出或手动填写"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "非必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品版本"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据项目号带出或手动填写"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "非必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "原型机"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "申请类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新建|变更 1.新建：选中 a.隐藏属性列：“变更原因描述” b.隐藏表格：若属性“需求类型”是‘设计标签’则隐藏表格“标签变更需求”并清空此表格数据 c.显示属性列：无 d.显示表格：若属性“需求类型”是‘设计标签’则显示表格“标签设计需求”，并清空此表格数据 2.变更：选中 a.隐藏属性列： b.隐藏表格： 若属性“需求类型”是‘设计标签’则隐藏表格“标签设计需求”并清空此表格数据 c.显示属性列：“变更原因描述” d.显示表格：若属性“需求类型”是‘设计标签’则显示表格“标签变更需求”，并清空此表格数据 改变值之后，执行“packagingDesignRequirements”的条目“check”事件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填，默认新建"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "期望完成时间"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "日期"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "包装设计需求"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "结构|平面（风格复用） 1.“结构”： 选中： a.隐藏属性列： b.隐藏表格： 若“申请类型”是‘变更’则隐藏表格“包装结构需求”，否则隐藏表格“包装结构变更需求” 清空数据 c.显示属性列：“结构工程师”、“包装工程师”、“硬件/NPE工程师” d.显示表格：若“申请类型”是‘变更’则显示表格“包装结构变更需求”否则显示表格“包装结构需求”，并清空数据 取消： a.隐藏属性列：“结构工程师”、“包装工程师”、“硬件/NPE工程师” b.隐藏表格：隐藏表格 \"包装结构需求\"和“包装结构变更需求”表格并清空 c.显示属性列： d.显示表格： 2.选择“平面”： 选中： a.隐藏属性列： b.隐藏表格：若“申请类型”是‘变更’则隐藏表格“包装平面需求”，否则隐藏表格“包装平面变更需求” 清空数据 c.显示属性列：\"印刷信息提供者\"、“包装平面工程师” d.显示表格：若“申请类型”是‘变更’则显示表格“包装平面变更需求”否则显示“包装平面需求”，并清空数据 取消： a.隐藏属性列：“印刷信息提供者”、“包装平面工程师” b.隐藏表格： 隐藏表格“包装平面需求”和“包装平面变更需求”并清空数据 c.显示属性列： d.显示表格："
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "改：同时选择“结构”和“平面”时，“包装平面工程师”=“包装结构工程师”"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "包装工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "结构工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "硬件/NPE工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "印刷信息提供者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "打样需求确认"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "是|否"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "打样个数"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "打样需求确认选择“是”时显示"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "变更原因描述"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "申请类型为“变更”时显示"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "标签设计"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*主题，*所属部门，直接主管，原型机，*项目编号，项目名称，*产品系列，产品线，产品名称，产品版本，*申请类型，期望完成时间，*标签设计师，*打样需求确认，*打样梳理（个），备注，变更原因描述"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "平面新风格设计"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*主题，*所属部门，直接主管，原型机，*项目编号，项目名称，*产品系列，产品线，产品名称，产品版本，*平面工程师，*印刷信息提供者，*期望完成时间，*标签设计师，备注，变更原因描述"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新建-结构"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品型号,*包装类型,*用量预估（年）,*包装成本要求,产品重量（kg）,特殊要求描述,*产品形态,整机结构及重点需求描述"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*包装类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "下拉选择"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "纸盒，木箱，金属和，精品盒"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品形态"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "“产品形态”：“select distinct productform from hik_package_product_form”结果值作为显示和内部值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*包装成本要求"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "下拉选择"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "常规成本|走量低成本|产品价值高/易碎，包装质量要求"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新建-平面"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品型号,*设计类型,*物料情况,变更料号,刀线参考物料,风格参考物料,具体设计内容,图片类型,产品图片"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设计类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "变更设计，风格沿用（原全新设计独立为新风格设计）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料情况"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "国内标配|海外标配|国内中性|海外中性|国内渠道"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "图片类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "渲染效果图|实物拍摄图|线稿设计图"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设计表达"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "基线风格|创新风格"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "风格参考物料"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设计类型为“风格沿用”时必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "结构-变更"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "整机物料代码,*变更物料,*变更描述,*库存处理意见,附件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 41,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 41,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "平面-变更"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 42,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 42,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 42,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "整机物料代码,*变更物料,*变更描述,*库存处理意见,附件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 43,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新增（将原平面设计新风格场景独立）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 43,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "平面新风格"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 43,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 44,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新增（将原平面设计新风格场景独立）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 44,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 44,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "列表字段同平面设计：产品型号，*物料情况，*设计表达，刀线物料，风格参考物料，*具体设计内容，图片类型，产品图片"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 45,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新增（将原平面设计新风格场景独立）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 45,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品型号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 45,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填，增加提示“填写产品型号，如：DS-2CDXX”"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 46,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新增（将原平面设计新风格场景独立）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 46,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*物料情况"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 46,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填，选项：国内标配，海外标配，国内中性，海外中性，国内渠道"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 47,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新增（将原平面设计新风格场景独立）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 47,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*设计表达"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 47,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填，选项：基线风格，创新风格"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 48,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新增（将原平面设计新风格场景独立）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 48,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "图片类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 48,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "渲染效果图，实物拍摄图，线稿设计"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 49,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新增（将原平面设计新风格场景独立）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 49,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "具体设计内容，产品图片"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 49,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*创建人为项目经理时，【具体设计内容】及【产品图片】选填，创建人为产品经理时，【具体设计内容】及【产品图片】必填"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "功能按钮",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "按钮"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "列表按钮-添加行"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "a.增加一行。 *包装结构-新建 表格增加可编辑的一行数据， 1.输入框：“产品型号”、“用量预估(年用量)”数字、“产品重量(千克)”、“特殊要求描述<br>(需附件说明可在最后列上传)” 2.下拉框： a.“包装类型”：[[\"纸盒\", \"纸盒\"], [\"木箱\", \"木箱\"], [\"金属箱\", \"金属箱\"], [\"精品盒\", \"精品盒\"]] b.“包装成本要求”：[[\"常规成本\", \"常规成本\"], [\"走量低成本\", \"走量低成本\"], [\"产品价值高/易碎，包装质量要求\", \"产品价值高/易碎，包装质量要求\"]] c.“产品形态”：“select distinct productform from hik_package_product_form”结果值作为显示和内部值 3.附件：\"整机结构图及重点需求描述\" 可以添加附件 *包装结构-变更 表格增加可编辑的一行数据， 1.输入框：“整机物料代码”、“变更物料”、“变更描述”、“库存处理意见” 2.附件：“附件”可以添加附件 *包装平面-新建 表格增加可编辑的一行数据， 1.输入框：“产品型号”、“变更料号”、“刀线参考物料”、“风格参考物料”、 2.下拉框： a.“设计类型”：[[\"全新设计\", \"全新设计\"], [\"变更设计\", \"变更设计\"], [\"风格沿用\", \"风格沿用\"]]，若选中‘风格沿用’则【风格参考物料】表头添加红星，否则取消 b.“物料情况”：[[\"国内标配\", \"国内标配\"], [\"海外标配\", \"海外标配\"], [\"国内中性\", \"国内中性\"], [\"海外中性\", \"海外中性\"], [\"国内渠道\", \"国内渠道\"]] c.“图片类型”：[[\"渲染效果图\", \"渲染效果图\"], [\"实物拍摄图\", \"实物拍摄图\"], [\"线稿设计图\", \"线稿设计图\"]] d.“设计表达”：[[\"基线风格\", \"基线风格\"], [\"创新风格\", \"创新风格\"]] 3.附件：“具体设计内容”、“产品图片” 可以添加附件 *包装平面-变更 表格增加可编辑的一行数据， 1.输入框：“整机物料代码”、“变更物料”、“变更描述”、“库存处理意见” 2.附件：“附件”可以添加附件 *标签设计-新建 \"表格增加可编辑的一行数据， 1.输入框：“物料代码”、“详细需求描述” 2.下拉框： a.“标签需求类型”：[[\"\"标签认证截图\"\", \"\"标签认证截图\"\"], [\"\"新标签设计\"\", \"\"新标签设计\"\"], [\"\"其他\"\", \"\"其他\"\"]] b.“物料大类”：[[\"\"L4标签模板\"\", \"\"L4标签模板\"\"], [\"\"1020印刷品\"\", \"\"1020印刷品\"\"]] 3.附件： 可以添加附件\" *标签设计-变更 \"表格增加可编辑的一行数据， 1.输入框：“整机物料代码”、“变更物料”、“变更描述”、“库存处理意见” 2.下拉框： a.“物料大类”：[[\"\"L4标签模板\"\", \"\"L4标签模板\"\"], [\"\"1020印刷品\"\", \"\"1020印刷品\"\"]] 3.附件： 可以添加附件\" *平面新风格设计 \"表格增加可编辑的一行数据， 1.输入框：“产品型号”、“变更料号”、“刀线参考物料”、“风格参考物料”、 2.下拉框： a“物料情况”：[[\"国内标配\", \"国内标配\"], [\"海外标配\", \"海外标配\"], [\"国内中性\", \"国内中性\"], [\"海外中性\", \"海外中性\"], [\"国内渠道\", \"国内渠道\"]] b.“图片类型”：[[\"渲染效果图\", \"渲染效果图\"], [\"实物拍摄图\", \"实物拍摄图\"], [\"线稿设计图\", \"线稿设计图\"]] c.“设计表达”：[[\"基线风格\", \"基线风格\"], [\"创新风格\", \"创新风格\"]] 3.附件：“具体设计内容”、“产品图片” 可以添加附件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "列表按钮-移除"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "勾选移除行数据"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "列表按钮-导入"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "\"导出框里面下载模板，“包装物料”- 批量填写 【物料编码、 描述】；“配件清单”-批量填写 【物料代码、 物料描述 、BOM用量】；“其他成果物”-批量填写 【成果物名称 、描述】； 1.文件读取校验： 1.文件只能是.xls或者.xlsx格式文件，重复编码的数据去除不做提示 2.前端校验： 1.按编码去重添加条目\""
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "列表按钮-创建包材打样单"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程对象存在，调用接口149004176创建包材打样单，将流程单信息写入包装打样流程信息"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "表格按钮-模型操作说明"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "跳转到“包装智能快速设计系统_产品结构模型处理说明”，链接“https://wiki.hikvision.com.cn/pages/viewpage.action?pageId=162551712”"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "\"1.以主签审对象第一行部件上下文作为通用表单的上下文 2.启动流程，创建流程与主签审对象的关系 3.随签对象移库至 “Standard Lib”库下的‘/Default/Component/CAD’ 忽略权限保存\""
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "保存"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "关闭"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": []
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交系统校验项",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象不能为空"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "类型和所选的物料类型不一致，请重新确认后提交"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "表单内容关联校验： 申请类型”若为‘变更’： 1.取消表格【包装结构变更需求、包装平面变更需求、标签变更需求】的过滤器 2.“包装设计需求”涉及\"结构\"，则“包装结构变更需求”列表不能为空；“包装结构变更需求”表格，【变更描述、库存处理意见】必填 3.“包装设计需求”涉及\"平面\"，则\"包装平面变更需求\"列表不能为空； “包装平面变更需求”表格，【变更描述、库存处理意见】必填 4.“需求类型”为“标签设计”，则“标签变更需求”列表不能为空； “标签变更需求”表格，【变更描述、库存处理意见】必填 申请类型”不为‘变更’ 1.取消表格【包装结构需求、包装平面需求、标签设计需求】的过滤器 2.“包装设计需求”涉及\"结构\"，则“包装结构需求”列表不能为空；“包装结构需求”表格，【产品型号、包装类型、用量评估、包装成本要求、产品形态要求】必填 3.“包装设计需求”涉及\"平面\"，则\"包装平面需求\"列表不能为空； “包装平面需求”表格，【产品型号、设计类型、物料情况】必填，若设计类型是“风格沿用”则“风格参考物料”必填，若设计类型是“变更设计”则“变更物料”必填。 4.“需求类型”为“标签设计”，则“标签设计需求”列表不能为空； “标签设计需求”表格，【标签需求类型、物料大类、详细需求描述】必填 平面新风格设计表单必填校验-见设计稿"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "\"1.创建通用表单 2.通用表单创建者（当前用户）的直接主管必须存在与PLM系统，否则抛出异常 3.创建流程 4.同步irdms\"(项目管理系统,同步数据)"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "直接主管在PLM系统中不存在"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者-包装设计",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "1.获取“包装结构工程师”、“结构工程师”、“硬件/NPE工程师”、“包装平面工程师”、“印刷信息提供者”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.“需求类型”是‘包装设计’：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.“包装设计需求”有平面，将“包装平面工程师”加入角色【包装平面工程师、审核者】；将“印刷信息提供者”加入角色【产品经理】",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.“包装设计需求”有结构，将“包装结构工程师”加入角色【包装结构工程师、审核者】；将“结构工程师”加入角色【结构设计工程师】；将“硬件/NPE工程师”加入角色【硬件工程师】",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.“需求类型”是‘标签设计’：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "a.将“标签设计工程师”加入角色【标签设计工程师】",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4.为获取到的第一条中的所有人员赋予动态权限",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态-包装设计",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置流程状态为“正在审阅”（两次连续的设置“正在审阅”是否多余）",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "需求确认（RSO-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "包装结构设计-新建",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_39d42f31.png",
+                  "format": "png",
+                  "width": 1035,
+                  "height": 1023,
+                  "size": "88.91 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "包装结构设计-变更",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_f60b83a5.png",
+                  "format": "png",
+                  "width": 1034,
+                  "height": 984,
+                  "size": "85.52 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "平面设计-新建",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_b6265fc8.png",
+                  "format": "png",
+                  "width": 1037,
+                  "height": 1011,
+                  "size": "84.82 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "平面设计-变更",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_32217742.png",
+                  "format": "png",
+                  "width": 1032,
+                  "height": 969,
+                  "size": "82.20 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "isLabelDesign = “NO”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "编辑",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.可以修改页面显示的信息，流程变量【是否需要提供主机模型、是否需要提供配件信息】默认为是可修改",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "转变：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.开始：发送流程节点邮件",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "路由：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.接收：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "走向：经过 表达式“设置包装设计提交环节处理人”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "a.若“包装设计需求”只【平面（风格沿用）】，则走向节点“提供印刷设计信息”，流程变量“designType ”赋值‘design_2D’",
+                  "bold": true,
+                  "italic": true
+                },
+                {
+                  "type": "paragraph",
+                  "text": "b.若“包装设计需求”只【结构】，流程变量“designType ”赋值‘design_3D’",
+                  "bold": true,
+                  "italic": true
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1>若流程变量“structuralRoute”是‘ProductModel’",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.若“是否需要提供主机模型”为是，走向“提供主机模型”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.若“是否需要提供主机模型”为否",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "a.若流程变量“structuralRoute”为“ProductModel”，走向节点“包装结构设计”；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "b.若流程变量“structuralRoute”不为“ProductModel”，需要等待节点“提供配件清单”，然后走向节点“结构包装设计”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2>若流程变量“structuralRoute”是‘Accessories’",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.若“是否需要提供配件信息”为是，走向“提供配件清单”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.若“是否需要提供配件信息”为否",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "a.若流程变量“structuralRoute”为“Accessories”，走向节点“结构包装设计”；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "b.若流程变量“structuralRoute”不为“Accessories”，需要等待节点“提供主机模型”，然后走向节点“结构包装设计”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3>若流程变量“structuralRoute”是‘BackAll’或者为空或其他值",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "‘ProductModel’和‘Accessories’的走向同时出现。",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "c.若“包装设计需求”包含【平面（风格沿用）、结构】，流程变量“designType ”赋值‘design_All’",
+                  "bold": true,
+                  "italic": true
+                },
+                {
+                  "type": "paragraph",
+                  "text": "包装设计需求【结构】【平面（风格沿用）】",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.驳回：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "a.退回至节点“提交”，中间经过状态机“重新工作”；增加流程“废弃”按钮",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.复用：前端校验‘复用成果物列表’不能为空，且其【名称、描述、附件】字段不能都为空-路由至设计确认环节",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "完成：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.‘接收’和‘复用’更新流程变量，设置审批人员；在“流水线ID”不为空的前提下，发送流程信息到iRDMS ；在[流水线ID、项目编号]均不为空的前提下，触发IRDMS包装设计需求申请流程完成任务（若需要完成节点finishIndex是3且‘包装设计需求’全选时，‘结构包装设计’和‘平面设计’已经完成才可以在触发,否则抛出异常）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.‘退回’完成节点；在“流水线ID”不为空的前提下，发送流程信息到iRDMS；在[流水线ID、项目编号]均不为空的前提下，触发IRDMS包装设计需求申请流程完成任务（若需要完成节点finishIndex是3且‘包装设计需求’全选时，‘结构包装设计’和‘平面设计’已经完成才可以在触发,否则抛出异常）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "可以将当前任务委派给其他人\"\"",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "提供主机模型（RSO-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "是否提供主机模型：是",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_0e173015.png",
+                  "format": "png",
+                  "width": 1291,
+                  "height": 711,
+                  "size": "45.50 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.开始：发送流程节点邮件",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "主机模型审核（RSO-031）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "提供主机模型-是否需要审批：是",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_7d998bde.png",
+                  "format": "png",
+                  "width": 1296,
+                  "height": 699,
+                  "size": "41.28 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.开始：发送流程节点邮件",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "路由：通过-走向节点“结构包装设计”；驳回-走向节点“提供主机模型”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "提供配件清单（RSO-040）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "是否提供配件清单：是",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_349a4ba7.png",
+                  "format": "png",
+                  "width": 1289,
+                  "height": 709,
+                  "size": "43.95 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.开始：发送流程节点邮件",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "路由：通过-走向节点“结构包装设计”，如勾选申请类型“结构”需要等待“提供主机模型”；驳回-",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "包装结构设计（RSO-050）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_371d9c98.png",
+                  "format": "png",
+                  "width": 855,
+                  "height": 966,
+                  "size": "83.10 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "编辑：",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.编辑表格“包装物料”、“其他成果物”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.编辑属性列“是否需要审批”，默认“否”【选择是的时候 路由默认‘结构包装设计审批’】",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.编辑属性列“成果物抄送人”，多选",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4.流程基本信息中“期望完成时间”可编辑",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "转变：",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.开始：发送流程节点邮件",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "路由：",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.通过：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.校验：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "a.“包装物料”或“其他成果物”必须有一个表格不是空的；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "b.若“包装物料”有值，则列表中产品型号不能为空，且必须在“包装平面需求”表格里面的产品型号中。",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.走向：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "a.若有填写“成果抄送人”则发送邮件，",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "b.若流程变量‘confirmRoute’是‘Graphic’或者流程变量‘designType’是‘design_2D’则直接走向‘设计确认’，否则需要等待‘结构包装设计’完成再走向‘设计确认’",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.驳回：走向节点“提供印刷设计信息”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.平面设计审批：审批人不能为空，走向节点“平面设计审",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "完成：",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.‘通过’更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点；在[流水线ID、项目编号]均不为空的前提下，发送成果物iRDMS（若‘包装设计需求’全选，‘结构包装设计’和‘平面设计’节点必须已完成才可以发送,否则抛出异常）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.‘驳回’完成任务节点",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.‘平面设计审批’更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4.‘任务签收’按钮，在[流水线ID、项目编号]均不为空的前提下，触发IRDMS包装设计需求申请流程完成任务",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "5.‘同步iRDMS任务",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "包装结构设计审核（RSO-060）",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "设计确认-结构（RSO-070）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_fb7d96d0.png",
+                  "format": "png",
+                  "width": 1300,
+                  "height": 726,
+                  "size": "46.17 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "提供印刷信息-平面（RSO-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_8b09889d.png",
+                  "format": "png",
+                  "width": 1293,
+                  "height": 666,
+                  "size": "43.76 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "平面设计（RSO-040）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_1d6d8325.png",
+                  "format": "png",
+                  "width": 852,
+                  "height": 923,
+                  "size": "76.79 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.‘通过’更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点；在[流水线ID、项目编号]均不为空的前提下，发送成果物iRDMS（若‘包装设计需求’全选，‘结构包装设计’和‘平面设计’节点必须已完成才可以发送,否则抛出异常）",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.‘驳回’完成任务节点",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.‘平面设计审批’更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4.‘任务签收’按钮，在[流水线ID、项目编号]均不为空的前提下，触发IRDMS包装设计需求申请流程完成任务（若需要完成节点finishIndex是3且‘包装设计需求’全选时，‘结构包装设计’和‘平面设计’已经完成才可以在触发,否则抛出异常）",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "平面设计审核（RSO-050）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "平面设计-是否需要审批：是",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_4b7adffd.png",
+                  "format": "png",
+                  "width": 1293,
+                  "height": 582,
+                  "size": "35.90 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "设计确认-平面（RSO-060）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_2d47a937.png",
+                  "format": "png",
+                  "width": 1293,
+                  "height": 688,
+                  "size": "40.39 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "创建申请（RSO-010）-标签设计",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "标签设计流程",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_3fdeb19d.png",
+                  "format": "png",
+                  "width": 851,
+                  "height": 656,
+                  "size": "56.73 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者-标签设计",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "1. “需求类型”是‘标签设计’：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "a.将“标签设计工程师”加入角色【标签设计工程师】",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.为获取到的第一条中的所有人员赋予动态权限",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态-标签设计",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置流程状态为“正在审阅”（两次连续的设置“正在审阅”是否多余）",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "标签设计（RSO-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_85e8a5b2.png",
+                  "format": "png",
+                  "width": 1292,
+                  "height": 942,
+                  "size": "76.18 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.‘通过’更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.‘驳回’更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点；",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "标签设计确认（RSO-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_d4841882.png",
+                  "format": "png",
+                  "width": 1297,
+                  "height": 503,
+                  "size": "32.68 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.‘通过’更新流程变量，设置审批人员并动态赋予表单操作权限，完成任务节点；",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.‘退回标签设计’更新流程变量，设置审批人员并动态赋予表单操作权限，完成",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "创建申请（RSO-010）-平面新风格设计",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "4. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "平面新风格设计流程-新增",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_d825f440.png",
+                  "format": "png",
+                  "width": 1289,
+                  "height": 790,
+                  "size": "68.14 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者-平面新风格设计",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "1.获取“包装结构工程师”、“结构工程师”、“硬件/NPE工程师”、“包装平面工程师”、“印刷信息提供者”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.“需求类型”是‘包装设计’：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.“包装设计需求”有平面，将“包装平面工程师”加入角色【包装平面工程师、审核者】；将“印刷信息提供者”加入角色【产品经理】",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.为获取到的第一条中的所有人员赋予动态权限",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态-平面新风格设计",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置流程状态为“正在审阅”",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "提供印刷信息-平面新风格设计（RSO-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_3bdf054c.png",
+                  "format": "png",
+                  "width": 1289,
+                  "height": 672,
+                  "size": "43.48 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "包装结构设计-平面新风格设计（RSO-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_9a4db3fb.png",
+                  "format": "png",
+                  "width": 1295,
+                  "height": 547,
+                  "size": "35.20 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "平面设计-平面新风格设计（RSO-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "“提供印刷信息”和“包装结构设计”两个环节同时结束时，流程流向“平面设计”环节",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_2904afad.png",
+                  "format": "png",
+                  "width": 859,
+                  "height": 919,
+                  "size": "77.00 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "平面设计审核-平面新风格设计（RSO-040）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_24f194f7.png",
+                  "format": "png",
+                  "width": 1292,
+                  "height": 582,
+                  "size": "36.90 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "设计确认-平面新风格设计（RSO-050）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_95fe74b7.png",
+                  "format": "png",
+                  "width": 1292,
+                  "height": 610,
+                  "size": "38.74 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "接口（开发时补充）",
+          "level": 1,
+          "content": [
+            {
+              "type": "table",
+              "index": 5,
+              "rows": [
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "序号"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "接口描述"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "提供方"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 1,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PLM"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 0,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 1,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 0,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 1,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 0,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 1,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 3,
+                    "content": []
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "待确定：",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "list_item",
+              "text": "",
+              "level": 0,
+              "prefix": "5. ",
+              "is_bullet": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:31",
+    "source_file": "包装标签设计申请流程.docx",
+    "file_size_bytes": 1826064,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 239,
+    "tables_found": 6,
+    "images_found": 25
+  },
+  "images": {
+    "img_ce5df5a8": {
+      "type": "image",
+      "url": "images/img_ce5df5a8.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 受限状态维护变更流... (运行 0)"
+    },
+    "img_3fbdce2b": {
+      "type": "image",
+      "url": "images/img_3fbdce2b.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 包装标签设计 (PLM... (运行 0)"
+    },
+    "img_5a65e566": {
+      "type": "image",
+      "url": "images/img_5a65e566.png",
+      "format": "png",
+      "width": 853,
+      "height": 927,
+      "size": "84.02 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_39d42f31": {
+      "type": "image",
+      "url": "images/img_39d42f31.png",
+      "format": "png",
+      "width": 1035,
+      "height": 1023,
+      "size": "88.91 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_f60b83a5": {
+      "type": "image",
+      "url": "images/img_f60b83a5.png",
+      "format": "png",
+      "width": 1034,
+      "height": 984,
+      "size": "85.52 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_b6265fc8": {
+      "type": "image",
+      "url": "images/img_b6265fc8.png",
+      "format": "png",
+      "width": 1037,
+      "height": 1011,
+      "size": "84.82 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_32217742": {
+      "type": "image",
+      "url": "images/img_32217742.png",
+      "format": "png",
+      "width": 1032,
+      "height": 969,
+      "size": "82.20 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_0e173015": {
+      "type": "image",
+      "url": "images/img_0e173015.png",
+      "format": "png",
+      "width": 1291,
+      "height": 711,
+      "size": "45.50 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_7d998bde": {
+      "type": "image",
+      "url": "images/img_7d998bde.png",
+      "format": "png",
+      "width": 1296,
+      "height": 699,
+      "size": "41.28 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_349a4ba7": {
+      "type": "image",
+      "url": "images/img_349a4ba7.png",
+      "format": "png",
+      "width": 1289,
+      "height": 709,
+      "size": "43.95 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_371d9c98": {
+      "type": "image",
+      "url": "images/img_371d9c98.png",
+      "format": "png",
+      "width": 855,
+      "height": 966,
+      "size": "83.10 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_fb7d96d0": {
+      "type": "image",
+      "url": "images/img_fb7d96d0.png",
+      "format": "png",
+      "width": 1300,
+      "height": 726,
+      "size": "46.17 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_8b09889d": {
+      "type": "image",
+      "url": "images/img_8b09889d.png",
+      "format": "png",
+      "width": 1293,
+      "height": 666,
+      "size": "43.76 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_1d6d8325": {
+      "type": "image",
+      "url": "images/img_1d6d8325.png",
+      "format": "png",
+      "width": 852,
+      "height": 923,
+      "size": "76.79 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_4b7adffd": {
+      "type": "image",
+      "url": "images/img_4b7adffd.png",
+      "format": "png",
+      "width": 1293,
+      "height": 582,
+      "size": "35.90 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_2d47a937": {
+      "type": "image",
+      "url": "images/img_2d47a937.png",
+      "format": "png",
+      "width": 1293,
+      "height": 688,
+      "size": "40.39 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_3fdeb19d": {
+      "type": "image",
+      "url": "images/img_3fdeb19d.png",
+      "format": "png",
+      "width": 851,
+      "height": 656,
+      "size": "56.73 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_85e8a5b2": {
+      "type": "image",
+      "url": "images/img_85e8a5b2.png",
+      "format": "png",
+      "width": 1292,
+      "height": 942,
+      "size": "76.18 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_d4841882": {
+      "type": "image",
+      "url": "images/img_d4841882.png",
+      "format": "png",
+      "width": 1297,
+      "height": 503,
+      "size": "32.68 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_d825f440": {
+      "type": "image",
+      "url": "images/img_d825f440.png",
+      "format": "png",
+      "width": 1289,
+      "height": 790,
+      "size": "68.14 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_3bdf054c": {
+      "type": "image",
+      "url": "images/img_3bdf054c.png",
+      "format": "png",
+      "width": 1289,
+      "height": 672,
+      "size": "43.48 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_9a4db3fb": {
+      "type": "image",
+      "url": "images/img_9a4db3fb.png",
+      "format": "png",
+      "width": 1295,
+      "height": 547,
+      "size": "35.20 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_2904afad": {
+      "type": "image",
+      "url": "images/img_2904afad.png",
+      "format": "png",
+      "width": 859,
+      "height": 919,
+      "size": "77.00 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_24f194f7": {
+      "type": "image",
+      "url": "images/img_24f194f7.png",
+      "format": "png",
+      "width": 1292,
+      "height": 582,
+      "size": "36.90 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_95fe74b7": {
+      "type": "image",
+      "url": "images/img_95fe74b7.png",
+      "format": "png",
+      "width": 1292,
+      "height": 610,
+      "size": "38.74 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

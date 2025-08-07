@@ -1,0 +1,5257 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/样机预发布流程.docx",
+    "title": "",
+    "author": "wuxiaojuan6@hikvision.com",
+    "created": "2021-02-06 09:52:00+00:00",
+    "modified": "2022-12-21 02:48:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "865.70 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "·",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "paragraph",
+          "text": "样机预发布流程",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟6"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-12"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1.0"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟6"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "王萌7"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0项目流程迁移"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板（Hikvision_ProtoType_WF） 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 2",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建/修改申请（PTY-010） 2",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 流程表达式- 设置参与者 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 流程表达式- 邮件通知抄送人 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 条件表达式- 是否会签 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 会签（PTY-020） 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 条件表达式-是否定制产品 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.7 条件表达式-产品经理发起申请 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 条件表达式-定制负责人发起申请 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.9 产品经理审核（PTY-030） 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.10 产品总监审核 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.11 条件表达式-是否业务部总经理审核 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.12 流程表达式- 设置受限状态 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.13 流程表达式- 软件处理 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.14 流程表达式- sendERP 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.15 流程表达式- 自动投基线 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.16 流程表达式- 启动子流程 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.17 流程表达式- 同步成品电池信息到SAP 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.18 流程表达式- 发送邮件到ME 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.19 流程表达式- sendMPS 9",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.20 流程表达式- sendIRDMS 10",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.21 流程表达式- ZPR3邮件提醒 10",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.22 流程表达式- 流程结束发送邮件 10",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.23 配置处理（问题：此节点取消了吗？） 11",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "4 系统接口- 未包含全部，开发时查具体代码 11",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "513.75pt",
+              "height": "258.75pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_49a9007a",
+              "size": "86.46 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_49a9007a.emf",
+              "file_path": "embedded_objects/embedded_obj_49a9007a.json"
+            },
+            {
+              "type": "paragraph",
+              "text": "根据 3.20 内容删除表达式 sendMPS",
+              "bold": false,
+              "italic": false
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板（Hikvision_ProtoType_WF）",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_03e98d7b.png",
+              "format": "png",
+              "width": 2290,
+              "height": 756,
+              "size": "58.79 KB",
+              "context": "段落 (运行 0)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "创建/修改申请（PTY-010）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_93af7849.png",
+                  "format": "png",
+                  "width": 1281,
+                  "height": 869,
+                  "size": "91.19 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_3aab84a0.png",
+                  "format": "png",
+                  "width": 1282,
+                  "height": 748,
+                  "size": "73.01 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "【属性】申请类型/项目名称/样机用途/关联样机发布评审单号/技术开发项目编号/技术开发项目名称/业务部总经理；【产品验证信息】，只在以下两个情况下显示（ITRMS20180918_014_PLM样机管理优化-业务分析报告 + ITRMS20190508_027样机预发布产品验证信息下的流程单号需要可选择）",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "申请人所属的一级部门在系统配置表->《部门配置》里",
+                  "level": 1,
+                  "prefix": "    2.1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "申请人所属的一级部门非产品研发中心，但【属性】产品线在系统配置表内：《产品线配置》->配置类型=protoTypePL、配置类型描述=样机预发布通过产品线控制显示优化的新界面 （问题TO业务：RMS20210324_011PLM系统样机预发布关联发布评审单支持二级部门，建议更改实现方案：一级部门汽车电子显示新页面，但配置表内的产品线关联评审单号不必填，且不需要业务部总经理审核）可以，最好公司都可以统一页面",
+                  "level": 1,
+                  "prefix": "    2.2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "【属性】试制单号/系统测试单号，只在不符合上述情况下显示",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "字段定义",
+                  "level": 0,
+                  "prefix": "4. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*上下文"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料上下文自动获取 主签审对象列表清空时，上下文清空"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*所属部门"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "自动获取申请人的HR组织"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "接口"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*申请类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=首次发布 输入原样机预发布单号时，此字段自动刷新为升级发布"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "原样机预发布单号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "申请类型=升级发布时，必填 输入单号时，自动带出上次发布内容 单号更改时，带出的内容重新刷新"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=基线产品（问题to业务：此字段是否可以不设默认值，由项目编号带出？）可以，可以放到项目编号下"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*发布主题"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "项目编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "集成IRDMS (问题to业务：还有集成其他系统吗？)没有 项目编号带出： 【属性】项目名称，关联样机发布评审单号，产品线，产品系列（产品系列带出后，可编辑） 【产品验证信息】 升级发布+定制产品时，项目编号必填（ITRMS20200306_020）必填 样机产品线、首次发布时，必填 样机产品线、非首次发布、且主签审对象/程序/光盘列表有变化时，必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "接口 queryMongoDbData 无法带出关联样机发布评审单号"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "项目名称"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "由项目编号带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品线"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "由产品系列带出 产品系列更改时，刷新取值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品系列"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选择项取自PBI结构"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*样机用途"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "关联样机发布评审单号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "样机用途=销售时，必填 问题to业务：集成哪个/哪些系统 ---集成IRDMS系统 样机发布评审结论不通过或空时，不允许添加"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "接口 ：调用IRDMS接口，查询关联评审单信息 ext/hr/getPrototypeReviewByProjNum"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*预发布内容"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项：整机与软件、光盘互斥"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*样机有效期"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只允许当前日期的第2天或以后的日期"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "技术开发项目编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "调用项目编号接口，限制只能查出技术开发 技术开发项目编号接口只取系统测试单信息（两行），更新【产品验证信息】原先由项目编号带出的系统测试单信息；其余不更新"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "接口 ext/protoType/getPdtValidationInfoRecords"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "技术开发项目名称"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "由技术开发项目编号带出"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "试制单号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "问题to业务：集成哪个/些系统"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "接口：ext/hr/getProjectInfo"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "系统测试单号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "问题to业务：集成哪个/些系统 样机产品线、首次发布时，必填 样机产品线、非首次发布时、项目编号是IRDMS单号、且主签审对象/程序/光盘列表有变化时，必填 取最新的且已经结束的流程。若最新的系统测试单没有结束，需要选择上一轮已结束的的系统测试单 （问题to业务：ITRMS20190108_023是针对此字段，还是针对产品验证信息？）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "接口：ext/hr/getSystemTestNumNew"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品总监(基线)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品类型=基线时，显示 由产品线带出，取值于PBI 若取到多人时，可减少人员；但不可添加其他人员 产品类型或产品线更改时，刷新取值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品经理(基线)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品类型=基线时，显示 由产品系列带出，取值于PBI 若取到多人时，可减少人员；但不可添加其他人员 产品类型或产品系列更改时，刷新取值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品总监(定制)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品类型=定制时，显示 由产品线带出，取值于PBI 若取到多人时，可减少人员；但不可添加其他人员 产品类型或产品线更改时，刷新取值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*产品经理(定制)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品类型=定制时，显示 由产品系列带出，取值于PBI 若取到多人时，可减少人员；但不可添加其他人员 产品类型或产品系列更改时，刷新取值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "配置工程师"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "由产品线带出，取值于PBI（问题to业务：需要确认取产品线还是产品系列人员） 产品线更改时，刷新取值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "取值来源PBI产品线配置人员"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "业务部总经经理"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "二级部门负责人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "接口"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "会签人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "会签人非空时，流程需要经会签节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "抄送人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品类型=基线产品时，默认值：基于产品线，取值于PBI基线数据工程师 产品类型=定制产品时，默认值：基于产品线，取值于PBI定制数据工程师 产品类型或产品线更改时，刷新取值"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品信息验证"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "集成IRDMS，由项目编号带出 若有关联技术开发项目，则从产品开发/技术开发项目中获取（只带出系统测试单信息，其他仍由项目编号带出） 1、前端、热成像，选择 技术开发项目 项目类型：技术开发，带出表格信息。 2、其他的业务部，选择 产品开发项目 项目类型：产品开发，带出表格信息。 3、各种‘已结束’状态 ‘XXX单’ 以链接的方式显示，点击链接直接跳转对应页面"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只能添加状态=D2，产品类型与【属性】表单一致的物料"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "名称"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "链接到PDM详情页面"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "版本"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "生命周期状态"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "样机销售状态"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认“样机可销售”？具体规则需要查下代码"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "样机销售范围"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "点击后弹出页面选择范围"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "表头操作："
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "添加： 查询到匹配条件的产品后，自动设置页面的属性【上下文】 批量添加：同上 批量添加销售组织： 标签参数校验： 选中行，单击后弹出页面展示该产品的分类属性值(原型中缺少页面参考原页面 )"
+                          },
+                          {
+                            "type": "image",
+                            "url": "images/img_cedd0807.png",
+                            "format": "png",
+                            "width": 738,
+                            "height": 536,
+                            "size": "33.65 KB"
+                          },
+                          {
+                            "type": "image",
+                            "url": "images/img_8a80ae40.png",
+                            "format": "png",
+                            "width": 861,
+                            "height": 567,
+                            "size": "76.44 KB"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 3,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "应用程序列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*程序SVN/FTP/SWM路径"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "输入SVN/SWM路径后，自动带出软件版本、内部版本、源码SVN路径、源码SVN版本号、属性、平台 、程序语言"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "这三个列表的填写规则，规范，校验，开发时检查代码 应用程序：请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\包属性中的填写的值不一致\\值不能为空!\\版本格式错误\\SVN版本必填\\路径无效\\路径没有以{2}或http开头\\文件路径(SVN或者FTP)链接格式不正确\\请填写文件路径(SVN或者FTP)\\'程序语言'值错误!\\源码路径{1}({2})错误\\'属性'值错误!\\'父级节点'必填!\\父项未在申请单中 光盘列表：值不能为空!\\SVN版本必填\\请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\链接错误\\链接格式错误！\\FTP WEB链接格式不正确\\请填写FTP WEB链接\\文件名称的长度超过40个字符\\'程序语言'值错误!\\'属性'值错误!\\'父级节点'必填\\父级节点不在申请单中 成果物列表：svn路径,svn版本校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "应用程序列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "程序SVN版本号(FTP/SWMS不填)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "文件路径为SWMS形式时，非必填"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "这三个列表的填写规则，规范，校验，开发时检查代码 应用程序：请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\包属性中的填写的值不一致\\值不能为空!\\版本格式错误\\SVN版本必填\\路径无效\\路径没有以{2}或http开头\\文件路径(SVN或者FTP)链接格式不正确\\请填写文件路径(SVN或者FTP)\\'程序语言'值错误!\\源码路径{1}({2})错误\\'属性'值错误!\\'父级节点'必填!\\父项未在申请单中 光盘列表：值不能为空!\\SVN版本必填\\请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\链接错误\\链接格式错误！\\FTP WEB链接格式不正确\\请填写FTP WEB链接\\文件名称的长度超过40个字符\\'程序语言'值错误!\\'属性'值错误!\\'父级节点'必填\\父级节点不在申请单中 成果物列表：svn路径,svn版本校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "应用程序列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "内部版本"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "如果接口没有数据传递，用户手动填写时，不做格式校验。填写完 程序SVN/SWMS路径后，通过包管理接口，自动带出内部版本"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "这三个列表的填写规则，规范，校验，开发时检查代码 应用程序：请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\包属性中的填写的值不一致\\值不能为空!\\版本格式错误\\SVN版本必填\\路径无效\\路径没有以{2}或http开头\\文件路径(SVN或者FTP)链接格式不正确\\请填写文件路径(SVN或者FTP)\\'程序语言'值错误!\\源码路径{1}({2})错误\\'属性'值错误!\\'父级节点'必填!\\父项未在申请单中 光盘列表：值不能为空!\\SVN版本必填\\请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\链接错误\\链接格式错误！\\FTP WEB链接格式不正确\\请填写FTP WEB链接\\文件名称的长度超过40个字符\\'程序语言'值错误!\\'属性'值错误!\\'父级节点'必填\\父级节点不在申请单中 成果物列表：svn路径,svn版本校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "光盘列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "这三个列表的填写规则，规范，校验，开发时检查代码 应用程序：请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\包属性中的填写的值不一致\\值不能为空!\\版本格式错误\\SVN版本必填\\路径无效\\路径没有以{2}或http开头\\文件路径(SVN或者FTP)链接格式不正确\\请填写文件路径(SVN或者FTP)\\'程序语言'值错误!\\源码路径{1}({2})错误\\'属性'值错误!\\'父级节点'必填!\\父项未在申请单中 光盘列表：值不能为空!\\SVN版本必填\\请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\链接错误\\链接格式错误！\\FTP WEB链接格式不正确\\请填写FTP WEB链接\\文件名称的长度超过40个字符\\'程序语言'值错误!\\'属性'值错误!\\'父级节点'必填\\父级节点不在申请单中 成果物列表：svn路径,svn版本校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "成果物列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "这三个列表的填写规则，规范，校验，开发时检查代码 应用程序：请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\包属性中的填写的值不一致\\值不能为空!\\版本格式错误\\SVN版本必填\\路径无效\\路径没有以{2}或http开头\\文件路径(SVN或者FTP)链接格式不正确\\请填写文件路径(SVN或者FTP)\\'程序语言'值错误!\\源码路径{1}({2})错误\\'属性'值错误!\\'父级节点'必填!\\父项未在申请单中 光盘列表：值不能为空!\\SVN版本必填\\请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！\\链接错误\\链接格式错误！\\FTP WEB链接格式不正确\\请填写FTP WEB链接\\文件名称的长度超过40个字符\\'程序语言'值错误!\\'属性'值错误!\\'父级节点'必填\\父级节点不在申请单中 成果物列表：svn路径,svn版本校验"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交系统校验项",
+                  "level": 0,
+                  "prefix": "5. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验方式"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验项"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "软件列表存在必填项未填，请检查表头带红色*号的列是否存在空值"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验软件列表，软件版本格式为<非定制>软件版本（软件版本规范格式为Vx.y.z buildYYMMDD，版本格式类型为“Standard”，除非是客户要求的特殊版本格式，才可以选择版本格式类型为“Special”）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验软件列表，软件双证名称不能超过30个字符"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "光盘列表，存在必填项未填，请检查表头带红色*号的列是否存在空值"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "成果物列表，存在必填项未填，请检查表头带红色*号的列是否存在空值"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表中xxx物料没有关联软件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表中xxx物料关联多个软件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表中xxx物料BOM中已有软件，且流程没有关联软件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表中xxx物料BOM中已有软件，且流程中也有关联软件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表中xxx物料BOM中已有软件，且流程中关联多个软件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "父级节点xxx的平台属性内容为空"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "表格填写的平台与父级节点物料的类型属性平台值不一致"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "获取主签审对象的物料，查询最新版本BOM第一层和第一层是成品再查一层，如果存在物料大类=S301的，则把物料号提示出来"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象, 类型属性销售地区, 与表单的样机销售范围不一致, 请知晓！"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验包属性中的平台在PLM中是否存在（设备加密型号未报备、平台次类型未报备、平台子类未报备）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（警告提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验平台信息是否一致（1.如果设备加密型号不存在，则校验平台次类型是否一致 2.如果平台次类型不存在，则校验平台子类是否一致 3.平台已经报备过，则校验所有层级是否一致）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象的物料分类属性机身标签参数（第1~3行）、否包含TBD字符，如果有，则拦截"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料状态不为D2，不能提交！"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料一层bom的物料design视图是否存在"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料一层bom的物料，部件不是虚拟件,如果是A版，要求物料状态为D1\\D2\\S1\\M1\\E1，如果是非A版，这不控制 校验成品是否有分类信息 （物料组是否在系统分类管理中）（问题：什么意思？）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验物料是否关联未结束的流程 （开发时需确认哪些流程不锁样机预发布）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签对象必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主要对象列表为空 （和主签对象必填重复）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "部件的销售范围不能为空!"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "销售组织xxx不存在，请重新选择或从iRDMS核对！（调用IRDMS的接口）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验所有物料是否跨库签审"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验页面填写产品线、产品系列是否存在"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主要对象的产品系列为和所选的产品系列不一致！"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验物料的是否客户专用和页面选择是否一致"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "预发布内容选择了'软件',则应用程序列表不能为空!"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "应用程序列表不为空,请为'预发布内容'选择'软件'!"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "预发布内容选择了'配套光盘',则光盘列表不能为空!"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "预发布内容请选择'配套光盘'! （不是配套光盘，但是光盘列表不为空）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "以下对象被检出xxxx,、名称、状态 (Design)"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "因流程必经产品系列的产品经理审核，不允许跨多个系列发布：xxx、xxx请按有效（已发布）的产品系列拆单，使用复制（我的申请单> 复制流程）流程功能快速提单，谢谢！"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验（报错提示）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1）样机产品线（即，系统配置表-> 产品线配置-> 配置类型:protoTypeProductLine），并且非首次发布（即，【属性】原样机预发布单号非空）： (a)主签审对象/程序/光盘列表发生变化，项目编号必填 (b)项目编号是irdms单号，并且主签审对象/程序/光盘列表发生变化： 系统测试单号必填（产品研发部门非必填） 根据IRDMS项目编号xxx未找到相关系统测试单号 系统测试单号相关流程未结束 项目编号对应的最新且已结束的系统测试单号（产品研发部门不校验） 2）样机产品线首次发布： (a)项目编号必填 (b)系统测试单号必填（产品研发部门非必填） (c)项目编号和测试编号不为空，校验根据项目编号未找到相关系统测试单号 (d)系统测试单号xxx相关流程未结束 (e)项目编号是irdms单号且对应的最新且已结束的系统测试单号（产品研发部门不校验）"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "应用程序列表， (1) 软件类型不能为空 (2) 请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！（路径以http开头并且不是swms的地址，判断文件类型是否在排除的类型中，目前只配置了txt） (3) 非定制版本校验是否满足标准规范：Vx.y.z buildYYMMDD！ (4) SVN版本必填、路径是否有效（SVN和FTP） (5) '程序语言'值错误 (6) 源码路径错误 (7) '属性'值错误! (8) '父级节点'必填 (9) 父项未在申请单中，不能提交 (10) 如果产品线对应的MD5管理为true，则需要根据软件路径和版本校验MD5值，长度至少为30"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "光盘列表： SVN版本必填 请提交正确的发布文件，如为FTP文件，请直接填写FTP地址！ 链接错误 ftp地址是否有效 FTP WEB链接格式不正确 请填写 FTP WEB链接 文件名称的长度超过40个字符，不能提交！ '程序语言'值错误! '属性'值错误! '父级节点'必填 光盘父级节点不在申请单中，不能提交"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "成果物列表”校验失败，svn路径,svn版本错误"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 41,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 41,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验会签人员账号是否存在"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 42,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 42,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "校验软件程序SVN版本是否为最新"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 43,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 43,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当产品验证信息系统测试单的流程单号为空时，提示：该样机预发布没有关联系统测试单，是否继续提交？"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置参与者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "产品经理（取自页面 基线产品经理） 产品总监（取自页面 基线产品总监） 定制产品经理（取自页面 定制产品经理） 定制产品总监（取自页面 定制产品总监） 配置工程师（取自页面 配置工程师） 会签人（取自页面 会签人） 业务部总经理主管（基于创建人调用HR接口带出二级业务部门主管）"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 邮件通知抄送人",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "条件表达式- 是否会签",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "页面勾选了“是否需要会签”会签人字段非空时，流程到“会签”节点",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "会签（PTY-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_955e5705.png",
+                  "format": "png",
+                  "width": 1280,
+                  "height": 218,
+                  "size": "12.35 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式-是否定制产品",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "根据页面勾选判断是否是“定制产品”",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式-产品经理发起申请",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "判断流程创建者是否页面填写的产品经理",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "如果是，流程到“产品总监审核”节点（责任人：产品总监）",
+                  "level": 0,
+                  "prefix": "6. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "如果不是，流程到“产品经理审核”节点（责任人：产品经理）",
+                  "level": 0,
+                  "prefix": "7. ",
+                  "is_bullet": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式-定制负责人发起申请",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "判断流程创建者是否页面填写的定制产品经理",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "如果是，流程到“产品总监审核”节点（责任人：定制产品总监）",
+                  "level": 0,
+                  "prefix": "8. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "如果不是，流程到“产品经理审核”节点（责任人：定制产品经理）",
+                  "level": 0,
+                  "prefix": "9. ",
+                  "is_bullet": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "产品经理审核（PTY-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_ded1b9ab.png",
+                  "format": "png",
+                  "width": 1272,
+                  "height": 243,
+                  "size": "13.31 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "产品总监审核（PTY-040）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_cf8faade.png",
+                  "format": "png",
+                  "width": 1273,
+                  "height": 252,
+                  "size": "13.70 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "条件表达式-是否业务部总经理审核",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "产品类型为基线、【属性】样机用途=销售，且【产品验证信息】里未关联系统测试单时，流程到“业务部总经理审核”节点",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "业务部总经理审核（PTY-050）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_76eba677.png",
+                  "format": "png",
+                  "width": 1285,
+                  "height": 245,
+                  "size": "14.05 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置受限状态",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "根据主签审对象列表，物料对应的受限状态，设置物料的受限状态并发送sap",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 软件处理",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 5,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "软件处理"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "获取svn文件的md5值，如果产品线的MD5管理属性为是，则校验svn的md5值，如果为否，则不校验 根据应用程序列表的数据创建S301软件 根据光盘列表创建C301软件"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- sendERP",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 6,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sendERP"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "去除展示样机字样 将样机销售状态和样机销售范围、设置样机有效期 设置到产品型号上，将设置样机有效期设置到物料上 发送sap（包括可销售国家清单） 扩展销售组织"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 自动投基线",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "创建样机基线",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 启动子流程",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "启动力备用号子流程",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 同步成品电池信息到SAP",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "参照BOM审核的逻辑，再次计算电池信息并同步到SAP。计算时覆盖之前的值。可参照复用计算逻辑《ITRMS20190509_036_特殊产品&物料含危险品（电池）识别》",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 发送邮件到ME",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "给4000工厂ME发邮件通知",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- sendMPS",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "ITRMS20190524_013_MPS样机管理方案关于PLM样机发布-MPS主数据库接口打通和数据同步 + ITRMS20190829_006_定制物料PLM-MPS基础数据同步接口增加必须字段需求+ ITRMS20200306_020_海外样机发布业务改善",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "table",
+                  "index": 7,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sendMPS"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "将物料及销售信息 发送到MPS，发送条件： 预发布内容为“整机” 物料销售地区为：海外 产品线 是 PIS业务领域（Global Market&报警产品）下的产品线（样机预发布表单中的“产品线”与PIS中的产品目录L0产业、L1业务领域(Global Market&报警产品)、L2产品线进行校验，产品线一致的发MPS，不一致不发MPS。）"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- sendIRDMS",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "TRMS20200306_020_海外样机发布业务改善",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "根据产品类型启动IRDMS对应定制与基线流程",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "海外发起样机发布范围",
+                  "level": 0,
+                  "prefix": "10. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "物料销售地区“海外”+首次发布",
+                  "level": 1,
+                  "prefix": "    10.1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "表单中的“产品线”与PLM中产品线配置表中的产品线进行校验 （系统配置表《产品线配置》->配置类型：RSOproductline）",
+                  "level": 1,
+                  "prefix": "    10.2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "与IRDMS市场发布流程接口",
+                  "level": 0,
+                  "prefix": "11. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "样机预发布流程结束后自动发起",
+                  "level": 1,
+                  "prefix": "    11.1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "产品类型定制转定制样机发布流程，基线转基线样机发布流程",
+                  "level": 1,
+                  "prefix": "    11.2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "与IRDMS市场发布对接的字段：样机预发布单号、申请人（定制：定制项目经理、基线：产品经理）、产品线、产品线负责人、销售范围、offering、产品型号、订货型号、物料代码、状态、销售组织、原型机代码、原型机型号",
+                  "level": 1,
+                  "prefix": "    11.3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "将市场发布流程放入主数据关联单子/查看OA相关流程",
+                  "level": 1,
+                  "prefix": "    11.4. ",
+                  "is_bullet": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- ZPR3邮件提醒",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "ITRMS20200302_008_新建国内市场发布流程 + RMS20200507_048国内市场发布优化 + RMS20200723_035ZPR3流程人员配置优化对应市场发布流程调整",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "样机预发布 MKT邮件提醒（满足条件才发邮件：1、 销售区域为国内 且是成品类型 2、首次发布+基线产品 3、配置的产品线）：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "邮件：样机预发布已完成，请处理样机产品定价申请流程(ZPR3)。",
+                  "level": 0,
+                  "prefix": "12. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "收件人：通过物料编码查询offering负责人+产品线的行销MKT，根据大类和是否经销返回值取并集一起发送（如果有一个offering既有经销物料又有非经销物料，合并一个邮件发）。如果是经销产品，SMBG和行销MKT并集；如果是非经销产品，产品经理。",
+                  "level": 0,
+                  "prefix": "13. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "配置的产品线",
+                  "level": 0,
+                  "prefix": "14. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "系统配置表《产品线配置》-> 配置类型：researchOrderProductLine, 配置类型描述：研发数据发布流程配置控制范围内产品线",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 流程结束发送邮件",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "1. 流程接收通知流程创建者",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2. 流程结束，样机升级发布（即【属性】申请类型=升级发布）时邮件通知开发代表/项目经理，开发代表/项目经理手动进行软件禁用及禁用影响分析。取项目关联的所有样机预发布单号里面的软件（E4禁用的软件不需要取出），若取不到，不发送此邮件。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "配置处理（开发时检查代码：此节点取消了吗？）--uat环境工作流模板中无此表达式",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "应用程序列表svn路径检查 （PTY000031314）",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "系统接口- 未包含全部，开发时查具体代码",
+          "level": 1,
+          "content": [
+            {
+              "type": "table",
+              "index": 8,
+              "rows": [
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "序号"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "接口信息"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "接口提供方"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "项目编号"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "IRDMS/OA"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "关联样机发布评审单号"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "输入：项目编号，样机评审单号，样机评审主题，项目名称，输出：见弹框"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "IRDMS"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "技术开发项目编号"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "调用项目编号接口A1,限制只能查出技术开发。"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "IRDMS"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "产品验证信息"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "提供获取产品验证信息的接口，有关联技术开发项目从产品开发/技术开发项目中获取。"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "IRDMS"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 5,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 5,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "业务部总经理审核人"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 5,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "HR人员信息接口调用：基于创建人调用HR接口带出二级业务部门主管。"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 5,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "HR"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 6,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 6,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "邮件抄送接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 6,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "输入：项目编号，输出：项目信息里的开发代表/项目经理"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 6,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "邮件，IRDMS"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 7,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "7"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 7,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "创建样机预发布新建接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 7,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "从项目中快速创建样机预发布申请，传入字段包括项目编号、项目名称、产品验证信息，产品线、产品系列、产品类型、创建人、创建时间"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 7,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PLM"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 8,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 8,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "样机预发布单接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 8,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "输入：项目编号。 输出：流程单号、主题、样机用途、样机发布内容、样机有效期、流程状态、申请人"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 8,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PLM"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 9,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "9"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 9,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "样机软件物料代码接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 9,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "输入：项目编号。 输出：样机预发布单号、软件物料、软件物料描述、物料状态、父级物料代码"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 9,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PLM"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 10,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "10"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 10,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "试制单号"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 10,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "查询接口 输入：单号 输出：试制单号、试制类型、试制主题"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 10,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "HR"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 11,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "11"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 11,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "系统测试单号"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 11,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "查询接口 输入：单号 输出：测试单号、高、中、低、DI值"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 11,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "HR"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 12,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "12"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 12,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "所属部门"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 12,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "输入：申请人，输出：部门"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 12,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "HR"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 13,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "13"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 13,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Offering负责人"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 13,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "输入：物料代码，输出：Offering负责人"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 13,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PIS"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 14,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "14"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 14,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "行销MKT"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 14,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "输入：物料大类编码+是否经销品，输出：产品经理、SMBG产品经理"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 14,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 15,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "15"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 15,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "发送物料到MPS"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 15,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "输入参数publishType= PLM-Demo"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 15,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "MPS"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 16,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "16"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 16,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "发送物料到MPS"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 16,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "输入：销售组织， 输出： SAP那边提供（销售办公室编码、销售组编码）"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 16,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "SAP"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 17,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "17"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 17,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "市场发布流程 （节点：sendIRDMS）"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 17,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "创建市场发布流程的接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 17,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "IRDMS"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 18,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "18"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 18,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "市场发布更新市场状态 （节点：sendIRDMS）"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 18,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "iRDMS市场发布流程将发布国家的信息传递给PLM： 物料编码，市场发布国家，市场状态"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 18,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PLM"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 19,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "19"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 19,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "查询物料市场发布国家 （节点：sendIRDMS）"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 19,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "提供接口给iRDMS传入物料编码及本次发布的国家清单，PLM端校验是否已经有此国家的发布记录，有则返回是，无则返回否 入参：物料编码，国家；出参：是/否"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 19,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PLM"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 20,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "20"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 20,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "更新SPS样机"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 20,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "ITRMS20200302_008_新建国内市场发布流程 调整内容：在原来D2+ESP基础上，将市场状态发送给SPS：样机 （问题to业务：有数据需要发送到SPS吗？）"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 20,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 21,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "21"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 21,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "物料市场发布状态更新"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 21,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "ITRMS20200302_008_新建国内市场发布流程 市场发布流程结束后回写市场发布状态给PLM，新增PLM/PIS接口 市场发布LPDT审批通过后，触发PLM回写市场发布字段内容：市场发布【参考海外市场发布接口】 入参：物料编码，市场状态 PLM将市场状态通过接口发送给SAP，接口如上，不需要通过变更"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 21,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "IRDMS"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 22,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "22"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 22,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "根据软件包路径查询属性接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 22,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "RS20180928_01软件版本管理系统与PLM的对接 PLM触发，填写包地址后，调用版本管理提供的接口自动触发属性数据返回"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 22,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 23,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "23"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 23,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "软件包地址验证接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 23,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "RS20180928_01软件版本管理系统与PLM的对接 版本管理提供，软件包地址校验规则接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 23,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 24,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "24"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 24,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "软件包下载接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 24,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "RS20180928_01软件版本管理系统与PLM的对接 版本管理提供给PLM系统，软件包的获取"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 24,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 25,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "25"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 25,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "SAP合规接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 25,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "ITRMS20190702_005_SAP技术合规报表 PLM提供接口将物料对应的可销售国家清单每天定时推送给SAP SAP提供新建接口供PLM调用，SAP接口地址如下: http://sapwsd50.sapdns.cn:8350/dir/wsdl?p=sa/3e52810a898133658f0b62c17b49f5fc 对应接口：SI_GETVKBVKGLAND_IN~SET_TCONTROL 接口触发机制：样机预发布流程完成结束 PLM入参: 物料编码、可销售国家清单 频率：每天24:00推送 数据范围：物料销售地区为：海外，生命周期状态：D2-E2"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 25,
+                    "col": 3,
+                    "content": []
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:32",
+    "source_file": "样机预发布流程.docx",
+    "file_size_bytes": 886472,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 138,
+    "tables_found": 9,
+    "images_found": 11
+  },
+  "images": {
+    "img_01efd1d2": {
+      "type": "image",
+      "url": "images/img_01efd1d2.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 样机预发布 (PL... (运行 0)"
+    },
+    "img_e3295ae1": {
+      "type": "image",
+      "url": "images/img_e3295ae1.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 样机预发布 (PL... (运行 0)"
+    },
+    "img_03e98d7b": {
+      "type": "image",
+      "url": "images/img_03e98d7b.png",
+      "format": "png",
+      "width": 2290,
+      "height": 756,
+      "size": "58.79 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_93af7849": {
+      "type": "image",
+      "url": "images/img_93af7849.png",
+      "format": "png",
+      "width": 1281,
+      "height": 869,
+      "size": "91.19 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_3aab84a0": {
+      "type": "image",
+      "url": "images/img_3aab84a0.png",
+      "format": "png",
+      "width": 1282,
+      "height": 748,
+      "size": "73.01 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_cedd0807": {
+      "type": "image",
+      "url": "images/img_cedd0807.png",
+      "format": "png",
+      "width": 738,
+      "height": 536,
+      "size": "33.65 KB",
+      "context": "表格2单元格[35,2]"
+    },
+    "img_8a80ae40": {
+      "type": "image",
+      "url": "images/img_8a80ae40.png",
+      "format": "png",
+      "width": 861,
+      "height": 567,
+      "size": "76.44 KB",
+      "context": "表格2单元格[35,2]"
+    },
+    "img_955e5705": {
+      "type": "image",
+      "url": "images/img_955e5705.png",
+      "format": "png",
+      "width": 1280,
+      "height": 218,
+      "size": "12.35 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_ded1b9ab": {
+      "type": "image",
+      "url": "images/img_ded1b9ab.png",
+      "format": "png",
+      "width": 1272,
+      "height": 243,
+      "size": "13.31 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_cf8faade": {
+      "type": "image",
+      "url": "images/img_cf8faade.png",
+      "format": "png",
+      "width": 1273,
+      "height": 252,
+      "size": "13.70 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_76eba677": {
+      "type": "image",
+      "url": "images/img_76eba677.png",
+      "format": "png",
+      "width": 1285,
+      "height": 245,
+      "size": "14.05 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

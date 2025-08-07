@@ -1,0 +1,2296 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/电子机电料3D建模流程.docx",
+    "title": "",
+    "author": "wuxiaojuan6@hikvision.com",
+    "created": "2019-09-04 01:23:00+00:00",
+    "modified": "2023-04-24 06:08:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "2793.22 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "PLM 2.0 -电子机电料3D建模流程",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "陈锡伟"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022-02"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0 流程迁移"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 1",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板(待重新设计) 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 2",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建申请（RSO-010） 2",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 流程表达式- 设置参与者 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 流程表达式- 设置状态 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 添加图纸对象（RSO-020） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 流程表达式- 设置图纸状态为正在审阅 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 直接主管审核（RSO-030） 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.7 流程表达式- 建模 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 流程表达式- 设置图纸状态_重新工作 7",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.9 流程表达式- 设置状态_已完成 8",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "4 接口（开发时补充） 8",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "486.75pt",
+              "height": "215.25pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_c7f6b6db",
+              "size": "68.21 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_c7f6b6db.emf",
+              "file_path": "embedded_objects/embedded_obj_c7f6b6db.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板(待重新设计)",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_e2e660f1.png",
+              "format": "png",
+              "width": 1444,
+              "height": 535,
+              "size": "22.29 KB",
+              "context": "段落 (运行 0)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "创建申请（RSO-010）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "embedded_object",
+                  "object_type": "unknown",
+                  "description": "Package",
+                  "prog_id": "Package",
+                  "ole_type": "Embed",
+                  "width": "75.75pt",
+                  "height": "55.5pt",
+                  "context": "段落 (运行 0)",
+                  "id": "embedded_obj_2d4c0d32",
+                  "size": "2345.50 KB",
+                  "content_type": "application/vnd.openxmlformats-officedocument.oleObject",
+                  "preview_image": "images/embedded_preview_embedded_obj_2d4c0d32.emf",
+                  "file_path": "embedded_objects/embedded_obj_2d4c0d32.json"
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_1693884e.png",
+                  "format": "png",
+                  "width": 1297,
+                  "height": 866,
+                  "size": "59.32 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "属性字段定义",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "TAB页"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*主题"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "单行文本，必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "需求说明"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串，"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "多行文本"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "3D库管理员"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "获取“3D库管理员”条件人员，自动填写 配置位置:系统配置:常用角色配置搜索 “3D库管理员”"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "select * from hik_cfg_role_role_mv_view c where c.query_type = '其它角色' and c.condition in ('3D库管理员','3D建模申请主管') 查询的结果中 CONDITION字段为“3D库管理员”作为‘3D库管理员’， CONDITION字段为“3D建模申请主管”作为‘审核人’"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "审核人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "获取“3D建模申请主管”人 员，自动填写 配置位置:系统配置:常用角色配置搜索 “3D建模申请主管”"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "select * from hik_cfg_role_role_mv_view c where c.query_type = '其它角色' and c.condition in ('3D库管理员','3D建模申请主管') 查询的结果中 CONDITION字段为“3D库管理员”作为‘3D库管理员’， CONDITION字段为“3D建模申请主管”作为‘审核人’"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "附件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "文件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "用户上传附件"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "非必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*物料编号，物料名称，版本，状态，创建者，上次更新时间，位置"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*物料编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只能搜索/添加与【属性】物料类型一致"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "物料类型：原材料，虚拟件，特征零件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "海康型号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料自动获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当添加物料存在对应属性时，列表中展示该字段信息"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "PCB Footprint"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料自动获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当添加物料存在对应属性时，列表中展示该字段信息"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "体长"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料自动获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当添加物料存在对应属性时，列表中展示该字段信息"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "体宽"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料自动获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当添加物料存在对应属性时，列表中展示该字段信息"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "体高"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料自动获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当添加物料存在对应属性时，列表中展示该字段信息"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "高度"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据物料自动获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "当添加物料存在对应属性时，列表中展示该字段信息"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "随签对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "初始字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "编号，名称，版本，状态，创建者，上次更新时间，位置，*对应物料"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "随签对象列表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*对应物料"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "如有关联物料自动获取，如无则支持人工填写"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "功能按钮",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "按钮"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "添加"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "a.查询：对象类型“原材料，虚拟件，特征零件‘”，默认条件‘条件’和‘创建者’可更改，目标类QueryPartCommonHandler.java，查询对象默认设计试图，查询结果数量上限为5000.且分页。返回前端以编码作为唯一值展示。 b.确定之后校验（这校验在2.0中放到提交时候在校验）: 1.所选部件必须是建模物料【HIK_CFG_MODELINGPART_MV_VIEW】 配置入口:电子机电物料3D建模分类配置 2.存在未结束的3D建模流程(排除当前流程)，均不能被选择"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "随签列表-添加"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "添加的对象需要是未关联部件的CAD的"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "移除"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "移除列表中选择物料"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "下载文档"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "不属于特征零件，则下载物料关联的MPN相关的文档；特征零件下载关联的‘说明文档’和‘参考文档’ 提交环节隐藏 添加图纸环节显示（可用） 主管审核环节显示 (可用)"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "查询物料子件信息 （提交环节隐藏）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "获取选中的主签审对象，弹出框显示其子信息。 提交环节隐藏 添加图纸环节显示 (可用) 主管审核环节不显示"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "下载DRA文件 （提交环节隐藏）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "获取部件关联的CAD文档和说明方文档 提交环节隐藏 添加图纸环节显示（可用） 主管审核环节显示 (可用)"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "\"1.以主签审对象第一行部件上下文作为通用表单的上下文 2.启动流程，创建流程与主签审对象的关系 3.随签对象移库至 “Standard Lib”库下的‘/Default/Component/CAD’ 忽略权限保存\""
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "保存"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "取消"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": []
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交系统校验项",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项必填"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主签审对象不能为空"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "类型和所选的物料类型不一致，请重新确认后提交"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交前校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "无"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交检验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "无"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "1、设置“3D库管理员”和“3D建模申请主管”，“3D库管理员”为“添加图纸对象”环节处理人",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "“3D建模申请主管”为“主管审核”环节处理人。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置流程状态为“正在审阅”。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "添加图纸对象（RSO-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "主签审对象列表：按钮操作【下载文档】【查询子件信息】【选择DRA文件】为可用状态",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "添加图纸对象环节支持 附件上传",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "随签对象列表：支持用户添加/移除对象",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_97bfbc2a.png",
+                  "format": "png",
+                  "width": 1284,
+                  "height": 876,
+                  "size": "66.88 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "提交校验：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.随签对象不能为空",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.“主签审对象”和“随签对象”条目需要一致 提示: ” 物料和图纸关系应该一一对应”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.随签对象对应的物料不能为空，且不能重复，以及物料必须是“主签审对象”里面的",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "路由：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.通过：表达式“变更图纸状态为正在审阅”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.驳回：节点“修改”，中间状态机“重新工作”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.废弃：流程“废弃”，流程结束",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置图纸状态为正在审阅",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "1.获取“随签对象”中的CAD图档对象关联的图纸对象",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.获取到的图纸状态为“WIP”或是“重新工作”，则设置其状态为“正在审阅”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.‘随签对象’中的图档状态若为“WIP”或“重新工作”，则设置其状态为“正在审阅”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "若图档获取的关联图纸被检出，则会抛出异常。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "直接主管审核（RSO-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "url": "images/img_e3e1924b.png",
+                  "format": "png",
+                  "width": 1277,
+                  "height": 872,
+                  "size": "62.01 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "设置流程状态为“已发布”",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "下载文档和下载DRA文件菜单可用",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 建模",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "获取随签对象信息，将获取到的图文件和部件创建关联关系：",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.删除部件之前关联的历史图纸信息link【EPMBuildRule， link的所有者关系是7，且部件的物料组要在根据电子机电物料3D建模流程配置表获取19开头物料组HIK_CFG_MODELINGPART_MV_VIEW】",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.获取图纸的关联图纸，若图纸和关联图纸被检出，则抛出异常；否则判断他们版本是否为数字，数字则需修订为A版本再设置“已发布”，不为数字则直接设置状态已发布。",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.创建部件和图纸之间的关联关系",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置图纸状态_重新工作",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "获取“随签对象”中的cad图档对象关联的图纸对象",
+                  "level": 0,
+                  "prefix": "4. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "获取到的图纸状态为“正在审阅”，则设置其状态为“重新工作”",
+                  "level": 0,
+                  "prefix": "5. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "随签对象’中的图档状态若为“正在审阅”，则设置其状态为“重新工作”",
+                  "level": 0,
+                  "prefix": "6. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "若图档获取的关联图纸被检出，则会抛出异常。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态_已完成",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "设置流程状态为“已发布”。",
+                  "level": 0,
+                  "prefix": "7. ",
+                  "is_bullet": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "接口（开发时补充）",
+          "level": 1,
+          "content": [
+            {
+              "type": "table",
+              "index": 5,
+              "rows": [
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "序号"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "接口"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 2,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "接口描述"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "提供方"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 1,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 1,
+                    "col": 3,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "PLM"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 0,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 1,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 2,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 0,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 1,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 3,
+                    "col": 3,
+                    "content": []
+                  }
+                ],
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 0,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 1,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 2,
+                    "content": []
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 4,
+                    "col": 3,
+                    "content": []
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "待确定：",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "list_item",
+              "text": "",
+              "level": 0,
+              "prefix": "8. ",
+              "is_bullet": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:33",
+    "source_file": "电子机电料3D建模流程.docx",
+    "file_size_bytes": 2860257,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 94,
+    "tables_found": 6,
+    "images_found": 6
+  },
+  "images": {
+    "img_e4ab764b": {
+      "type": "image",
+      "url": "images/img_e4ab764b.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 受限状态维护变更流... (运行 0)"
+    },
+    "img_35f677cc": {
+      "type": "image",
+      "url": "images/img_35f677cc.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: 研发数据发布流程 (PL... (运行 0)"
+    },
+    "img_e2e660f1": {
+      "type": "image",
+      "url": "images/img_e2e660f1.png",
+      "format": "png",
+      "width": 1444,
+      "height": 535,
+      "size": "22.29 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_1693884e": {
+      "type": "image",
+      "url": "images/img_1693884e.png",
+      "format": "png",
+      "width": 1297,
+      "height": 866,
+      "size": "59.32 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_97bfbc2a": {
+      "type": "image",
+      "url": "images/img_97bfbc2a.png",
+      "format": "png",
+      "width": 1284,
+      "height": 876,
+      "size": "66.88 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_e3e1924b": {
+      "type": "image",
+      "url": "images/img_e3e1924b.png",
+      "format": "png",
+      "width": 1277,
+      "height": 872,
+      "size": "62.01 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

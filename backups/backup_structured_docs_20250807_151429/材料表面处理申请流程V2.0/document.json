@@ -1,0 +1,1474 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/材料表面处理申请流程V2.0.docx",
+    "title": "",
+    "author": "吴义亮WB",
+    "created": "2021-11-15 08:00:00+00:00",
+    "modified": "2024-12-10 08:12:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "317.78 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "PLM业务-材料表面处理申请流程",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-08"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-08"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1.0"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "张小光"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "初稿"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2021-10"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2.0"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴义亮"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "-"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "梳理原Windchill逻辑后补充： 流程图（为方便在2.0平台工作流绘制，补充部分系统后台处理节点） 业务对象实体关系 流程节点详细逻辑补充"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板（Hikvision_Finish_WF） 3",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 3",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 创建申请单(FNH-010) 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 流程表达式- 设置参与者 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.3 流程表达式- 设置状态_正在审阅 4",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 审核需求（FNH-020） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.5 审核并登记（FNH-030） 5",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.6 流程表达式- 创建部件并关联 5",
+              "level": 2,
+              "content": [
+                {
+                  "type": "section",
+                  "title": "3.6.1 材料表面处理编码规则 5",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "3.6.2 材料表面处理生命周期状态 5",
+                  "level": 3,
+                  "content": []
+                },
+                {
+                  "type": "section",
+                  "title": "3.6.3 材料表面处理版本格式 6",
+                  "level": 3,
+                  "content": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "3.7 流程表达式- 设置对象状态_已认证 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.8 流程表达式- 启动成本要素流程 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.9 流程表达式- 设置状态_已发布 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.10 流程表达式- 集成SRM 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.11 流程表达式- 设置状态_重新工作 6",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.12 流程表达式- 设置状态 6",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "507.2pt",
+              "height": "257.35pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_b5da7940",
+              "size": "68.70 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_b5da7940.emf",
+              "file_path": "embedded_objects/embedded_obj_b5da7940.json"
+            },
+            {
+              "type": "paragraph",
+              "text": "补充对象关系：",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "486.8pt",
+              "height": "240.2pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_cfe96d09",
+              "size": "44.19 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_cfe96d09.emf",
+              "file_path": "embedded_objects/embedded_obj_cfe96d09.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板（Hikvision_Finish_WF）",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_f383783d.png",
+              "format": "png",
+              "width": 1339,
+              "height": 448,
+              "size": "20.42 KB",
+              "context": "段落 (运行 0)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "http://plmuat.hikvision.com/Windchill/ptc1/hermes?processType=FNH&pboid=ext.hikvision.plm.generic.order.GeneralOrder:2327305658&wfoid=wt.workflow.engine.WfProcess:2327305668",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "section",
+              "title": "创建申请单(FNH-010)",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_e6c1b27c.png",
+                  "format": "png",
+                  "width": 1269,
+                  "height": 552,
+                  "size": "49.27 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "字段逻辑",
+                  "level": 0,
+                  "prefix": "1. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "逻辑"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "表处基材"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填，枚举：表处基材"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "名称"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填，手动输入"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "表面处理编码"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "页面显示：系统自动生成"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "优选等级"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填，枚举：优选等级"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "定制颜色"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "(a) 选择【是】时，显示海康颜色号、海康颜色名 两个属性字段 (b) 此字段重新选择后，海康颜色号同步刷新"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "海康颜色号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型：选择搜索组件，显示格式：选项显示格式 编号+名称，e.g. RD10 XXXXXX) --输入编码，系统自动联想出 编码和名称"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "海康颜色名"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "由上述属性“海康颜色号”带出，不允许编辑"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "技术要求"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只允许添加（或新建添加）文档类型=表面技术要求文档 的文档。否则报错提示：请添加表面技术要求文档。 表格展示列：编码、名称、状态、版本、文档大类、文档小类、创建者、上次更新时间。 点击添加进入查询页面 查询条件：名称、编码、状态、创建时间、修改时间、创建者，组合搜索。 查询结果：不过滤状态，查询列同上描述 可添加多个文档 创建文档： 上传一个主要内容，可添加多个附件，其中填写属性：编码自动生成生成，“名称（中文）”必填。"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "其他"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交校验项",
+                  "level": 0,
+                  "prefix": "2. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前端校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "必填项校验"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "后台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.校验直接主管在plm系统中是否存在 2.表处基材不能为空"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置参与者",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置参与者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "“审核并登记”节点责任人取自“Utility Lib”上下文的 “结构管理工程师”角色 “审核需求”节点责任人取自流程创建者的直接主管 ext.hikvision.plm.workflow.finish.facade.FinishFacade.setParticipant(primaryBusinessObject,self);"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态_正在审阅",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置表单（PBO）状态-正在审阅",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "审核需求（FNH-020）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_44357974.png",
+                  "format": "png",
+                  "width": 1271,
+                  "height": 174,
+                  "size": "9.46 KB",
+                  "context": "段落 (运行 0)"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "审核并登记（FNH-030）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "image",
+                  "url": "images/img_e70ad3bc.png",
+                  "format": "png",
+                  "width": 1271,
+                  "height": 173,
+                  "size": "10.66 KB",
+                  "context": "段落 (运行 0)"
+                },
+                {
+                  "type": "list_item",
+                  "text": "字段逻辑",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 5,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "逻辑"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "编辑表单"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "勾选【是】，则表单处于可编辑状态 (a) 表处基材不可编辑，其他字段可编辑 (b) 字段填写规则，系统校验项 与创建提交节点一致"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": []
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": []
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 创建部件并关联",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 6,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "创建部件并关联"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "根据选择的表处基材生成表面处理物料 如果有技术要求文档，则和表面处理物料建立参考关系，WIP状态文档设置为已发布状态 表达式：ext.hikvision.plm.workflow.finish.facade.FinishFacade.createFinishPart(primaryBusinessObject, self); ext.hikvision.plm.workflow.finish.facade.FinishFacade.buildReferenceLink(primaryBusinessObject);"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "材料表面处理编码规则",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "NXXX ---- N：表处基材（材料的英文代号，e.g. 塑料为P，铝合金为P）；XXX：流水号",
+                      "bold": false,
+                      "italic": false
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "材料表面处理生命周期状态",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "初始状态：WIP；申请流程结束：已认证",
+                      "bold": false,
+                      "italic": false
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "材料表面处理版本格式",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "text": "A.1，A.2… B1，B2…",
+                      "bold": false,
+                      "italic": false
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置对象状态_已认证",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置表面处理物料状态：已认证",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ext.hikvision.plm.workflow.finish.facade.FinishFacade.setFinishPartState(primaryBusinessObject,ext.hikvision.plm.common.constants.LCConstant.AUTHENTICATED);",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 启动成本要素流程",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "启动成本要素流程ext.hikvision.plm.workflow.CostElementMaintain.util.CostElementMaintainUtil.getParamsToStartProcess(primaryBusinessObject,self,type)",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态_已发布",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置流程状态 已发布",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 集成SRM",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "发送表面处理信息到SRM",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ext.hikvision.plm.integration.srm.SRMQueue.sendFinishToSRM(primaryBusinessObject,\"N\");",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "推送属性内容：编号、表处基材、名称",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态_重新工作",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "“审核需求”或”审核并登记”选择“驳回”路由后 设置流程状态 重新工作",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "流程表达式- 设置状态",
+              "level": 2,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "设置流程状态 废弃",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "修改任务处 选择废弃后设置PBO状态 废弃",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "遗留问题：",
+                  "bold": true,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "重新提交任务 处可选择“取消”，流程单设置为 废弃状态，流程结束，但是未删除已经添加的文档（已发布）。",
+                  "bold": false,
+                  "italic": false
+                },
+                {
+                  "type": "paragraph",
+                  "text": "--与小娟确认，因无法判断文档是否被其他对象关联，业务侧确认文档不删除，保持与原逻辑相同。",
+                  "bold": false,
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:34",
+    "source_file": "材料表面处理申请流程V2.0.docx",
+    "file_size_bytes": 325406,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 96,
+    "tables_found": 7,
+    "images_found": 6
+  },
+  "images": {
+    "img_00baf482": {
+      "type": "image",
+      "url": "images/img_00baf482.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: PLM2.0 (T... (运行 0)"
+    },
+    "img_9c73326d": {
+      "type": "image",
+      "url": "images/img_9c73326d.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: PLM2.0 (T... (运行 0)"
+    },
+    "img_f383783d": {
+      "type": "image",
+      "url": "images/img_f383783d.png",
+      "format": "png",
+      "width": 1339,
+      "height": 448,
+      "size": "20.42 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_e6c1b27c": {
+      "type": "image",
+      "url": "images/img_e6c1b27c.png",
+      "format": "png",
+      "width": 1269,
+      "height": 552,
+      "size": "49.27 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_44357974": {
+      "type": "image",
+      "url": "images/img_44357974.png",
+      "format": "png",
+      "width": 1271,
+      "height": 174,
+      "size": "9.46 KB",
+      "context": "段落 (运行 0)"
+    },
+    "img_e70ad3bc": {
+      "type": "image",
+      "url": "images/img_e70ad3bc.png",
+      "format": "png",
+      "width": 1271,
+      "height": 173,
+      "size": "10.66 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}

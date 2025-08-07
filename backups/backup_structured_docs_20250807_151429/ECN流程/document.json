@@ -1,0 +1,3102 @@
+{
+  "metadata": {
+    "source_path": "Files/PLM2.0/ECN流程.docx",
+    "title": "",
+    "author": "wuxiaojuan6@hikvision.com",
+    "created": "2019-09-04 01:23:00+00:00",
+    "modified": "2024-03-04 10:13:00+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "695.77 KB"
+  },
+  "sections": [
+    {
+      "type": "section",
+      "title": "根节点",
+      "level": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "PLM 2.0 –ECN流程",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 0,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件标识："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": []
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "当前版本："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "V 1.0"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "作 者："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟6"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "文件状态： [√] 草稿 [ ] 正式发布 [ ] 正在修改"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "完成日期："
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 3,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022-6"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "版 本 历 史",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "type": "table",
+          "index": 1,
+          "rows": [
+            [
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "序号"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更时间"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "版本"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 4,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "审批人"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 0,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "变更说明"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 1,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2022-06"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 2,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1.0"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 3,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "吴小娟"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 1,
+                "col": 5,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "PLM2.0 流程迁移，红色字体表示与1.0有较大改动的地方"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 0,
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2"
+                  }
+                ]
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 1,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 2,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 3,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 4,
+                "content": []
+              },
+              {
+                "type": "table_cell",
+                "row": 2,
+                "col": 5,
+                "content": []
+              }
+            ]
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1 流程示意图 2",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "2 流程模板 3",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "3 流程节点功能描述 3",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "3.1 流程节点类型及描述 3",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.2 创建ECN/ECA（ECN-010） 6",
+              "level": 2,
+              "content": [
+                {
+                  "type": "section",
+                  "title": "3.2.1 关联单类型 7",
+                  "level": 3,
+                  "content": []
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "3.3 提交ECN 8",
+              "level": 2,
+              "content": []
+            },
+            {
+              "type": "section",
+              "title": "3.4 主管审核 9",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "4 其他 9",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "5 接口清单（To开发：请补充接口） 10",
+          "level": 1,
+          "content": []
+        },
+        {
+          "type": "section",
+          "title": "流程示意图",
+          "level": 1,
+          "content": [
+            {
+              "type": "embedded_object",
+              "object_type": "visio_diagram",
+              "description": "Visio绘图/流程图",
+              "prog_id": "Visio.Drawing.15",
+              "ole_type": "Embed",
+              "width": "527.25pt",
+              "height": "672pt",
+              "context": "段落 (运行 0)",
+              "id": "embedded_obj_55682d53",
+              "size": "133.38 KB",
+              "content_type": "application/vnd.ms-visio.drawing",
+              "preview_image": "images/embedded_preview_embedded_obj_55682d53.emf",
+              "file_path": "embedded_objects/embedded_obj_55682d53.json"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程模板",
+          "level": 1,
+          "content": [
+            {
+              "type": "image",
+              "url": "images/img_4485360e.png",
+              "format": "png",
+              "width": 1792,
+              "height": 764,
+              "size": "51.72 KB",
+              "context": "段落 (运行 0)"
+            },
+            {
+              "type": "paragraph",
+              "text": "原流程中取消EC这条线路有问题（ECN000021177），在2.0里需修改：",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "list_item",
+              "text": "设置改后数据状态-WIP节点只改了物料状态，而其他对象状态未改",
+              "level": 0,
+              "prefix": "1. ",
+              "is_bullet": false
+            },
+            {
+              "type": "list_item",
+              "text": "状态改好后直接结束即可，而不需要后续的外发SRM，OA配置表更新等等那一系列表达式",
+              "level": 0,
+              "prefix": "2. ",
+              "is_bullet": false
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "流程节点功能描述",
+          "level": 1,
+          "content": [
+            {
+              "type": "section",
+              "title": "流程节点类型及描述",
+              "level": 2,
+              "content": [
+                {
+                  "type": "table",
+                  "index": 2,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "节点名称"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能描述"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-是否是手动提交"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "手动提交，流程到“同步”机，否则到“提交ECN”节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交ECN"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "详见《提交ECN》章节"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "人工执行节点"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "同步"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "判断ECN关联的ECA是否都已完成，如果未完成则等待"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-ECA是否解决"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "如果ECA存在一个已解决则代表解决；如果不存在则代表ECA取消，流程回到“提交ECN”节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置参与者"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置参与者，产品经理取自页面审核人（先获取项目经理，如果获取不到就取部门主管，都不存在，校验ECN是不是快速变更，不是快速变更异常提示，提示信息：请指定项目或部门！存在则设置用户到ImmediateSupervisor、产品经理(PRODUCT MANAGER)角色中） 邮件通知抄送人（发送抄送邮件，邮件标题和内容在codebase/ext/hikvision/conf/workflowMail.xlsx中的“ECN”页签中，邮件收件人是用户在创建ECN时指定的抄送人）。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程授权"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "对ECN和ECA中的图纸赋予审核人读取和下载权限（把流程中“PRODUCT MANAGER”（产品经理）角色下的参与者加入到受影响对象和产生对象中的图纸对象的团队的“OA Reviewer”（OA 审阅者）角色下）。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "差异报表"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "生成差异报表。ECN的差异报表是各个已解决状态的ECA的差异报表的合并版本。共有4份差异报表： HIKVISION_FILE HIKVISION_FILE_EN HIKVISION_COMPONENT_FILE HIKVISION_COMPONENT_FILE_EN 分别对应ECN属性页面的“查看差异报表”（中英文报表各1份）、“查看差异至组件”（中英文报表各1份）。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-是否是临时变更"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "如果是临时变更，处理到“主管审核”节点"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "移除"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-是否手工设置ECN生效时间"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程中使用此表达式判断走自动设置还是手工设置路由。 由于SAP限制，“SAP分类特征”同一天内不允许变更两次及以上。因此需要查询产生对象是否今天有其他ECN设置过“SAP分类特征”（在ecnchangerecord表中查）。 如果今天没有其他ECN设置过产生对象的“SAP分类特征”，则走自动设置路由，设置ECN的生效日期为当前日期。 如果今天有其他ECN设置过产生对象的“SAP分类特征”，则走手工设置路由。目前手工设置路由已删除了“确认生效时间”节点，自动执行如下2个操作： 1.给ECN创建者发邮件，邮件标题： 因SAP机制限制'分类特征'同一天不允许变更两次及以上，{ECN编码}将在{明天，格式yyyy-MM-dd}生效，生效之后再执行其他更改 邮件内容： 物料编码{部件编码1}已由{某历史ECN编码}更改SAP分类特征 物料编码{部件编码2}已由{某历史ECN编码}更改SAP分类特征 2.本次ECN的生效日期设置为明天。流程进入等待，每2小时检查一次，到了明天流程再继续。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置下一次生效时间"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "这是手工设置路由的节点，设置下一次生效时间：第二天"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-是否到生效时间"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "这是手工设置路由的节点，2小时判断一次，是否到生效时间，如果到生效时间则设置ECN生效时间"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "主管审核"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "详见《主管审核》章节"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "人工执行节点"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式-是否是快速更改"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "如果是标准更改，流程到“主管审核”节点，如果是“快速更改”则到“设置产品版本”。如果ECA流程中某位主管已经完成过“直接主管审核”任务并且他也是ECN流程“主管审核”节点的参与人，则也略过“主管审核”节点到“设置产品版本”。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 13,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置产品版本"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.发布升级变更（此类型已在系统中删除）、临时变更不发ERP，不用设置产品版本。 2.其他类型的ECN，如果有关联单编号，则根据关联单编号查询IPD产品型号（需要调用IPD系统的服务接口）。如果查询到的产品型号中产品版本不为空，则按返回的物料编码检出ECN变更后对象中对应的物料，把IBA属性“com.hikvision.plm.ProductVersion”设置为前面查询到的产品版本，然后检入。备注信息为“ECN产品版本更新”"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 14,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "sendERP"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "发送ERP。 1.发布升级变更（此类型已在系统中删除）、临时变更不发ERP。 2.hikconfig.properties中有个开关batchIntegrationSAP，值为“new”时，使用新的代码逻辑发ERP。 3.新的代码逻辑：如果ECN关联的产生对象中的物料是“Design”视图，则发EBOM。否则发MBOM。 4.发送ECN信息到ERP，调用ERP系统提供的接口在ERP中创建ECN。 5.发送ERP的物料中，物料使用分类为“C16”、“C17”、“L03”的物料及其符合条件的子件、替代件需要扩展工厂。 6.批量发送物料到ERP（对于发送MBOM，需要区分备用BOM和异号BOM）。 7.发送文档信息、文档与物料关联关系到ERP。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 15,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "检查错误信息"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "详见《检查错误信息》章节。 如果发放ERP出现错误，会启动此任务节点。完成任务后，会重新启动ERP发放。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 16,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "人工执行节点"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "setChangeResultState"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新制造商物料如果不是需认证物料，则设置制造商物料为认证通过 新制造商物料若是需认证物料，则设置制造商物料为未认证通过。 对于结构三大件的新建MPN,如模具号属性为DEV开头，自动触发结构件制造商部件认证流程。详细触发条件为： 结构三大件1901、1902、1903物料大类和1921物料大类 新建的MPN 模具号为DEV211008之后的值（参考料号申请流程校验结构件必须有MPN的逻辑） 其他需认证的MPN，则触发制造商部件认证流程 如果物料的稳定版本是D1，关联的制造商物料状态是认证通过或条件通过，则物料设置到D2，否则仍设置为D1 非E1物料并且不是配置物料（配置物料指的是“是否客户专用”的属性值是“配置”）（即：“是否客户专用”的属性值不是“配置”并且状态不是E1的物料）,子件状态为非稳定状态，则获取稳定状态版本并设置状态: 子件是WIP状态、提交审阅、重新工作将不设置状态,子件是“正在审阅”状态时父件和子件不在同一个ECN也不设置 子件是结构组件或E4状态或稳定状态大于目标状态，不设置状态 子件物料设置状态后，插入随迁记录（hik_preferredreleasedrecord表），更改物料ERP状态和受限状态（调用SAP接口把子件的状态和受限状态发送到SAP），随签物料所有视图更改并发SAP （子件状态）D2/D1随签至S1/M1的物料记录到物料优选等级,需满足如下条件： 物料的大类必须是物料优选等级管控的大类 物料的优选等级为C1C，同时系统中没有走过优选等级维护流程（不在表hik_cfg_preferredlevel_record中）的优选管控物料 在表hik_cfg_preferredlevel_record中,没有维护的物料 如果物料子件的视图在发MPM的视图中并且variation2（备用编号）为空，则调用MPM接口更新MPN系统中的物料状态。 文档设置为受影响对象中该文档稳定版本的状态。如果受影响对象中不存在该文档，则设置为发布状态。 图纸对象如果是数字版本则修订至字母版本或与关联的部件同一版本。图纸设置为受影响对象中该图纸稳定版本的状态。如果受影响对象中不存在该图纸，则设置为发布状态。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 17,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RCMS20211022_001 ECA自动触发MPN认证流程逻辑优化 （红字部分未找到相关资料，需确认） RMS20211112_019 结构MPN认证流程优化"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "createBaseline_TrialProduce"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "创建试制基线： 获取ECN下已解决状态的ECA的产生对象中的部件，为每个部件创建一个基线： 1.基线的主要对象是ECN对象。 2.基线的相关对象是此部件及其所有层级的子项，都是稳定状态的版本。 3.如果部件前一个大版本的状态是D1、D2，则基线类型是“试制基线”。如果部件前一个大版本的状态是S1、M1、E1，则基线类型是“量产基线”。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 18,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "STP发布可视化"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "结构件物料的图纸stp发布可视化 ECA流程执行后，对于产生对象中的结构件物料，匹配是否进行STP发布的物料组配置（同SRM图纸下载接口发布STP物料配置规则），调用SRM图纸下载发布STP接口，对物料对应的EPM进行发布。 根据ECN对象查询ECA产生对象物料信息， a.收集物料满足是结构件，且关联EPM对象是.PRT、.ASM结尾的EPM b.物料组需满足在结构物料组信息配置符合STP外发物料组里面， 且满足a条件 c.在队列生成可视化发布 HIK_CFG_STMATERIAL_GROUP 表中STPAUDIT = 0的物料组是需要进行STP发布的物料组。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 19,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RCMS20201211_001 PLM供SRM下载图纸接口，数据推送逻辑优化"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动OA系统流程"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "页面勾选“启动OA采购信息流程”则调用OA系统接口启动OA PurchaseInfo流程（如果产生对像里的物料全是标签（编码以“L”开头）则不启动）。 启动OA供应链信息变更。hikMbomConfig.properties中配置了需要走供应链ECN集成接口的视图。如果被发送的数据中工厂在这些视图中，则走新接口，把要发送的信息以json格式文件上传到大附件系统中，然后调用 OAEcn（供应链ECN集成接口）把ECN编码、文件路径等信息发送过去。否则走老接口，调用OA系统的WebService接口发送数据。 同步物料描述，修改PBI结构，把物料IBA属性“com.hikvision.plm.classification.Model”的值同步到父件的名称中。（与业务确认是否有此逻辑）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 20,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "条件表达式- 是否走样机BOM更新"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "标准ECN（临时变更和发布升级变更（此类型已在系统中删除）之外的ECN）且关联ECA中勾选了更新样机BOM（在“提交ECA”任务节点）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 21,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "创建样机基线"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "创建样机基线。 获取需要样机BOM更新的物料，为每个物料创建一个基线： 1.基线的主要对象是ECN对象。 2.基线的相关对象是此物料及其所有层级的子项，都是稳定状态的版本。 3.基线类型是“样机基线”。 4.基线IBA属性“com.hikvision.plm.softWare”记录原有的样机基线中的软件物料编码。 5.原有的样机基线状态更改为已过时。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 22,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "发送SAP"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ECN关联ECA中D2且ESP的物料，如果是绝对范围外，则把样机BOM发送SAP a.获取ECN 中 ECA 产生对象要样机BOM 更新的物料，满足部件是收集部件或者绝对范围外，根据该物料信息查询样机软件 b.批量检查范围外物料bom是否存在ERP，不存在抛出异常，否则 ECN关联ECA产生对象物料满足状态=D2且受限状态=样机可销售(ESP)的物料 发送 ERP"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 23,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Start CIS Maintenance Process"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1. ECN关联的已解决的ECA，如果ECA勾选了“启动CIS维护流程”，符合“需要启动CIS维护流程的物料组”的配置（在 hik_cfg_materialtypedata 表中），则启动CIS维护流程。 2. ECN关联的已解决的ECA，如果ECA勾选了“设置更新3D模型”，符合“需要启动3D建模流程的物料组”的配置（在 hik_cfg_materialtypedata 表中），如果也要启动CIS维护流程，则在CIS维护流程完成之后启动3D建模流程。如果不启动CIS维护流程，则在此时直接启动3D建模流程。（在PLM2.0中确认是否分成2个节点）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 24,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动物料参考替代关系流程"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ECN关联的已解决的ECA，如果ECA流程的“规范性审查”节点勾选了“启动物料参考替代关系流程”，则对原材料和虚拟件物料启动物料参考替代关系流程 获取产生对象的物料类型是原材料的物料，启动时带出原有的参考替代关系,该流程创建者为规范性审核人,主题：ECA0000123456触发物料参考替代关系维护"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 25,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20200720_038PLM上搭建物料参考替代关系"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "MCN流程启动"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "启动MCN流程。 1.自动为产生对象的各个工厂视图版本创建MCN、MCT，分别继承ECN、ECA的属性设置。但是如果IBA属性“Mpart停用状态”的值为“停用”则会略过。如果IBA属性“是否传播EBom”的值为“否”，则该编码为手动处理；如果值为“是”或者不存在此属性，则该编码为自动处理。如果所有的物料都是自动处理，则MCN、MCT的名称中有“_Auto”后缀。 2.MCT的转产类型有MBOM、备用BOM、异号BOM，后面2种类型分别对应产生对象的工厂视图版本有备用编号和有异号记录（在 hik_difnum_link 表中）的情况。 3.MCN、MCT分别启动各自的MCN流程、MCT流程。 （子件的状态随签、子件下游视图的状态随签，MCT受影响对象的承接、关联ECA的受影响对象有很多逻辑，需要补充）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 26,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "维护合规版本"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "器件工程师在ECA流程的“规范性审查”节点对本次变更是否对产品安规关键零部件的产品认证有影响进行判断。ECN获取关联的ECA中的产品认证的影响判断列表数据，维护合规版本，保存在 hik_part_compliance_version 表中。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 27,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "同步KBE"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "原材料或特征零件同步KBE（图纸以及分类属性）。把产生对象中的结构件（物料组以“19”开头）、需要同步的特殊的非结构件、特征零件的通用数据同步到KBE，包括图纸以及分类属性。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 28,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "同步成品电池信息到SAP"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "计算成品物料、半成品物料、虚拟件物料的电池属性（展开BOM计算电池属性），比较变更前后电池属性的差异，记录到 hik_part_battery_change_record 表中。 计算变更产生对象中成品物料已完成认证大类，用于计算可销售国家和地区，最终结果记录到 hik_part_catalog_result 表中。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 29,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "消防管控"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "消防管控物料处理，如果是消防管控物料（IBA属性“com.hikvision.plm.VehicleSpecificMaterial”（管控类型）的值以“FC-LV”开头），则子件全部设置为消防管控物料并发送sap。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 30,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置解决日期"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置ECN的解决日期为当前时间点。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 31,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "check srm datas"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "如果存在需要外发的内容，校验图纸的表示法是否存在，如果不存在2分钟执行一次，超过5次后“send check email”"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 32,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "send check email"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "邮件通知IT运维组，ECN外发到SRM预检查异常"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 33,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "外发SRM"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ECN外发内容到SRM：在“SRM_ECN_Queue”专用队列中执行操作，不影响主流程运行。获取需要外发的内容列表，下载图纸，打包成zip文件，上传到FTP服务器的PLM/{ECN编码}/{部件编码}/目录下。调用SRM接口，创建SRM ECN。 注意：SRM创建ECN成功后，除了返回标识成功，增加一个返回参数传递SRM创建的ECN单号（重要）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 34,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "外发SRM"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "图纸打包外发时，不收集“相关性类型”为“隐含的成员”的图纸对象"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 35,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ITRMS20190629_011_下载图纸时隐含件的对应图纸不收集"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "外发SRM"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "ECA流程外发文件时，对于结构件物料，如物料组符合外发stp文件的规则，则外发文件应包含该物料对应三维模型的stp文件。（可参考068000943图纸下载接口的下载规则，同时如需外发3D模型生成的表示法无stp文件，则需触发生成表示法，待完成STP表示法再生成图纸压缩包）（有定时机制，等待生成压缩包。有队列处理。）"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 36,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "（3）RMS20220517_026 结构件变更外发STP文件"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "OA加密配置表更新"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "推送成品系统信息型号至OA加密信息配置表 发送所有成品最新稳定版本的“物料编码，名称，系统信息型号，ECN申请人，ECN单号”给OA加密配置表。匹配关系如下： PLM物料描述 ->OA物料描述 PLM系统信息型号 -> OA自定义型号 通过队列发送数据，不影响整个流程进度。若更新失败，则给PLM IT运维组发送邮件。 接口信息： OA提供字段更新接口：物料描述；自定义型号，ECN申请人，ECN单号 OA返回信息：1 更新成功 2 无此物料代码 0更新失败。1，2视为成功；0视为失败，PLM重发"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 37,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20200907_050 - OA加密配置表物料描述和自定义型号自动更新"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程权限回收"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "回收赋予审核人对ECN和ECA中的图纸读取和下载权限（清空受影响对象和产生对象中的图纸对象的团队的“OA Reviewer”（OA 审阅者）角色下的参与者）。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 38,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "变更结束邮件通知"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "邮件通知ECN流程创建者流程结束（发送流程结束邮件，邮件标题和内容在codebase/ext/hikvision/conf/workflowMail.xlsx中的“ECN”页签中，邮件收件人是ECN创建者以及关联的ECR的创建者）。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 39,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态-重新工作"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程驳回后设置ECN状态-重新工作"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 40,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 41,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态-正在审阅"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 41,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程提交后设置ECN状态-正在审阅"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 41,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 42,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态-已取消"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 42,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程取消后设置ECN状态-已取消"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 42,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 43,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置状态-已解决"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 43,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "流程结束后设置ECN状态-已解决"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 43,
+                        "col": 2,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 44,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置改后数据状态-WIP"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 44,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "设置ECN关联物料和文档的状态到WIP"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 44,
+                        "col": 2,
+                        "content": []
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "创建ECN/ECA（ECN-010）",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "前端页面：参考MOCKPLUS",
+                  "level": 0,
+                  "prefix": "3. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "list_item",
+                  "text": "属性字段定义",
+                  "level": 0,
+                  "prefix": "4. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 3,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性字段"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字段类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "若基于ECR创建ECN，则匹配以下字段--- 【属性】：上下文，ECN主题=ECR编号_ECR主题，变更原因类别(可多选)->变更原因(可多选)，变更原因->问题描述，提议的解决方案->变更方案，备注；项目编号->关联单编号，项目名称->关联名称，责任部门 【物料处理意见】"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*上下文"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "选项里只显示申请人有权限的上下文 过滤掉含%CBB%的上下文 邵东升增加：在系统中没有这2个逻辑。PLM2.0中加上上面的2个逻辑。上下文中显示除“PBI”外的产品库和所有的存储库。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 2,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*更改类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=标准变更"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 3,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*关联单类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=项目； 若更改类型=标准变更，选项=项目|定制|配置|发布单|基线发布单|其他 若更改类型=快速变更，选项=定制|配置|发布单"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 4,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "详见《关联单类型》章节补充说明"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*关联单类型"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "定制/配置(更新)单号点击搜索时当原先接口搜索不出数据时再接着搜索另外一个接口。 接口，原先是通过接口从Irdms 获取 接口方法名 getSearchInfo，传参OA_PZ,现在新增一个 传参OA_WFFNM。参照以往的OA_STOR。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 5,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20220209_028前端中性型号配单申请流程对接PLM系统"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "关联单编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "通过接口，从OA/IRDMS获取"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 6,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "关联单编号"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "定制/配置(更新)单号点击搜索时当原先接口搜索不出数据时再接着搜索另外一个接口。 接口：原先是通过接口从Irdms 获取 接口方法名 getSearchInfo，传参OA_PZ,现在新增一个 传参OA_STOR 项目|定制|配置|基线发布单：调用iRDMS的getSearchInfo接口（根据类型和单号查询OA和IPD流程单信息）。 发布单：调用getPublishMainInfo接口（根据定制发布单号或主题获取信息）。 其他：关联单编号后面的搜索按钮禁用，只允许用户手工填入关联单名称。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 7,
+                        "col": 4,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "RMS20200716_043存储配置单无法与PLM关联问题修复"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*所属部门"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "自动获取申请人的部门"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 8,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "审核角色"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "默认值=直接主管"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 9,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "审核人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "自动获取申请人的直接主管"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 10,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "*直接主管"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "自动获取申请人的直接主管"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 11,
+                        "col": 4,
+                        "content": []
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "属性"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "抄送人"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "字符串"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "点击“获取ECR会签人员”，则从关联ECR获取全部会签人员(包括物料计划员，合规接口人等)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 12,
+                        "col": 4,
+                        "content": []
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "section",
+                  "title": "关联单类型",
+                  "level": 3,
+                  "content": [
+                    {
+                      "type": "list_item",
+                      "text": "关联单类型=基线发布单，对应OA/IRDMS的产品发布单/研发发布单。填入关联单号后，系统自动从OA/IRDMS读取物料处理意见和责任部门 （接口cloudAPI：149006389，向PLM提供iRDMS的物料处理意见和责任部门）----流程单号：RMS20201223_020 / RMS20210521_014",
+                      "level": 0,
+                      "prefix": "5. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "关联单类型=发布单时，----流程单号：ITRMS20190124_034 / RMS20200611_012",
+                      "level": 0,
+                      "prefix": "6. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "输入关联单编号后（e.g. DZPUB20190319046），系统自动从IRDMS读取发布单的物料处理意见",
+                      "level": 0,
+                      "prefix": "7. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "在创建ECA的页面",
+                      "level": 0,
+                      "prefix": "8. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "《受影响对象》- 工具栏添加一个功能按钮：导入发布清单。点此按钮后，系统根据关联单编号，读取发布清单里的物料代码，填入ECA受影响对象",
+                      "level": 1,
+                      "prefix": "    8.1. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "list_item",
+                      "text": "《产生对象》- 工具栏添加一个功能按钮：更改软件光盘。点此按钮后，系统根据关联单编号，按以下规则读取发布清单内容，并更新产生对象BOM里的软件或光盘",
+                      "level": 1,
+                      "prefix": "    8.2. ",
+                      "is_bullet": false
+                    },
+                    {
+                      "type": "embedded_object",
+                      "object_type": "visio_diagram",
+                      "description": "Visio绘图/流程图",
+                      "prog_id": "Visio.Drawing.15",
+                      "ole_type": "Embed",
+                      "width": "417.75pt",
+                      "height": "261pt",
+                      "context": "段落 (运行 0)",
+                      "id": "embedded_obj_0e2429d4",
+                      "size": "39.56 KB",
+                      "content_type": "application/vnd.ms-visio.drawing",
+                      "preview_image": "images/embedded_preview_embedded_obj_0e2429d4.emf",
+                      "file_path": "embedded_objects/embedded_obj_0e2429d4.json"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "提交ECN",
+              "level": 2,
+              "content": [
+                {
+                  "type": "list_item",
+                  "text": "功能按钮",
+                  "level": 0,
+                  "prefix": "9. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 4,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "布局"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "功能按钮"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "逻辑"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "备注"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "实施"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "删除ECA"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "只允许删除状态=开启的ECA。 否则，报错提示：ECA处于非开启状态，不允许删除。"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 3,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "新增逻辑"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "text": "提交校验项",
+                  "level": 0,
+                  "prefix": "10. ",
+                  "is_bullet": false
+                },
+                {
+                  "type": "table",
+                  "index": 5,
+                  "rows": [
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "前台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 0,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.必填项必填 2.处理意见中含有返工或报废时，责任部门为必填项 3.实施计划不能为空"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 0,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 1,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "提交后台校验"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "table_cell",
+                        "row": 1,
+                        "col": 2,
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "1.校验ECA中受影响对象与产生对象是否存在 2.非快速变更时需要指定审核人，否则报错不能提交 3.快速更改关联单号不能为空 4.消防产品ECN中必填ECR单号（消防产品指的是IBA属性“com.hikvision.plm.VehicleSpecificMaterial”（管控类型）的值为“FC-LV1”、“FC-LV2”、“FC-LV3”、“FC-LV4”、“FC-LV5”的物料） 5.关联单类型为“项目”时，如果受影响对象中包含防爆类型物料或者IBA属性“com.hikvision.plm.complianceControl”（合规标识）为“产品防爆关键零部件”（“03”）的原材料，则需要先关联ECR。（RMS20220110_053 平台优化：产品合规-防爆 - EC） 防爆类型物料指的是： a)类型为“成品”。 b) IBA属性“com.hikvision.plm.classification.WhethertheCustomerSpecific”（是否客户专用）的值为“基线”。 c)IBA属性“com.hikvision.plm.classification.ExplosionProofType”（防爆类型）为“厂用本安 FIS”、“矿用本安 MIS”、“厂用隔爆 FE”、“矿用隔爆 ME”、“厂用隔爆兼本安 FEIS”、“矿用隔爆兼本安 MEIS”之一。 6.ECN、ECA提交时审核人没有PLM账号没有报错 7.销售地区：海外或全球，外购成品且物料的环保类型属性不为“E”，必须同时满足①环保属性=RoHS2.0(十项)，②certification页面必须要有认证类型为RoHS2.0(十项)的证明文件。 ECN产生对象中的部件，同时满足下面的条件时，进行此条校验： a）IBA属性“com.hikvision.plm.classification.SalesRegion”（销售范围）的值是“海外”或者“全球”。 b) IBA属性“com.hikvision.plm.InitialMaterialSource”（采购类型(设计)）的值是“F采购”。 c)部件的类型是“成品”。 d) IBA属性“com.hikvision.plm.InitialSpecialSourcing”（特殊采购(设计)）的值为空。 e) 部件的物料组不在不检查的物料分类中（在 hik_cfg_materialtypedata 表的 typeidenty 值为“Not_Check_Outsourcing_FPRohs”的记录中）。 f) IBA属性“com.hikvision.plm.EnvironmentalComplianceType”（环保类型）的值不是“E”。 校验逻辑： 取部件关联的MPN，只要有任何一个MPN有关联的“RoHS2.0(十项)”文档即可，或者部件本身有关联的“RoHS2.0(十项)”文档也可以。 注：“RoHS2.0(十项)”文档指的是文档的IBA属性“com.hikvision.plm.CertifiType”（认证类型）的值为“RoHS2.0(十项)”的文档。 8.变更类型为标准变更并且是受限状态维护时，物料类型为成品时请指定项目经理、项目总监！ 9.变更类型为标准变更并且是受限状态维护时，物料类型为非成品时请指定部门主管、上级主管！ 10.参与审核角色的用户是不是库团队成员"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "主管审核",
+              "level": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "其他",
+          "level": 1,
+          "content": [
+            {
+              "type": "list_item",
+              "text": "触发物料优选等级维护流程",
+              "level": 0,
+              "prefix": "11. ",
+              "is_bullet": false
+            },
+            {
+              "type": "paragraph",
+              "text": "ITRMS20191024_007_优选管理-A系物料的物料管理",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "type": "list_item",
+              "text": "队列",
+              "level": 1,
+              "prefix": "    11.1. ",
+              "is_bullet": false
+            },
+            {
+              "type": "table",
+              "index": 6,
+              "rows": [
+                [
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 0,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "ECN/MCN （队列触发MPL）"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "table_cell",
+                    "row": 0,
+                    "col": 1,
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "IPN随签到S1后自动启动优选等级维护申请,对于A类别物料：关联有MPN且所有的MPN都为美系物料，不启动，优选等级维护申请（用户手动启动的流程不用管）；其他情况（有MPN但非全美系物料、无MPN），逻辑保持不变，启动/提交优选等级维护申请。"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "list_item",
+              "text": "配置表",
+              "level": 1,
+              "prefix": "    11.2. ",
+              "is_bullet": false
+            },
+            {
+              "type": "paragraph",
+              "text": "系统配置→优选管控物料：配置的物料大类或物料组，走研发数据发布或ECN/MCN随签到S1，原材料低于父项，比如D2，主签审对象状态到S1后自动触发优选等级维护流程。",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "系统配置→物料组角色配置：有维护【物料优选等级维护】的相关流程配置优先人员取值， 若没有配置则取通用null或空的。",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "type": "list_item",
+              "text": "设置产品版本",
+              "level": 0,
+              "prefix": "12. ",
+              "is_bullet": false
+            },
+            {
+              "type": "paragraph",
+              "text": "设置表单主签审对象的产品版本属性",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "PLM20180705_01_产品版本财务归集方案优化",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "type": "paragraph",
+              "text": "根据页面项目编号调动irdms接口获取产品版本，升级物料小版本，将产品版本设置到物料的com.hikvision.plm.ProductVersion属性中",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "list_item",
+              "text": "产生对象子件状态随签及子件下游部件状态随签和发送",
+              "level": 0,
+              "prefix": "13. ",
+              "is_bullet": false
+            },
+            {
+              "type": "paragraph",
+              "text": "RCMS20210709_042- PLM和SAP状态不一致优化",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "type": "paragraph",
+              "text": "ECN/ECA子件状态随签后，把随签子件所有下游对等视图的MPART状态都同步更新并发送到对接系统。MCN/MCT里取消子件状态随签",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "list_item",
+              "text": "ECN触发制造商部件认证流程",
+              "level": 0,
+              "prefix": "14. ",
+              "is_bullet": false
+            },
+            {
+              "type": "paragraph",
+              "text": "RCMS20211022_001 ECA自动触发MPN认证流程逻辑优化",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "type": "paragraph",
+              "text": "ECA流程中，对于新建的MPN，原自动触发制造商部件认证流程应排除结构件三大件的MPN；对于结构三大件的新建MPN,如模具号属性为DEV开头，自动触发结构件制造商部件认证流程。（参考料号申请流程的逻辑）",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "paragraph",
+              "text": "详细触发条件为：",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "list_item",
+              "text": "结构三大件1901、1902、1903物料大类",
+              "level": 0,
+              "prefix": "15. ",
+              "is_bullet": false
+            },
+            {
+              "type": "list_item",
+              "text": "新建的MPN",
+              "level": 0,
+              "prefix": "16. ",
+              "is_bullet": false
+            },
+            {
+              "type": "list_item",
+              "text": "模具号为DEV211008之后的值（参考料号申请流程校验结构件必须有MPN的逻辑）",
+              "level": 0,
+              "prefix": "17. ",
+              "is_bullet": false
+            },
+            {
+              "type": "list_item",
+              "text": "提供ECN变更页面地址，供iRDMS产品信息报备时跳转",
+              "level": 0,
+              "prefix": "18. ",
+              "is_bullet": false
+            },
+            {
+              "type": "paragraph",
+              "text": "ITRMS20190513_055转产品信息报备入口整合",
+              "bold": false,
+              "italic": true
+            },
+            {
+              "type": "list_item",
+              "text": "市场发布属性的维护和发送",
+              "level": 0,
+              "prefix": "19. ",
+              "is_bullet": false
+            },
+            {
+              "type": "paragraph",
+              "text": "RMS20210618_010缺陷修复：ECN变更不需要修改市场发布状态的值",
+              "bold": false,
+              "italic": false
+            },
+            {
+              "type": "list_item",
+              "text": "ITRMS20190308_021PIS与PDM集成",
+              "level": 0,
+              "prefix": "20. ",
+              "is_bullet": false
+            },
+            {
+              "type": "list_item",
+              "text": "ITRMS20190509_036_特殊产品&物料含危险品（电池）识别",
+              "level": 0,
+              "prefix": "21. ",
+              "is_bullet": false
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "接口清单（To开发：请补充接口）",
+          "level": 1,
+          "content": []
+        }
+      ]
+    }
+  ],
+  "processing_info": {
+    "timestamp": "2025-08-07 15:09:35",
+    "source_file": "ECN流程.docx",
+    "file_size_bytes": 712472,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 105,
+    "tables_found": 7,
+    "images_found": 3
+  },
+  "images": {
+    "img_0a5f58bc": {
+      "type": "image",
+      "url": "images/img_0a5f58bc.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: ECN流程... (运行 0)"
+    },
+    "img_ae9aac9b": {
+      "type": "image",
+      "url": "images/img_ae9aac9b.jpg",
+      "format": "jpg",
+      "width": 1724,
+      "height": 224,
+      "size": "47.39 KB",
+      "context": "段落: ECN流程 (PLM 2... (运行 0)"
+    },
+    "img_4485360e": {
+      "type": "image",
+      "url": "images/img_4485360e.png",
+      "format": "png",
+      "width": 1792,
+      "height": 764,
+      "size": "51.72 KB",
+      "context": "段落 (运行 0)"
+    }
+  }
+}
