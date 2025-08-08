@@ -1,0 +1,32 @@
+{
+  "文档信息": {
+    "source_path": "Files/examples/demo.docx",
+    "title": "Word Document",
+    "author": "",
+    "created": "None",
+    "modified": "2025-08-08 03:43:04+00:00",
+    "subject": "",
+    "keywords": "",
+    "category": "",
+    "comments": "",
+    "company": "N/A",
+    "file_size": "6078.01 KB"
+  },
+  "内容统计": {
+    "段落数": 0,
+    "表格数": 0,
+    "图片数": 0,
+    "SmartArt数": 0
+  },
+  "处理信息": {
+    "timestamp": "2025-08-08 11:43:04",
+    "source_file": "demo.docx",
+    "file_size_bytes": 6223885,
+    "errors": [],
+    "warnings": [],
+    "blocks_processed": 94,
+    "tables_found": 3,
+    "images_found": 0
+  },
+  "注意": "这是演示程序生成的结果预览，完整结果请查看详细的JSON文件"
+}

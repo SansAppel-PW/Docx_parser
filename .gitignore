@@ -1,4 +1,10 @@
-# Python
+# ==============================================================================
+# DOCX 解析器项目 - .gitignore 配置文件
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Python 相关
+# ------------------------------------------------------------------------------
 __pycache__/
 *.py[cod]
 *$py.class
@@ -16,35 +22,159 @@ parts/
 sdist/
 var/
 wheels/
+pip-wheel-metadata/
+share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------------------------------------------------------------
+# 项目特定文件
+# ------------------------------------------------------------------------------
 
 # 日志文件
 *.log
+logs/
+log/
 
-# 临时文件
+# 临时文件和目录
 temp*/
+tmp*/
 test_*_output/
 quick_test_output/
+output*/
+temp_*
 
-# 解析结果（可选）
-Files/structured_docs/
-Files/single_file_output/
+# 备份文件
+*.bak
+*.backup
+*~
+*.swp
+*.swo
 
-# Files directory - exclude everything except examples
+# Files 目录 - 仅保留 examples
 Files/*
 !Files/examples/
+!Files/examples/**
 
-# Parsed docs - exclude everything except examples
+# 解析结果目录 - 仅保留 examples
 parsed_docs/*
 !parsed_docs/examples/
+!parsed_docs/examples/**
+
+# 其他输出目录
+results/
+parsed_results/
+single_files/
+structured_docs/
+single_file_output/
+
+# ------------------------------------------------------------------------------
+# 开发环境和编辑器
+# ------------------------------------------------------------------------------
 
 # VS Code
 .vscode/
 
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------------------------------------------------------------
+# 操作系统
+# ------------------------------------------------------------------------------
+
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
 
 # Windows
 Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ------------------------------------------------------------------------------
+# 媒体和文档文件（保留示例）
+# ------------------------------------------------------------------------------
+
+# 文档文件（除示例外）
+*.pdf
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+# 例外：保留示例文件
+!Files/examples/*.docx
+!Files/examples/*.doc
+!Files/examples/*.pdf
+
+# 媒体文件（除示例外）
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.ico
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+# 例外：保留示例图片
+!Files/examples/*.jpg
+!Files/examples/*.jpeg
+!Files/examples/*.png
+!Files/examples/*.gif
+!parsed_docs/examples/*.jpg
+!parsed_docs/examples/*.jpeg
+!parsed_docs/examples/*.png
+!parsed_docs/examples/*.gif
+
+# 压缩文件
+*.zip
+*.tar.gz
+*.rar
+*.7z
