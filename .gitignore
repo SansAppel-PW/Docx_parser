@@ -29,13 +29,16 @@ test_*_output/
 quick_test_output/
 
 # 解析结果（可选）
-parsed_docs/
 Files/structured_docs/
 Files/single_file_output/
 
 # Files directory - exclude everything except examples
 Files/*
 !Files/examples/
+
+# Parsed docs - exclude everything except examples
+parsed_docs/*
+!parsed_docs/examples/
 
 # VS Code
 .vscode/
