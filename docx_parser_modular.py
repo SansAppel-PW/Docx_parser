@@ -24,6 +24,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
 from src.parsers.document_parser import parse_docx
 from src.parsers.batch_processor import process_docx_folder
+from src.processors.text_processor import process_document_to_text
 from src.utils.text_utils import safe_filename
 
 # 配置日志
@@ -74,6 +75,22 @@ def main():
             json_path = os.path.join(output_dir, "document.json")
             with open(json_path, "w", encoding="utf-8") as f:
                 json.dump(document_structure, f, ensure_ascii=False, indent=2)
+            
+            # 处理为标准化文本格式
+            try:
+                # 从文件名提取文档名称
+                doc_name = safe_name
+                processed_text = process_document_to_text(document_structure, doc_name)
+                
+                # 保存处理后的文本
+                text_path = os.path.join(output_dir, "processed_text.txt")
+                with open(text_path, "w", encoding="utf-8") as f:
+                    f.write(processed_text)
+                
+                logger.info(f"标准化文本已保存到: {text_path}")
+                
+            except Exception as e:
+                logger.error(f"文本处理失败: {e}")
             
             # 统计信息
             total_images = len(document_structure.get("images", {}))

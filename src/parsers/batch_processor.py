@@ -8,6 +8,7 @@ import logging
 import traceback
 from datetime import datetime
 from src.parsers.document_parser import parse_docx
+from src.processors.text_processor import process_document_to_text
 from src.utils.text_utils import safe_filename, add_error_to_failed_files
 
 logger = logging.getLogger(__name__)
@@ -111,6 +112,23 @@ def process_docx_folder(input_folder, output_base_dir, quick_mode=True):
                 processed_count -= 1
                 add_error_to_failed_files(failed_files, filename, f"JSON save failed: {e}")
                 continue
+            
+            # 处理为标准化文本格式
+            try:
+                # 从文件名提取文档名称
+                doc_name = safe_name
+                processed_text = process_document_to_text(document_structure, doc_name)
+                
+                # 保存处理后的文本
+                text_path = os.path.join(output_dir, "processed_text.txt")
+                with open(text_path, "w", encoding="utf-8") as f:
+                    f.write(processed_text)
+                
+                logger.info(f"文件 {filename} 的标准化文本已保存")
+                
+            except Exception as e:
+                logger.error(f"文件 {filename} 文本处理失败: {e}")
+                # 文本处理失败不影响整体处理状态
             
             # 添加到汇总列表
             all_documents.append({
