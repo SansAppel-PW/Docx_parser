@@ -117,7 +117,7 @@ def process_docx_folder(input_folder, output_base_dir, quick_mode=True):
             try:
                 # 从文件名提取文档名称
                 doc_name = safe_name
-                processed_text = process_document_to_text(document_structure, doc_name)
+                processed_text = process_document_to_text(document_structure, doc_name, output_dir)
                 
                 # 保存处理后的文本
                 text_path = os.path.join(output_dir, "processed_text.txt")

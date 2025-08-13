@@ -41,7 +41,6 @@ def convert_emf_to_png(emf_data, output_dir, object_id, quick_mode=True):
             # 基于内容生成哈希命名，避免重复文件
             import hashlib
             content_hash = hashlib.sha256(emf_data).hexdigest()[:16]
-            logger.info(f"EMF数据大小: {len(emf_data)}, 哈希: {content_hash}")
             emf_filename = f"embedded_preview_embedded_obj_{content_hash}.emf"
             final_emf_path = os.path.join(images_dir, emf_filename)
             

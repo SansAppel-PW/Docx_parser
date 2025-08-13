@@ -20,14 +20,16 @@ class DocumentProcessor:
     def __init__(self):
         self.processed_sections = []
         self.image_counter = 0
+        self.output_dir = ""  # 添加输出目录属性
         
-    def process_document(self, document_structure: Dict[str, Any], document_name: str) -> str:
+    def process_document(self, document_structure: Dict[str, Any], document_name: str, output_dir: str = "") -> str:
         """
         处理完整文档，返回最终的文本格式
         
         Args:
             document_structure: 解析得到的JSON结构
             document_name: 文档名称
+            output_dir: 输出目录路径，用于生成绝对路径
             
         Returns:
             str: 处理后的标准化文本
@@ -35,6 +37,7 @@ class DocumentProcessor:
         try:
             self.processed_sections = []
             self.image_counter = 0
+            self.output_dir = output_dir  # 设置输出目录
             
             # 获取文档的sections
             sections = document_structure.get("sections", [])
@@ -485,12 +488,12 @@ class DocumentProcessor:
             if item_type == "paragraph":
                 text = item.get("text", "").strip()
                 if text:
-                    return f"<|PARAGRAPH|>{text}<|/PARAGRAPH|>\n"
+                    return f"<|PARAGRAPH|>{text}</|PARAGRAPH|>\n"
             
             elif item_type == "list_item":
                 text = item.get("text", "").strip()
                 if text:
-                    return f"<|LISTITEM|>{text}<|/LISTITEM|>\n"
+                    return f"<|LISTITEM|>{text}</|LISTITEM|>\n"
             
             elif item_type == "table":
                 tbl = self._process_table(item)
@@ -552,12 +555,12 @@ class DocumentProcessor:
                     if j == 0:
                         first_col_val = text
                     if j < len(headers) and headers[j]:
-                        formatted_cell = f"[{headers[j]}:{text}]"
+                        formatted_cell = f"{headers[j]}:{text}"
                     else:
-                        formatted_cell = f"[列{j+1}:{text}]"
+                        formatted_cell = f"列{j+1}:{text}"
                     row_data.append(formatted_cell)
                 if row_data:
-                    row_markup = f"<|ROW|>{'|'.join(row_data)}<|/ROW|>"
+                    row_markup = f"<|ROW|>|{'|'.join(row_data)}|</|ROW|>"
                     row_entries.append((first_col_val, row_markup))
 
             # 基于首列值连续相同分组 -> RSPAN，并应用层级缩进：
@@ -593,21 +596,47 @@ class DocumentProcessor:
     
     def _process_image(self, image_item: Dict[str, Any]) -> str:
         """
-        处理图片，转换为Markdown格式
+        处理图片，转换为标准化格式，使用绝对路径
         """
         try:
             # 从图片项中获取信息
             image_path = image_item.get("path", "")
             image_url = image_item.get("url", "")
             
-            # 优先使用相对路径
-            if image_path:
-                return f"![image]({image_path})"
-            elif image_url:
-                return f"![image]({image_url})"
+            # 生成绝对路径
+            if image_url:
+                # 使用url字段（这是主要的图片路径）
+                if os.path.isabs(image_url):
+                    abs_path = image_url
+                else:
+                    # 转换为绝对路径
+                    if self.output_dir:
+                        abs_path = os.path.abspath(os.path.join(self.output_dir, image_url))
+                    else:
+                        abs_path = os.path.abspath(image_url)
+                image_info = f"![image]({abs_path})"
+            elif image_path:
+                # 备用的path字段
+                if os.path.isabs(image_path):
+                    abs_path = image_path
+                else:
+                    # 转换为绝对路径
+                    if self.output_dir:
+                        abs_path = os.path.abspath(os.path.join(self.output_dir, image_path))
+                    else:
+                        abs_path = os.path.abspath(image_path)
+                image_info = f"![image]({abs_path})"
             else:
                 self.image_counter += 1
-                return f"![image](./images/image_{self.image_counter:03d}.png)"
+                # 生成默认图片的绝对路径
+                if self.output_dir:
+                    abs_path = os.path.abspath(os.path.join(self.output_dir, f"images/image_{self.image_counter:03d}.png"))
+                else:
+                    abs_path = os.path.abspath(f"./images/image_{self.image_counter:03d}.png")
+                image_info = f"![image]({abs_path})"
+            
+            # 使用IMAGE标签包裹
+            return f"<|IMAGE|>{image_info}</|IMAGE|>"
                 
         except Exception as e:
             logger.error(f"处理图片时发生错误: {e}")
@@ -625,12 +654,12 @@ class DocumentProcessor:
                 continue
             # 遇到非 paragraph，先输出累积的段落
             if buffer:
-                yield f"<|PARAGRAPH|>{' '.join(buffer)}<|/PARAGRAPH|>"
+                yield f"<|PARAGRAPH|>{' '.join(buffer)}</|PARAGRAPH|>"
                 buffer = []
             # 处理当前项目
             yield self._process_content_item(item)
         if buffer:
-            yield f"<|PARAGRAPH|>{' '.join(buffer)}<|/PARAGRAPH|>"
+            yield f"<|PARAGRAPH|>{' '.join(buffer)}</|PARAGRAPH|>"
 
     def _flatten_subsections(self, subsections: List[Dict[str, Any]]) -> List[tuple]:
         r"""将多级 subsection 展平为 (subsection_obj, 编号) 列表。
@@ -689,16 +718,17 @@ class DocumentProcessor:
         return False
 
 
-def process_document_to_text(document_structure: Dict[str, Any], document_name: str) -> str:
+def process_document_to_text(document_structure: Dict[str, Any], document_name: str, output_dir: str = "") -> str:
     """
     将解析得到的文档结构转换为标准化文本格式
     
     Args:
         document_structure: 解析得到的JSON结构
         document_name: 文档名称（不包含扩展名）
+        output_dir: 输出目录路径，用于生成绝对路径
         
     Returns:
         str: 处理后的标准化文本
     """
     processor = DocumentProcessor()
-    return processor.process_document(document_structure, document_name)
+    return processor.process_document(document_structure, document_name, output_dir)

@@ -3,21 +3,35 @@
 DOCX解析器 - 模块化版本
 高性能的Word文档解析工具，支持提取文本、图片、SmartArt和嵌入对象
 
+功能特点:
+- 模块化架构，易于维护和扩展
+- 支持单文件和批量处理
+- 智能内容去重和路径处理
+- 标准化文本输出格式
+- 自动默认路径处理
+
 使用方法:
+    # 使用默认示例文件
+    python docx_parser_modular.py
+    
     # 处理单个文件
     python docx_parser_modular.py Files/example.docx
     
     # 批量处理文件夹
     python docx_parser_modular.py Files/PLM2.0
     
-    # 快速测试
-    python quick_parse_example.py
+    # 指定输出目录
+    python docx_parser_modular.py Files/example.docx output_folder
+
+版本: 2.0
+作者: DOCX Parser Team
 """
 
 import sys
 import os
 import json
 import logging
+from typing import Optional
 
 # 添加src目录到Python路径
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
@@ -38,13 +52,37 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-def main():
-    """主函数"""
-    # 示例使用 - 可以处理单个文件或批量处理文件夹
-    if len(sys.argv) > 1:
+def main() -> None:
+    """
+    主函数，处理命令行参数并执行相应的解析操作
+    
+    支持的参数模式:
+    - 无参数: 使用默认示例文件
+    - 1个参数: 输入文件/文件夹路径
+    - 2个参数: 输入路径和输出目录
+    """
+    # 处理命令行参数
+    if len(sys.argv) == 1:
+        # 没有任何参数，使用默认路径
+        input_path = "Files/examples"
+        custom_output_dir = None
+        print(f"未指定输入路径，使用默认路径: {input_path}")
+    elif len(sys.argv) == 2:
+        # 只给出输入路径，输出到默认的parsed_docs目录
         input_path = sys.argv[1]
+        custom_output_dir = "parsed_docs"
+        print(f"未指定输出路径，将保存到: {custom_output_dir}")
+    elif len(sys.argv) == 3:
+        # 给出输入和输出路径
+        input_path = sys.argv[1]
+        custom_output_dir = sys.argv[2]
     else:
-        input_path = "Files/PLM2.0"  # 默认DOCX文件夹路径
+        print("用法: python docx_parser_modular.py [输入路径] [输出路径]")
+        print("示例: python docx_parser_modular.py                          # 默认处理 Files/examples")
+        print("示例: python docx_parser_modular.py demo.docx                # 输出到 parsed_docs/")
+        print("示例: python docx_parser_modular.py demo.docx my_output/     # 自定义输出路径")
+        print("示例: python docx_parser_modular.py Files/PLM2.0/            # 批量处理到 parsed_docs/")
+        sys.exit(1)
     
     # 检查输入路径是否存在
     if not os.path.exists(input_path):
@@ -61,7 +99,17 @@ def main():
         # 为单个文件创建输出目录
         file_basename = os.path.splitext(os.path.basename(input_path))[0]
         safe_name = safe_filename(file_basename)
-        output_dir = f"parsed_docs/single_files/{safe_name}"
+        
+        if custom_output_dir == "parsed_docs":
+            # 只给出输入路径的情况，使用parsed_docs作为根目录
+            output_dir = os.path.join("parsed_docs", safe_name)
+        elif custom_output_dir:
+            # 给出自定义输出路径
+            output_dir = os.path.join(custom_output_dir, safe_name)
+        else:
+            # 完全默认的情况（这应该不会发生，因为我们上面设置了默认值）
+            output_dir = f"parsed_docs/single_files/{safe_name}"
+        
         os.makedirs(output_dir, exist_ok=True)
         
         logger.info(f"开始处理单个文件: {input_path}")
@@ -80,7 +128,7 @@ def main():
             try:
                 # 从文件名提取文档名称
                 doc_name = safe_name
-                processed_text = process_document_to_text(document_structure, doc_name)
+                processed_text = process_document_to_text(document_structure, doc_name, output_dir)
                 
                 # 保存处理后的文本
                 text_path = os.path.join(output_dir, "processed_text.txt")
@@ -114,7 +162,16 @@ def main():
         # 批量处理文件夹
         # 创建与输入文件夹对应的输出目录
         folder_name = os.path.basename(input_path.rstrip('/'))
-        output_base_dir = f"parsed_docs/{folder_name}_parsed"  # 输出目录
+        
+        if custom_output_dir == "parsed_docs":
+            # 只给出输入路径的情况，使用parsed_docs作为根目录
+            output_base_dir = os.path.join("parsed_docs", f"{folder_name}_parsed")
+        elif custom_output_dir:
+            # 给出自定义输出路径
+            output_base_dir = os.path.join(custom_output_dir, f"{folder_name}_parsed")
+        else:
+            # 完全默认的情况（这应该不会发生，因为我们上面设置了默认值）
+            output_base_dir = f"parsed_docs/{folder_name}_parsed"
         
         logger.info(f"开始批量处理文件夹: {input_path}")
         logger.info(f"输出目录: {output_base_dir}")

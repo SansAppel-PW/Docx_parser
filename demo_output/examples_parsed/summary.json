@@ -1,0 +1,21 @@
+{
+  "input_folder": "Files/examples",
+  "processing_timestamp": "2025-08-13 11:00:19",
+  "total_files": 1,
+  "processed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "failed_files": [],
+  "skipped_files": [],
+  "documents": [
+    {
+      "file": "demo.docx",
+      "path": "demo_output/examples_parsed/demo/document.json",
+      "status": "success",
+      "images_found": 0,
+      "warnings": 0,
+      "errors": 0
+    }
+  ],
+  "success_rate": "100.0%"
+}

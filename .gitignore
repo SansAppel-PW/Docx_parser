@@ -85,10 +85,17 @@ Files/*
 !Files/examples/
 !Files/examples/**
 
-# 解析结果目录 - 仅保留 examples
+# 解析结果目录 - 仅保留 examples 
 parsed_docs/*
 !parsed_docs/examples/
 !parsed_docs/examples/**
+
+# 演示输出目录 - 仅保留 examples
+demo_output/*
+!demo_output/examples/
+!demo_output/examples/**
+!demo_output/examples_parsed/
+!demo_output/examples_parsed/**
 
 # 其他输出目录
 results/
@@ -96,6 +103,11 @@ parsed_results/
 single_files/
 structured_docs/
 single_file_output/
+
+# 调试和临时目录
+debug_*/
+custom_test/
+test_output/
 
 # ------------------------------------------------------------------------------
 # 开发环境和编辑器

@@ -1610,11 +1610,17 @@ def process_docx_folder(input_folder, output_base_dir, quick_mode=True):
     return processed_count
 
 if __name__ == "__main__":
-    # 示例使用 - 可以处理单个文件或批量处理文件夹
-    if len(sys.argv) > 1:
-        input_path = sys.argv[1]
-    else:
-        input_path = "Files/PLM2.0"  # 默认DOCX文件夹路径
+    # 检查命令行参数
+    if len(sys.argv) < 2:
+        print("用法: python docx_parser.py <输入路径> [输出路径]")
+        print("示例: python docx_parser.py demo.docx")
+        print("示例: python docx_parser.py demo.docx my_output/")
+        print("示例: python docx_parser.py Files/PLM2.0/")
+        print("示例: python docx_parser.py Files/PLM2.0/ my_batch_output/")
+        sys.exit(1)
+    
+    input_path = sys.argv[1]
+    custom_output_dir = sys.argv[2] if len(sys.argv) > 2 else None
     
     # 检查输入路径是否存在
     if not os.path.exists(input_path):
@@ -1631,7 +1637,14 @@ if __name__ == "__main__":
         # 为单个文件创建输出目录
         file_basename = os.path.splitext(os.path.basename(input_path))[0]
         safe_name = safe_filename(file_basename)
-        output_dir = f"parsed_docs/single_files/{safe_name}"
+        
+        if custom_output_dir:
+            # 使用自定义输出路径
+            output_dir = os.path.join(custom_output_dir, safe_name)
+        else:
+            # 使用默认输出路径
+            output_dir = f"parsed_docs/single_files/{safe_name}"
+        
         os.makedirs(output_dir, exist_ok=True)
         
         logger.info(f"开始处理单个文件: {input_path}")
@@ -1668,7 +1681,13 @@ if __name__ == "__main__":
         # 批量处理文件夹
         # 创建与输入文件夹对应的输出目录
         folder_name = os.path.basename(input_path.rstrip('/'))
-        output_base_dir = f"parsed_docs/{folder_name}_parsed_without_modular"  # 输出目录
+        
+        if custom_output_dir:
+            # 使用自定义输出路径
+            output_base_dir = os.path.join(custom_output_dir, f"{folder_name}_parsed")
+        else:
+            # 使用默认输出路径
+            output_base_dir = f"parsed_docs/{folder_name}_parsed_without_modular"
         
         logger.info(f"开始批量处理文件夹: {input_path}")
         logger.info(f"输出目录: {output_base_dir}")

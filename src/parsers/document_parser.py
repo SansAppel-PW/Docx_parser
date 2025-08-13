@@ -1,5 +1,17 @@
 """
 文档解析器核心模块
+
+本模块提供DOCX文档解析的核心功能，包括:
+- 文档元数据提取
+- 内容结构解析
+- 图片和嵌入对象处理
+- 模块化内容提取
+
+功能特点:
+- 高性能解析引擎
+- 智能内容识别
+- 文件去重机制
+- 标准化输出格式
 """
 
 import os
@@ -10,7 +22,10 @@ import shutil
 import traceback
 from datetime import datetime
 from collections import defaultdict, deque
+from typing import Dict, Any, Optional, Tuple
+
 from docx import Document
+from docx.document import Document as DocumentType
 from docx.text.paragraph import Paragraph
 from docx.table import Table
 
@@ -23,8 +38,17 @@ from src.parsers.table_parser import parse_table
 
 logger = logging.getLogger(__name__)
 
-def extract_metadata(doc, docx_path):
-    """提取文档元数据"""
+def extract_metadata(doc: DocumentType, docx_path: str) -> Dict[str, Any]:
+    """
+    提取文档元数据
+    
+    Args:
+        doc: DOCX文档对象
+        docx_path: 文档文件路径
+        
+    Returns:
+        Dict[str, Any]: 包含文档元数据的字典
+    """
     try:
         core_props = doc.core_properties
         return {
