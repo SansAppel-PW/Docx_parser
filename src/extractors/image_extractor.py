@@ -68,14 +68,17 @@ def extract_images_from_xml(xml_str, doc_part, images_dir, image_references, con
                 elif 'tiff' in content_type:
                     img_format = "tiff"
             
-            # 生成唯一图片ID
-            image_id = f"img_{uuid.uuid4().hex[:8]}"
+            # 用内容hash命名，避免重复
+            import hashlib
+            image_hash = hashlib.sha256(image_data).hexdigest()[:16]
+            image_id = f"img_{image_hash}"
             img_filename = f"{image_id}.{img_format}"
             image_path = os.path.join(images_dir, img_filename)
             
-            # 保存图片
-            with open(image_path, "wb") as img_file:
-                img_file.write(image_data)
+            # 保存图片（如已存在则跳过）
+            if not os.path.exists(image_path):
+                with open(image_path, "wb") as img_file:
+                    img_file.write(image_data)
             
             # 获取图片尺寸
             width, height = get_image_dimensions(image_data)

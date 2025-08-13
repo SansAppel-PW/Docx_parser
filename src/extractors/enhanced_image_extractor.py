@@ -55,14 +55,17 @@ def extract_all_images_from_docx(docx_path, images_dir):
                     elif not ext_part:
                         ext_part = '.png'  # 默认PNG
                     
-                    # 生成唯一文件名
-                    image_id = f"img_{uuid.uuid4().hex[:8]}"
+                    # 用内容hash命名，避免重复
+                    import hashlib
+                    image_hash = hashlib.sha256(image_data).hexdigest()[:16]
+                    image_id = f"img_{image_hash}"
                     img_filename = f"{image_id}{ext_part}"
                     image_path = os.path.join(images_dir, img_filename)
                     
-                    # 保存图片
-                    with open(image_path, 'wb') as img_file:
-                        img_file.write(image_data)
+                    # 保存图片（如已存在则跳过）
+                    if not os.path.exists(image_path):
+                        with open(image_path, 'wb') as img_file:
+                            img_file.write(image_data)
                     
                     # 获取图片大小
                     file_size = len(image_data)

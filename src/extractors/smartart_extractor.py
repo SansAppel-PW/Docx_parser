@@ -87,6 +87,7 @@ def extract_smartart_details(graphic_data, doc_part, output_dir, namespaces):
         }
         
         # 提取数据模型中的文本内容
+        data_xml = ""  # 初始化变量
         if dm_rel_id and dm_rel_id in doc_part.related_parts:
             logger.info(f"找到数据模型关系: {dm_rel_id}")
             data_part = doc_part.related_parts[dm_rel_id]
@@ -105,8 +106,13 @@ def extract_smartart_details(graphic_data, doc_part, output_dir, namespaces):
             if diagram_type:
                 smartart_data["diagram_type"] = diagram_type
         
-        # 生成唯一ID
-        smartart_id = f"smartart_{uuid.uuid4().hex[:8]}"
+        # 用内容hash命名，避免重复
+        import hashlib
+        if data_xml:  # 确保有数据才生成hash
+            smartart_hash = hashlib.sha256(data_xml.encode('utf-8')).hexdigest()[:16]
+        else:
+            smartart_hash = f"empty_{uuid.uuid4().hex[:8]}"
+        smartart_id = f"smartart_{smartart_hash}"
         smartart_data["id"] = smartart_id
         
         # 保存原始数据到文件（可选）
@@ -114,8 +120,9 @@ def extract_smartart_details(graphic_data, doc_part, output_dir, namespaces):
         os.makedirs(smartart_dir, exist_ok=True)
         
         smartart_file = os.path.join(smartart_dir, f"{smartart_id}.json")
-        with open(smartart_file, 'w', encoding='utf-8') as f:
-            json.dump(smartart_data, f, ensure_ascii=False, indent=2)
+        if not os.path.exists(smartart_file):
+            with open(smartart_file, 'w', encoding='utf-8') as f:
+                json.dump(smartart_data, f, ensure_ascii=False, indent=2)
         
         smartart_data["file_path"] = f"smartart/{smartart_id}.json"
         
@@ -352,24 +359,30 @@ def extract_embedded_objects_from_xml(xml_str, doc_part, output_dir, context="",
                         "content_type": getattr(embedded_part, 'content_type', 'unknown')
                     }
                 
-                # 生成唯一ID
-                object_id = f"embedded_obj_{uuid.uuid4().hex[:8]}"
-                
-                # 创建嵌入对象节点
-                embedded_obj = {
+                # 创建嵌入对象节点（先不设置id和context，用于生成稳定的哈希）
+                stable_obj = {
                     "type": "embedded_object",
                     "object_type": object_type,
                     "description": object_description,
                     "prog_id": prog_id,
                     "ole_type": ole_type,
                     "width": width,
-                    "height": height,
-                    "context": context,
-                    "id": object_id
+                    "height": height
                 }
                 
                 if embedded_file_info:
-                    embedded_obj["file_info"] = embedded_file_info
+                    stable_obj["file_info"] = embedded_file_info
+                
+                # 生成基于稳定内容的哈希ID，用于文件命名（不包含变化的context）
+                import hashlib
+                stable_obj_str = json.dumps(stable_obj, sort_keys=True)
+                content_hash = hashlib.sha256(stable_obj_str.encode('utf-8')).hexdigest()[:16]
+                object_id = f"embedded_obj_{content_hash}"
+                
+                # 创建完整的嵌入对象节点（包含context和id）
+                embedded_obj = stable_obj.copy()
+                embedded_obj["context"] = context
+                embedded_obj["id"] = object_id
                 
                 # 提取并保存预览图像
                 preview_image_path = None
@@ -384,11 +397,13 @@ def extract_embedded_objects_from_xml(xml_str, doc_part, output_dir, context="",
                 objects_dir = os.path.join(output_dir, "embedded_objects")
                 os.makedirs(objects_dir, exist_ok=True)
                 
-                object_file = os.path.join(objects_dir, f"{object_id}.json")
-                with open(object_file, 'w', encoding='utf-8') as f:
-                    json.dump(embedded_obj, f, ensure_ascii=False, indent=2)
+                # 使用已生成的content_hash命名文件
+                object_file = os.path.join(objects_dir, f"object_{content_hash}.json")
+                if not os.path.exists(object_file):
+                    with open(object_file, 'w', encoding='utf-8') as f:
+                        json.dump(embedded_obj, f, ensure_ascii=False, indent=2)
                 
-                embedded_obj["file_path"] = f"embedded_objects/{object_id}.json"
+                embedded_obj["file_path"] = f"embedded_objects/object_{content_hash}.json"
                 
                 embedded_objects.append(embedded_obj)
                 logger.info(f"提取嵌入对象成功: {object_description} ({width} x {height})")

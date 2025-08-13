@@ -37,8 +37,18 @@ def convert_emf_to_png(emf_data, output_dir, object_id, quick_mode=True):
         # 快速模式：直接保存原格式，跳过转换
         if quick_mode:
             logger.info("快速模式：直接保存EMF文件，跳过转换")
-            emf_filename = f"embedded_preview_{object_id}.emf"
+            
+            # 基于内容生成哈希命名，避免重复文件
+            import hashlib
+            content_hash = hashlib.sha256(emf_data).hexdigest()[:16]
+            logger.info(f"EMF数据大小: {len(emf_data)}, 哈希: {content_hash}")
+            emf_filename = f"embedded_preview_embedded_obj_{content_hash}.emf"
             final_emf_path = os.path.join(images_dir, emf_filename)
+            
+            # 检查文件是否已存在，避免重复写入
+            if os.path.exists(final_emf_path):
+                logger.info(f"EMF文件已存在，跳过: {emf_filename}")
+                return f"images/{emf_filename}"
             
             try:
                 with open(final_emf_path, "wb") as f:
@@ -50,9 +60,13 @@ def convert_emf_to_png(emf_data, output_dir, object_id, quick_mode=True):
                 return None
         
         # 以下是原有的转换逻辑（在非快速模式下执行）
+        # 基于内容生成哈希命名，避免重复文件
+        import hashlib
+        content_hash = hashlib.sha256(emf_data).hexdigest()[:16]
+        
         # 创建临时EMF文件
         try:
-            temp_emf_path = os.path.join(output_dir, f"temp_{object_id}.emf")
+            temp_emf_path = os.path.join(output_dir, f"temp_{content_hash}.emf")
             with open(temp_emf_path, "wb") as f:
                 f.write(emf_data)
             
@@ -66,8 +80,17 @@ def convert_emf_to_png(emf_data, output_dir, object_id, quick_mode=True):
             return None
         
         # 输出PNG路径
-        png_filename = f"embedded_preview_{object_id}.png"
+        png_filename = f"embedded_preview_embedded_obj_{content_hash}.png"
         png_path = os.path.join(images_dir, png_filename)
+        
+        # 检查PNG文件是否已存在，避免重复转换
+        if os.path.exists(png_path):
+            logger.info(f"PNG文件已存在，跳过转换: {png_filename}")
+            try:
+                os.remove(temp_emf_path)  # 清理临时文件
+            except:
+                pass
+            return f"images/{png_filename}"
         
         # 方法1: 使用 PIL 读取基本信息并尝试转换（限时5秒）
         use_timeout = False
