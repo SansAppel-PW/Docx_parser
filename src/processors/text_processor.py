@@ -358,10 +358,10 @@ class DocumentProcessor:
             
             for part in self._iterate_merged_content(content):
                 if part:
-                    content_parts.append(part)
+                    content_parts.append(part.strip())
             
             if content_parts:
-                return section_title + "\n" + " ".join(content_parts)
+                return section_title + "\n" + "\n".join(content_parts)
             else:
                 return section_title
                 
@@ -380,10 +380,10 @@ class DocumentProcessor:
             
             for part in self._iterate_merged_content(content):
                 if part:
-                    content_parts.append(part)
+                    content_parts.append(part.strip())
             
             if content_parts:
-                return section_title + "\n" + " ".join(content_parts)
+                return section_title + "\n" + "\n".join(content_parts)
             else:
                 return section_title
                 
@@ -425,11 +425,11 @@ class DocumentProcessor:
                 content_parts = []
                 for part in self._iterate_merged_content(content):
                     if part:
-                        # 直接内容保持单行形式
-                        content_parts.append(part)
+                        # 表格和图片需要换行分隔，段落内容保持单行形式
+                        content_parts.append(part.strip())
                 
                 if content_parts:
-                    return section_title + "\n" + " ".join(content_parts)
+                    return section_title + "\n" + "\n".join(content_parts)
                 else:
                     return section_title
                     
@@ -462,6 +462,7 @@ class DocumentProcessor:
             for part in self._iterate_merged_content(subsection_content):
                 if part:
                     # _iterate_merged_content 可能返回多行（如表格），直接拆分
+                    part = part.strip()
                     for ln in part.splitlines():
                         if ln.strip():
                             lines.append(ln.rstrip())
@@ -497,11 +498,11 @@ class DocumentProcessor:
             
             elif item_type == "table":
                 tbl = self._process_table(item)
-                return tbl + ("\n" if tbl else "")
+                return "\n" + tbl + "\n" if tbl else ""
             
             elif item_type == "image":
                 img = self._process_image(item)
-                return img + ("\n" if img else "")
+                return "\n" + img + "\n" if img else ""
             
             return ""
             
